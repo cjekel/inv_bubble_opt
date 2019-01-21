@@ -201,28 +201,25 @@ def calc_obj_function(x):
         # run the finite element model
         val = run_model()
         if val == 0:
-            suc = True
-        else:
-            suc = False
-        while suc is True:
             # check the status file to ensure the FE model was successful
             suc = read_sta()
+        else:
+            suc = False
+        if suc is True:
             # export the csv files of node displacements
             val = export_csv_files()
             if val == 0:
                 suc = True
-            else:
-                suc = False
-            # read the csv files of node displacements
-            X, Disp = read_csv_files(save=False)
-            # fit interpolation model
-            my_int = Interpolate(X, Disp)
-            dx_delta, dy_delta, dz_delta = my_int.calc_delta(Xdata[:, :, :2],
-                                                             Xdata[:, 0, 2],
-                                                             Ydata)
-            delete_files()
-            return dx_delta.sum() + dy_delta.sum() + dz_delta.sum()
-        if suc is False:
+                # read the csv files of node displacements
+                X, Disp = read_csv_files(save=False)
+                # fit interpolation model
+                my_int = Interpolate(X, Disp)
+                dx_delta, dy_delta, dz_delta = my_int.calc_delta(Xdata[:, :, :2],
+                                                                Xdata[:, 0, 2],
+                                                                Ydata)
+                delete_files()
+                return dx_delta.sum() + dy_delta.sum() + dz_delta.sum()
+        else:
             delete_files()
             return max_obj
     except:
