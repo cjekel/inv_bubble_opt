@@ -1892,8 +1892,8 @@ _Surf-1_SNEG, SNEG
 ** 
 *Material, name=Material-1
 *Elastic, type=ENGINEERING CONSTANTS
- 0.8,      0.15,      0.15,      0.24,      0.24,      0.24,     0.025,     0.025
- 0.0604839,
+ 0.8,      0.15,      0.15,      0.24,      0.24,      0.24,      0.025,      0.025
+ 0.06048387096774193,
 ** 
 ** BOUNDARY CONDITIONS
 ** 

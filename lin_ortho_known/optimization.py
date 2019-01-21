@@ -19,7 +19,7 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
-
+import os
 
 def write_material_model(x):
     with open('model/model_template.inp', 'r') as d:
@@ -32,5 +32,14 @@ def write_material_model(x):
             f.write(data)
 
 
+def run_model():
+    abqcommand = 'abq2018 job=model/model interactive cpus=1 ask_delete=OFF'
+    val = os.system(abqcommand)
+    # on linux val == 0 when success
+    return val
+
+
 x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
 write_material_model(x)
+
+run_model()
