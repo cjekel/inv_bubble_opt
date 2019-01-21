@@ -232,6 +232,7 @@ def calc_obj_function(x):
 
 # Known material model: x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
 # known data
+delete_files()
 Xdata = np.load('xy_model.npy')
 Ydata = np.load('disp_values.npy')
 x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
