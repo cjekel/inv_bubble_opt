@@ -180,7 +180,6 @@ def read_csv_files(save=False):
         # save files
         np.save('xy_model.npy', X)
         np.save('disp_values.npy', node_values)
-    
     return X, node_values
 
 
@@ -218,7 +217,9 @@ def calc_obj_function(x):
             X, Disp = read_csv_files(save=False)
             # fit interpolation model
             my_int = Interpolate(X, Disp)
-            dx_delta, dy_delta, dz_delta = my_int.calc_delta(X[s1, :, :2], X[s1, 0, 2], Y[s1])
+            dx_delta, dy_delta, dz_delta = my_int.calc_delta(Xdata[:, :, :2],
+                                                             Xdata[:, 0, 2],
+                                                             Ydata)
             delete_files()
             return dx_delta.sum() + dy_delta.sum() + dz_delta.sum()
         if suc is False:
@@ -230,6 +231,10 @@ def calc_obj_function(x):
 
 
 # Known material model: x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
+# known data
+Xdata = np.load('xy_model.npy')
+Ydata = np.load('disp_values.npy')
 x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
 max_obj = 1000.0
 obj = calc_obj_function(x)
+print(obj)
