@@ -1,3 +1,6 @@
+# abaqus replay files
+*.rpy*
+
 # vscode
 .vscode
 
