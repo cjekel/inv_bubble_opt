@@ -203,6 +203,7 @@ class BubbleOpt(object):
         self.run = 0
         self.mydf = pd.DataFrame(data=None, index=None, columns=header,
                                  dtype=np.float)
+        self.header = header
         self.Xdata = np.load(xdata_fn)
         self.Ydata = np.load(ydata_fn)
 
@@ -258,10 +259,8 @@ if __name__ == "__main__":
     # Known material model: x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
     x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
     delete_files()
-    Xdata = np.load()
-    Ydata = np.load()
     max_obj = 1000.0
-    opt_hist_file = '~/my_history.csv'
+    opt_hist_file = '~/my_sqp_history.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = BubbleOpt(opt_hist_file, header, max_obj, 'xy_model.npy',
                        'disp_values.npy')
