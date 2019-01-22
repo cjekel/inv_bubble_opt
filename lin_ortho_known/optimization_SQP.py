@@ -118,7 +118,7 @@ def write_material_model(x):
 
 
 def run_model():
-    abqcommand = 'abq2018 job=model interactive cpus=1 ask_delete=OFF'
+    abqcommand = 'abq job=model interactive cpus=1 ask_delete=OFF'
     val = os.system(abqcommand)
     # on linux val == 0 when success
     return val
