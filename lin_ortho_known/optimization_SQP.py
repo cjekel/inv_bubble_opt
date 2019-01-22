@@ -275,5 +275,5 @@ if __name__ == "__main__":
     my_bounds[2, 1] = 0.2
 
     res = fmin_slsqp(my_opt.calc_obj_function_abq_data, x_guess,
-                     bounds=my_bounds, iter=2, acc=1e-06, iprint=2,
+                     bounds=my_bounds, iter=19, acc=1e-06, iprint=2,
                      full_output=True, epsilon=1e-5)
