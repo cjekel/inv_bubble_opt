@@ -194,45 +194,76 @@ def delete_files():
             pass
 
 
-def calc_obj_function(x):
-    try:
-        # write the material constants
-        write_material_model(x)
-        # run the finite element model
-        val = run_model()
-        if val == 0:
-            # check the status file to ensure the FE model was successful
-            suc = read_sta()
-        else:
-            suc = False
-        if suc is True:
-            # export the csv files of node displacements
-            val = export_csv_files()
+class BubbleOpt(object):
+
+    def __init__(self, opt_hist_file, header, max_obj, xdata_fn, ydata_fn):
+        # header should be something like E1, E2, G12, OBJ, Fail
+        self.opt_hist_file = opt_hist_file
+        self.max_obj = max_obj
+        self.run = 0
+        self.mydf = pd.DataFrame(data=None, index=None, columns=header,
+                                 dtype=np.float)
+        self.Xdata = np.load(xdata_fn)
+        self.Ydata = np.load(ydata_fn)
+
+    def update_df(self, x, my_obj, suc):
+        # update and save dataframe
+        self.mydf = self.mydf.append([{self.header[0]: x[0],
+                                       self.header[1]: x[1],
+                                       self.header[2]: x[2],
+                                       self.header[3]: my_obj,
+                                       self.header[4]: float(suc)}])
+        self.max_obj = self.mydf.values[:, -2].max()
+        self.mydf.to_csv(self.opt_hist_file)
+        self.run += 1
+
+    def calc_obj_function_abq_data(self, x):
+        try:
+            # write the material constants
+            write_material_model(x)
+            # run the finite element model
+            val = run_model()
             if val == 0:
-                suc = True
-                # read the csv files of node displacements
-                X, Disp = read_csv_files(save=False)
-                # fit interpolation model
-                my_int = Interpolate(X, Disp)
-                dx_delta, dy_delta, dz_delta = my_int.calc_delta(Xdata[:, :, :2],
-                                                                Xdata[:, 0, 2],
-                                                                Ydata)
+                # check the status file to ensure the FE model was successful
+                suc = read_sta()
+            else:
+                suc = False
+            if suc is True:
+                # export the csv files of node displacements
+                val = export_csv_files()
+                if val == 0:
+                    suc = True
+                    # read the csv files of node displacements
+                    X, Disp = read_csv_files(save=False)
+                    # fit interpolation model
+                    my_int = Interpolate(X, Disp)
+                    dx_delta, dy_delta, dz_delta = my_int.calc_delta(self.Xdata[:, :, :2],  # noqa E501
+                                                                     self.Xdata[:, 0, 2],  # noqa E501
+                                                                     self.Ydata)  # noqa E501
+                    delete_files()
+                    my_obj = dx_delta.sum() + dy_delta.sum() + dz_delta.sum()
+                    self.update_df(x, my_obj, suc)
+                    return my_obj
+            else:
                 delete_files()
-                return dx_delta.sum() + dy_delta.sum() + dz_delta.sum()
-        else:
+                self.update_df(x, self.max_obj, suc)
+                return self.max_obj
+        except:
             delete_files()
-            return max_obj
-    except:
-        delete_files()
-        return max_obj
+            self.update_df(x, self.max_obj, False)
+            return self.max_obj
 
 
-# Known material model: x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
-# known data
-delete_files()
-Xdata = np.load('xy_model.npy')
-Ydata = np.load('disp_values.npy')
-x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
-max_obj = 1000.0
-obj = calc_obj_function(x)
-print(obj)
+if __name__ == "__main__":
+    # Known material model: x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
+    x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
+    delete_files()
+    Xdata = np.load()
+    Ydata = np.load()
+    max_obj = 1000.0
+    opt_hist_file = '~/my_history.csv'
+    header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
+    my_opt = BubbleOpt(opt_hist_file, header, max_obj, 'xy_model.npy',
+                       'disp_values.npy')
+    obj = my_opt.calc_obj_function_abq_data(x)
+    print(obj)
