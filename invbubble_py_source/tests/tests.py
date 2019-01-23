@@ -1,6 +1,7 @@
 import numpy as np
 import unittest
 import invbubble
+from pathlib import Path
 
 
 class TestAll(unittest.TestCase):
@@ -74,7 +75,8 @@ class TestAll(unittest.TestCase):
         # dx_delta01, dy_delta01, dz_delta01 = my_int.calc_delta_test(blue01[:, 0], blue01[:, 1])
         # dx_delta02, dy_delta02, dz_delta02 = my_int.calc_delta_test(blue02[:, 0], blue02[:, 1])
         # dx_delta03, dy_delta03, dz_delta03 = my_int.calc_delta_test(blue03[:, 0], blue03[:, 1])
-        blue00 = np.load('blue00.npy')
+        p = Path('~/temp/testdata/blue00.npy').expanduser()
+        blue00 = np.load(p)
         p_list00 = blue00[:, 1]
         X = np.load('xy_model.npy')
         Y = np.load('disp_values.npy')
@@ -82,7 +84,9 @@ class TestAll(unittest.TestCase):
         Y = Y.reshape(201, 937, 3)
         my_int = invbubble.Interpolate(X, Y)
         dx_delta00, dy_delta00, dz_delta00 = my_int.calc_delta_test(blue00[:, 0], blue00[:, 1])
-        print('blue data', np.nansum(dx_delta00 + dy_delta00 + dz_delta00))
+        a = np.nansum(dx_delta00 + dy_delta00 + dz_delta00)
+        print('blue data', a)
+        self.assertTrue(np.isclose(a, 0.6854286151306995))
 
 # # test on black data
 # blue00 = np.load('black01.npy')
