@@ -19,23 +19,20 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
-import os
 import numpy as np
-import pandas as pd
 from scipy.optimize import fmin_slsqp
-from scipy.interpolate import Rbf
-from invbubble import *
+import invbubble
 
 
 if __name__ == "__main__":
     # Known material model: x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
     # x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
-    delete_files()
+    invbubble.delete_files()
     max_obj = 1000.0
     opt_hist_file = '~/my_sqp_history.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
-    my_opt = BubbleOpt(opt_hist_file, header, max_obj, 'xy_model.npy',
-                       'disp_values.npy')
+    my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
+                                 'xy_model.npy', 'disp_values.npy')
 
     x_guess = [0.2, 0.2, 0.09]
     my_bounds = np.zeros((3, 2))
