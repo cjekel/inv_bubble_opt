@@ -1,5 +1,7 @@
-# abaqus replay files
+# abaqus files
 *.rpy*
+*.odb
+*.SMABulk*
 
 # vscode
 .vscode
