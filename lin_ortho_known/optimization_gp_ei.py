@@ -23,7 +23,7 @@ import os
 import numpy as np
 import pandas as pd
 from scipy.interpolate import Rbf
-from .invbubble import *
+from invbubble import *
 from GPyOpt.methods import BayesianOptimization
 
 
@@ -47,10 +47,10 @@ if __name__ == "__main__":
               {'name': 'var_2', 'type': 'continuous', 'domain': [0.05, 1.0]},
               {'name': 'var_3', 'type': 'continuous', 'domain': [0.01, 0.2]}]
 
-    max_iter = 100
+    max_iter = 1
     np.random.seed(121)
     myBopt = BayesianOptimization(conv_my_obj, domain=bounds, model_type='GP',
-                                  initial_design_numdata=20,
+                                  initial_design_numdata=2,
                                   initial_design_type='latin',
                                   exact_feval=True, verbosity=True,
                                   verbosity_model=False)
