@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 import numpy as np
-from scipy.optimize import fmin_slsqp
+from scipy.optimize import fmin_l_bfgs_b
 import invbubble
 
 
@@ -43,6 +43,8 @@ if __name__ == "__main__":
     my_bounds[2, 0] = 0.01
     my_bounds[2, 1] = 0.2
 
-    res = fmin_slsqp(my_opt.calc_obj_function_abq_data, x_guess,
-                     bounds=my_bounds, iter=1, acc=1e-06, iprint=2,
-                     full_output=True, epsilon=1e-5)
+    res = fmin_l_bfgs_b(my_opt.calc_obj_function_abq_data, x_guess,
+                        approx_grad=True, bounds=my_bounds, factr=1e7,
+                        pgtol=1e-06, epsilon=1e-5, iprint=1,
+                        maxfun=120, maxiter=120, maxls=20)
+    print(res)
