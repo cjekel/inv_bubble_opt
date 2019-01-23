@@ -23,7 +23,7 @@ import os
 import numpy as np
 import pandas as pd
 from scipy.interpolate import Rbf
-from invbubble import *
+from .invbubble import *
 from GPyOpt.methods import BayesianOptimization
 
 
