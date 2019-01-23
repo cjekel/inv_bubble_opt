@@ -83,9 +83,9 @@ class Interpolate(object):
         dz_delta = np.zeros(len(Ps))
         for i, p in enumerate(Ps):
             dx_new, dy_new, dz_new = self.calc_disp(X_new[i], p)
-            dx_delta[i] = np.abs(dx_new - Disp_new[i, :, 0]).mean()
-            dy_delta[i] = np.abs(dy_new - Disp_new[i, :, 1]).mean()
-            dz_delta[i] = np.abs(dz_new - Disp_new[i, :, 2]).mean()
+            dx_delta[i] = np.nanmean(np.abs(dx_new - Disp_new[i, :, 0]))
+            dy_delta[i] = np.nanmean(np.abs(dy_new - Disp_new[i, :, 1]))
+            dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[i, :, 2]))
         return dx_delta, dy_delta, dz_delta
 
     def calc_delta_test(self, X_new, Ps):
@@ -99,9 +99,9 @@ class Interpolate(object):
             newX = X_new[i][:, :2]
             Disp_new = X_new[i][:, 3:]
             dx_new, dy_new, dz_new = self.calc_disp(newX, p)
-            dx_delta[i] = np.abs(dx_new - Disp_new[:, 0]).mean()
-            dy_delta[i] = np.abs(dy_new - Disp_new[:, 1]).mean()
-            dz_delta[i] = np.abs(dz_new - Disp_new[:, 2]).mean()
+            dx_delta[i] = np.nanmean(np.abs(dx_new - Disp_new[:, 0]))
+            dy_delta[i] = np.nanmean(np.abs(dy_new - Disp_new[:, 1]))
+            dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[:, 2]))
         return dx_delta, dy_delta, dz_delta
 
 
@@ -241,7 +241,7 @@ class BubbleOpt(object):
                                                                      self.Xdata[:, 0, 2],  # noqa E501
                                                                      self.Ydata)  # noqa E501
                     delete_files()
-                    my_obj = dx_delta.sum() + dy_delta.sum() + dz_delta.sum()
+                    my_obj = np.nansum(dx_delta) + np.nansum(dy_delta) + np.nansum(dz_delta)   # noqa E501
                     self.update_df(x, my_obj, suc)
                     return my_obj
             else:
