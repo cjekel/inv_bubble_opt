@@ -95,7 +95,6 @@ class Interpolate(object):
         dy_delta = np.zeros(len(Ps))
         dz_delta = np.zeros(len(Ps))
         for i, p in enumerate(Ps):
-            print(i, p)
             newX = X_new[i][:, :2]
             Disp_new = X_new[i][:, 3:]
             dx_new, dy_new, dz_new = self.calc_disp(newX, p)
