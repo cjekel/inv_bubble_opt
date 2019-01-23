@@ -29,7 +29,7 @@ if __name__ == "__main__":
     # x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
     invbubble.delete_files()
     max_obj = 1000.0
-    opt_hist_file = '~/my_sqp_history.csv'
+    opt_hist_file = '~/my_lbfgs_history.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  'xy_model.npy', 'disp_values.npy')
