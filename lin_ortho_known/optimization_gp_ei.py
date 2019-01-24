@@ -59,7 +59,7 @@ if __name__ == "__main__":
 
     # asign previous x and y values
     myBopt.X = prev_res.values[:, 1:4]
-    myBopt.Y = prev_res.values[:, 4]
+    myBopt.Y = prev_res.values[:, 4].reshape(-1, 1)
 
     myBopt.run_optimization(max_iter=max_iter, eps=1e-7, verbosity=True,
                             report_file='gp_opt_results')
