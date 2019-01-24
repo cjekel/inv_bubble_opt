@@ -49,7 +49,7 @@ if __name__ == "__main__":
               {'name': 'var_2', 'type': 'continuous', 'domain': [0.05, 1.0]},
               {'name': 'var_3', 'type': 'continuous', 'domain': [0.01, 0.2]}]
 
-    max_iter = 1
+    max_iter = 360
     np.random.seed(121)
     myBopt = BayesianOptimization(conv_my_obj, domain=bounds, model_type='GP',
                                   initial_design_numdata=0,
@@ -57,7 +57,11 @@ if __name__ == "__main__":
                                   exact_feval=True, verbosity=True,
                                   verbosity_model=False)
 
-    myBopt.run_optimization(max_iter=max_iter, eps=1e-6, verbosity=True,
+    # asign previous x and y values
+    myBopt.X = prev_res.values[:, 1:4]
+    myBopt.Y = prev_res.values[:, 4]
+
+    myBopt.run_optimization(max_iter=max_iter, eps=1e-7, verbosity=True,
                             report_file='gp_opt_results')
 
     print('\n \n Opt found \n')
