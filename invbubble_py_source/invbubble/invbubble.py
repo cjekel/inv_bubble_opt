@@ -184,7 +184,7 @@ def read_csv_files(save=False):
 def delete_files():
     files_to_remove = ['model.com', 'model.dat', 'model.msg', 'model.odb',
                        'model.prt', 'model.sim', 'model.sta', 'model.lck',
-                       'model.simdir', '*.SMABulk*']
+                       'model.simdir', 'model.*.SMABulk', '*.SMASim']
     for f in files_to_remove:
         try:
             os.remove(f)

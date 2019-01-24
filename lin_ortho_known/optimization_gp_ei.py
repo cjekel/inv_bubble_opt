@@ -20,15 +20,20 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 import numpy as np
+import pandas as pd
 import invbubble
 from GPyOpt.methods import BayesianOptimization
+
 
 
 if __name__ == "__main__":
     # Known material model: x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
     # x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
     invbubble.delete_files()
-    max_obj = 10000.0
+    # load starting points from previous optimization
+    prev_res = pd.read_csv('../opt_results/00/my_gp_ei_history.csv')
+    max_obj = prev_res.values[:, 4].max()
+
     opt_hist_file = '~/my_gp_ei_history.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
@@ -47,7 +52,7 @@ if __name__ == "__main__":
     max_iter = 1
     np.random.seed(121)
     myBopt = BayesianOptimization(conv_my_obj, domain=bounds, model_type='GP',
-                                  initial_design_numdata=2,
+                                  initial_design_numdata=0,
                                   initial_design_type='latin',
                                   exact_feval=True, verbosity=True,
                                   verbosity_model=False)
