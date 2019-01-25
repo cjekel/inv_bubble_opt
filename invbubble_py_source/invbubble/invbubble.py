@@ -194,7 +194,8 @@ def delete_files():
 
 class BubbleOpt(object):
 
-    def __init__(self, opt_hist_file, header, max_obj, xdata_fn, ydata_fn):
+    def __init__(self, opt_hist_file, header, max_obj, xdata_fn, ydata_fn,
+                 test_data=[]):
         # header should be something like E1, E2, G12, OBJ, Fail
         self.opt_hist_file = opt_hist_file
         self.max_obj = max_obj
@@ -204,6 +205,8 @@ class BubbleOpt(object):
         self.header = header
         self.Xdata = np.load(xdata_fn)
         self.Ydata = np.load(ydata_fn)
+        self.test_data = test_data
+        self.n_test_data = len(test_data)
 
     def update_df(self, x, my_obj, suc):
         # update and save dataframe
@@ -240,7 +243,49 @@ class BubbleOpt(object):
                                                                      self.Xdata[:, 0, 2],  # noqa E501
                                                                      self.Ydata)  # noqa E501
                     delete_files()
-                    my_obj = np.nansum(dx_delta) + np.nansum(dy_delta) + np.nansum(dz_delta)   # noqa E501
+                    my_obj = np.nansum(dx_delta + dy_delta + dz_delta)   # noqa E501
+                    self.update_df(x, my_obj, suc)
+                    return my_obj
+            else:
+                delete_files()
+                self.update_df(x, self.max_obj, suc)
+                return self.max_obj
+        except:
+            delete_files()
+            self.update_df(x, self.max_obj, False)
+            return self.max_obj
+
+    def calc_obj_function_test_data(self, x):
+        try:
+            # write the material constants
+            write_material_model(x)
+            # run the finite element model
+            val = run_model()
+            if val == 0:
+                # check the status file to ensure the FE model was successful
+                suc = read_sta()
+            else:
+                suc = False
+            if suc is True:
+                # export the csv files of node displacements
+                val = export_csv_files()
+                if val == 0:
+                    suc = True
+                    # read the csv files of node displacements
+                    X, Disp = read_csv_files(save=False)
+                    # fit interpolation model
+                    my_int = Interpolate(X, Disp)
+                    dx = np.zeros(self.n_test_data)
+                    dy = dx.copy()
+                    dz = dx.copy()
+                    for i in range(self.n_test_data):
+                        dx_delta, dy_delta, dz_delta = my_int.calc_delta_test(self.test_data[i][:, 0],  # noqa E501
+                                                                              self.test_data[i][:, 1])  # noqa E501
+                        dx[i] = np.nanmean(dx_delta)
+                        dy[i] = np.nanmean(dy_delta)
+                        dz[i] = np.nanmean(dz_delta)
+                    delete_files()
+                    my_obj = dx.mean() + dy.mean() + dz.mean()   # noqa E501
                     self.update_df(x, my_obj, suc)
                     return my_obj
             else:

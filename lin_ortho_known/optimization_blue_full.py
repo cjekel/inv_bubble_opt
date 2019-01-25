@@ -20,29 +20,34 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 import numpy as np
-import pandas as pd
 import invbubble
 from GPyOpt.methods import BayesianOptimization
 from scipy.optimize import fmin_l_bfgs_b
 
 
 if __name__ == "__main__":
-    # Known material model: x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
-    # x = [800.0*1e-3, 150.0*1e-3, 25.0*1e-3]
     invbubble.delete_files()
-    # load starting points from previous optimization
-    prev_res = pd.read_csv('../opt_results/00/my_gp_ei_history.csv')
-    max_obj = prev_res.values[:, 4].max()
+
+    # load the test data
+    blue00 = np.load('~/temp/testdata/blue00.npy')
+    blue01 = np.load('~/temp/testdata/blue01.npy')
+    blue02 = np.load('~/temp/testdata/blue02.npy')
+    blue03 = np.load('~/temp/testdata/blue03.npy')
+    test_data = [blue00, blue01, blue02, blue03]
+
+    # initialize a maximum objective value
+    max_obj = 30.0  # mm
 
     opt_hist_file = '~/my_blue_history.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
-                                 'xy_model.npy', 'disp_values.npy')
+                                 'xy_model.npy', 'disp_values.npy',
+                                 test_data=test_data)
 
     def conv_my_obj(x):
         f = np.zeros(x.shape[0])
         for i, j in enumerate(x):
-            f[i] = my_opt.calc_obj_function_abq_data(j)
+            f[i] = my_opt.calc_obj_function_test_data(j)
         return f
 
     bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.1, 2.0]},
@@ -72,7 +77,7 @@ if __name__ == "__main__":
     my_bounds[2, 0] = 0.01
     my_bounds[2, 1] = 0.2
 
-    res = fmin_l_bfgs_b(my_opt.calc_obj_function_abq_data, myBopt.x_opt,
+    res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, myBopt.x_opt,
                         approx_grad=True, bounds=my_bounds, factr=1e7,
                         pgtol=1e-06, epsilon=1e-5, iprint=1,
                         maxfun=200, maxiter=120, maxls=25)
