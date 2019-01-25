@@ -1,0 +1,1086 @@
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 1, time elapsed: 107.35s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 2, time elapsed: 209.44s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 3, time elapsed: 315.08s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 4, time elapsed: 368.44s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 5, time elapsed: 416.18s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 6, time elapsed: 521.16s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 7, time elapsed: 627.58s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 8, time elapsed: 732.82s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 9, time elapsed: 834.26s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 10, time elapsed: 933.52s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 11, time elapsed: 1038.21s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 12, time elapsed: 1139.49s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 13, time elapsed: 1237.26s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 14, time elapsed: 1338.93s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 15, time elapsed: 1442.44s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 16, time elapsed: 1544.26s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 17, time elapsed: 1643.04s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 18, time elapsed: 1742.52s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 19, time elapsed: 1839.89s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 20, time elapsed: 1944.60s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 21, time elapsed: 2058.44s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 22, time elapsed: 2171.73s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 23, time elapsed: 2273.49s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 24, time elapsed: 2368.42s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 25, time elapsed: 2467.20s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 26, time elapsed: 2575.55s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 27, time elapsed: 2680.58s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 28, time elapsed: 2723.54s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 29, time elapsed: 2835.29s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 30, time elapsed: 2940.32s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 31, time elapsed: 3307.60s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 32, time elapsed: 3406.36s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 33, time elapsed: 3513.38s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 34, time elapsed: 3612.45s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 35, time elapsed: 3713.10s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 36, time elapsed: 3816.47s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 37, time elapsed: 3928.78s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 38, time elapsed: 4031.06s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 39, time elapsed: 4129.83s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 40, time elapsed: 4230.01s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 41, time elapsed: 4333.95s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 42, time elapsed: 4435.26s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 43, time elapsed: 4537.75s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 44, time elapsed: 4637.17s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 45, time elapsed: 4739.04s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 46, time elapsed: 4843.65s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 47, time elapsed: 4862.44s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 48, time elapsed: 4987.58s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 49, time elapsed: 5120.00s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 50, time elapsed: 5138.31s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 51, time elapsed: 5240.38s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 52, time elapsed: 5343.01s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 53, time elapsed: 5446.68s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 54, time elapsed: 5551.87s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 55, time elapsed: 5652.71s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 56, time elapsed: 5754.55s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 57, time elapsed: 5900.78s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 58, time elapsed: 6025.49s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 59, time elapsed: 6154.54s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 60, time elapsed: 6284.03s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 61, time elapsed: 6413.82s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 62, time elapsed: 6551.07s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 63, time elapsed: 6750.30s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 64, time elapsed: 7131.97s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 65, time elapsed: 7188.83s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 66, time elapsed: 7429.39s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 67, time elapsed: 7652.59s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 68, time elapsed: 7880.90s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 69, time elapsed: 8100.76s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 70, time elapsed: 8332.81s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 71, time elapsed: 8555.44s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 72, time elapsed: 8788.57s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 73, time elapsed: 9016.69s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 74, time elapsed: 9236.34s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 75, time elapsed: 9444.42s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 76, time elapsed: 9464.05s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 77, time elapsed: 9692.63s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 78, time elapsed: 9746.84s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 79, time elapsed: 9977.44s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 80, time elapsed: 10098.21s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 81, time elapsed: 10196.51s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 82, time elapsed: 10301.11s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 83, time elapsed: 10403.63s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 84, time elapsed: 10501.80s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 85, time elapsed: 10606.65s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 86, time elapsed: 10704.70s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 87, time elapsed: 10807.86s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 88, time elapsed: 10911.14s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 89, time elapsed: 11009.88s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 90, time elapsed: 11113.67s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 91, time elapsed: 11213.23s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 92, time elapsed: 11316.19s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 93, time elapsed: 11420.43s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 94, time elapsed: 11518.60s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 95, time elapsed: 11625.19s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 96, time elapsed: 11728.34s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 97, time elapsed: 11833.69s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 98, time elapsed: 11936.26s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 99, time elapsed: 12037.78s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 100, time elapsed: 12135.38s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 101, time elapsed: 12154.38s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 102, time elapsed: 12254.67s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 103, time elapsed: 12357.43s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 104, time elapsed: 12458.33s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 105, time elapsed: 12563.42s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 106, time elapsed: 12664.47s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 107, time elapsed: 12769.64s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 108, time elapsed: 12872.76s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 109, time elapsed: 12978.28s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 110, time elapsed: 13081.47s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 111, time elapsed: 13185.33s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 112, time elapsed: 13287.23s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 113, time elapsed: 13387.95s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 114, time elapsed: 13487.66s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 115, time elapsed: 13592.27s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 116, time elapsed: 13695.56s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 117, time elapsed: 13794.85s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 118, time elapsed: 13898.70s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 119, time elapsed: 14002.42s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 120, time elapsed: 14102.80s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 121, time elapsed: 14161.89s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 122, time elapsed: 14210.71s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 123, time elapsed: 14314.41s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 124, time elapsed: 14437.44s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 125, time elapsed: 14539.30s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 126, time elapsed: 14633.92s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 127, time elapsed: 14732.88s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 128, time elapsed: 14825.47s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 129, time elapsed: 14923.91s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 130, time elapsed: 15023.02s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 131, time elapsed: 15121.90s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 132, time elapsed: 15220.92s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 133, time elapsed: 15319.97s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 134, time elapsed: 15419.16s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 135, time elapsed: 15511.73s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 136, time elapsed: 15605.02s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 137, time elapsed: 15703.23s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 138, time elapsed: 15801.47s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 139, time elapsed: 15900.87s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 140, time elapsed: 15995.37s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 141, time elapsed: 16089.38s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 142, time elapsed: 16188.99s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 143, time elapsed: 16286.69s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 144, time elapsed: 16381.31s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 145, time elapsed: 16480.16s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 146, time elapsed: 16580.81s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 147, time elapsed: 16677.65s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 148, time elapsed: 16778.52s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 149, time elapsed: 16878.19s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 150, time elapsed: 16972.94s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 151, time elapsed: 17068.34s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 152, time elapsed: 17167.84s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 153, time elapsed: 17263.61s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 154, time elapsed: 17365.79s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 155, time elapsed: 17465.76s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 156, time elapsed: 17564.99s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 157, time elapsed: 17660.32s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 158, time elapsed: 17756.34s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 159, time elapsed: 17852.73s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 160, time elapsed: 17952.08s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 161, time elapsed: 18048.56s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 162, time elapsed: 18149.22s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 163, time elapsed: 18250.50s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 164, time elapsed: 18346.59s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 165, time elapsed: 18441.93s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 166, time elapsed: 18542.43s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 167, time elapsed: 18642.40s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 168, time elapsed: 18739.98s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 169, time elapsed: 18840.99s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 170, time elapsed: 18942.31s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 171, time elapsed: 19042.12s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 172, time elapsed: 19141.86s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 173, time elapsed: 19241.88s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 174, time elapsed: 19291.30s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 175, time elapsed: 19392.46s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 176, time elapsed: 19493.74s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 177, time elapsed: 19594.55s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 178, time elapsed: 19691.42s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 179, time elapsed: 19791.44s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 180, time elapsed: 19887.59s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 181, time elapsed: 19982.36s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 182, time elapsed: 20082.98s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 183, time elapsed: 20184.01s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 184, time elapsed: 20280.34s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 185, time elapsed: 20375.54s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 186, time elapsed: 20471.55s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 187, time elapsed: 20566.88s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 188, time elapsed: 20667.91s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 189, time elapsed: 20768.22s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 190, time elapsed: 20868.77s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 191, time elapsed: 20970.82s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 192, time elapsed: 21072.24s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 193, time elapsed: 21172.59s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 194, time elapsed: 21267.53s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 195, time elapsed: 21367.81s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 196, time elapsed: 21469.49s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 197, time elapsed: 21570.15s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 198, time elapsed: 21665.76s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 199, time elapsed: 21760.37s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 200, time elapsed: 21861.63s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 201, time elapsed: 21961.53s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 202, time elapsed: 22062.43s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 203, time elapsed: 22157.93s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 204, time elapsed: 22254.75s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 205, time elapsed: 22356.61s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 206, time elapsed: 22456.83s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 207, time elapsed: 22554.19s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 208, time elapsed: 22650.68s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 209, time elapsed: 22747.40s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 210, time elapsed: 22847.00s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 211, time elapsed: 22943.32s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 212, time elapsed: 23044.56s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 213, time elapsed: 23145.81s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 214, time elapsed: 23241.26s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 215, time elapsed: 23341.04s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 216, time elapsed: 23435.06s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 217, time elapsed: 23534.63s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 218, time elapsed: 23630.26s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 219, time elapsed: 23731.60s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 220, time elapsed: 23827.31s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 221, time elapsed: 23929.23s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 222, time elapsed: 24029.43s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 223, time elapsed: 24130.82s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 224, time elapsed: 24233.35s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 225, time elapsed: 24334.62s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 226, time elapsed: 24431.68s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 227, time elapsed: 24531.11s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 228, time elapsed: 24631.81s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 229, time elapsed: 24732.58s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 230, time elapsed: 24833.19s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 231, time elapsed: 24929.34s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 232, time elapsed: 25029.63s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 233, time elapsed: 25125.28s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 234, time elapsed: 25221.82s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 235, time elapsed: 25316.59s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 236, time elapsed: 25413.85s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 237, time elapsed: 25510.40s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 238, time elapsed: 25611.61s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 239, time elapsed: 25707.90s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 240, time elapsed: 25808.01s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 241, time elapsed: 25907.76s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 242, time elapsed: 26002.03s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 243, time elapsed: 26103.09s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 244, time elapsed: 26198.18s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 245, time elapsed: 26291.65s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 246, time elapsed: 26392.06s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 247, time elapsed: 26490.34s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 248, time elapsed: 26590.03s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 249, time elapsed: 26682.94s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 250, time elapsed: 26781.11s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 251, time elapsed: 26880.30s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 252, time elapsed: 26979.06s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 253, time elapsed: 27072.55s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 254, time elapsed: 27166.46s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 255, time elapsed: 27264.74s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 256, time elapsed: 27362.77s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 257, time elapsed: 27461.61s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 258, time elapsed: 27556.04s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 259, time elapsed: 27649.38s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 260, time elapsed: 27747.40s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 261, time elapsed: 27841.12s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 262, time elapsed: 27939.88s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 263, time elapsed: 28038.05s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 264, time elapsed: 28131.51s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 265, time elapsed: 28225.75s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 266, time elapsed: 28324.43s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 267, time elapsed: 28419.41s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 268, time elapsed: 28515.95s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 269, time elapsed: 28616.63s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 270, time elapsed: 28712.43s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 271, time elapsed: 28812.53s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 272, time elapsed: 28909.17s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 273, time elapsed: 29004.03s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 274, time elapsed: 29104.08s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 275, time elapsed: 29201.46s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 276, time elapsed: 29297.56s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 277, time elapsed: 29393.70s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 278, time elapsed: 29495.78s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 279, time elapsed: 29593.46s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 280, time elapsed: 29693.17s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 281, time elapsed: 29795.11s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 282, time elapsed: 29897.46s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 283, time elapsed: 29999.37s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 284, time elapsed: 30096.02s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 285, time elapsed: 30198.16s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 286, time elapsed: 30296.13s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 287, time elapsed: 30400.26s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 288, time elapsed: 30498.08s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 289, time elapsed: 30596.79s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 290, time elapsed: 30698.41s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 291, time elapsed: 30801.43s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 292, time elapsed: 30899.03s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 293, time elapsed: 31001.24s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 294, time elapsed: 31100.27s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 295, time elapsed: 31199.27s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 296, time elapsed: 31296.86s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 297, time elapsed: 31399.77s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 298, time elapsed: 31502.08s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 299, time elapsed: 31599.59s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 300, time elapsed: 31701.52s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 301, time elapsed: 31805.75s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 302, time elapsed: 31908.11s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 303, time elapsed: 32005.73s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 304, time elapsed: 32108.02s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 305, time elapsed: 32211.96s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 306, time elapsed: 32313.54s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 307, time elapsed: 32411.20s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 308, time elapsed: 32508.53s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 309, time elapsed: 32611.02s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 310, time elapsed: 32713.77s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 311, time elapsed: 32810.54s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 312, time elapsed: 32908.07s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 313, time elapsed: 33004.99s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 314, time elapsed: 33108.46s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 315, time elapsed: 33210.41s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 316, time elapsed: 33306.95s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 317, time elapsed: 33409.58s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 318, time elapsed: 33512.05s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 319, time elapsed: 33613.59s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 320, time elapsed: 33712.45s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 321, time elapsed: 33813.88s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 322, time elapsed: 33912.64s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 323, time elapsed: 34009.65s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 324, time elapsed: 34107.82s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 325, time elapsed: 34210.06s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 326, time elapsed: 34308.32s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 327, time elapsed: 34409.80s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 328, time elapsed: 34505.95s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 329, time elapsed: 34601.73s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 330, time elapsed: 34697.05s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 331, time elapsed: 34792.12s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 332, time elapsed: 34887.90s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 333, time elapsed: 34943.89s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 334, time elapsed: 35044.21s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 335, time elapsed: 35144.94s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 336, time elapsed: 35245.32s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 337, time elapsed: 35347.45s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 338, time elapsed: 35443.48s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 339, time elapsed: 35543.94s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 340, time elapsed: 35644.10s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 341, time elapsed: 35745.19s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 342, time elapsed: 35845.68s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 343, time elapsed: 35946.58s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 344, time elapsed: 36041.93s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 345, time elapsed: 36137.23s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 346, time elapsed: 36232.24s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 347, time elapsed: 36328.02s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 348, time elapsed: 36429.04s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 349, time elapsed: 36524.15s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 350, time elapsed: 36624.53s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 351, time elapsed: 36725.19s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 352, time elapsed: 36820.50s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 353, time elapsed: 36916.54s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 354, time elapsed: 37016.69s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 355, time elapsed: 37058.73s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 356, time elapsed: 37154.61s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 357, time elapsed: 37255.18s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 358, time elapsed: 37350.95s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 359, time elapsed: 37446.55s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 360, time elapsed: 37548.14s
+
+ 
+ Opt found 
+
+X values: [0.79220605 0.15412156 0.03210166]
+Function value: 2.658974697297788
