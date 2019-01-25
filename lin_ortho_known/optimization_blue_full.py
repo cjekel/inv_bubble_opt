@@ -23,7 +23,7 @@ import numpy as np
 import pandas as pd
 import invbubble
 from GPyOpt.methods import BayesianOptimization
-
+from scipy.optimize import fmin_l_bfgs_b
 
 
 if __name__ == "__main__":
@@ -34,7 +34,7 @@ if __name__ == "__main__":
     prev_res = pd.read_csv('../opt_results/00/my_gp_ei_history.csv')
     max_obj = prev_res.values[:, 4].max()
 
-    opt_hist_file = '~/my_gp_ei_history.csv'
+    opt_hist_file = '~/my_blue_history.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  'xy_model.npy', 'disp_values.npy')
@@ -49,21 +49,31 @@ if __name__ == "__main__":
               {'name': 'var_2', 'type': 'continuous', 'domain': [0.05, 1.0]},
               {'name': 'var_3', 'type': 'continuous', 'domain': [0.01, 0.2]}]
 
-    max_iter = 360
+    max_iter = 30
     np.random.seed(121)
     myBopt = BayesianOptimization(conv_my_obj, domain=bounds, model_type='GP',
-                                  initial_design_numdata=0,
+                                  initial_design_numdata=20,
                                   initial_design_type='latin',
                                   exact_feval=True, verbosity=True,
                                   verbosity_model=False)
 
-    # asign previous x and y values
-    myBopt.X = prev_res.values[:, 1:4]
-    myBopt.Y = prev_res.values[:, 4].reshape(-1, 1)
-
     myBopt.run_optimization(max_iter=max_iter, eps=1e-7, verbosity=True,
                             report_file='gp_opt_results')
 
-    print('\n \n Opt found \n')
+    print('\n \n EGO Opt Complete \n')
     print('X values:', myBopt.x_opt)
     print('Function value:', myBopt.fx_opt)
+
+    my_bounds = np.zeros((3, 2))
+    my_bounds[0, 0] = 0.1
+    my_bounds[0, 1] = 2.0
+    my_bounds[1, 0] = 0.05
+    my_bounds[1, 1] = 1.0
+    my_bounds[2, 0] = 0.01
+    my_bounds[2, 1] = 0.2
+
+    res = fmin_l_bfgs_b(my_opt.calc_obj_function_abq_data, myBopt.x_opt,
+                        approx_grad=True, bounds=my_bounds, factr=1e7,
+                        pgtol=1e-06, epsilon=1e-5, iprint=1,
+                        maxfun=200, maxiter=120, maxls=25)
+    print(res)
