@@ -116,7 +116,9 @@ def write_material_model(x):
 
 
 def run_model():
-    abqcommand = 'abq job=model interactive cpus=4 ask_delete=OFF'
+    abqcommand = 'abq job=model interactive cpus=4 ask_delete=OFF > /dev/null'
+    if os.name is 'nt':
+        abqcommand = 'abq job=model interactive cpus=4 ask_delete=OFF > NUL'
     val = os.system(abqcommand)
     # on linux val == 0 when success
     return val
@@ -136,7 +138,9 @@ def read_sta():
 
 
 def export_csv_files():
-    abq_command = 'abaqus cae noGUI=export_csv_files.py'
+    abq_command = 'abaqus cae noGUI=export_csv_files.py > /dev/null'
+    if os.name is 'nt':
+        abq_command = 'abaqus cae noGUI=export_csv_files.py > NUL'
     val = os.system(abq_command)
     return val
 
