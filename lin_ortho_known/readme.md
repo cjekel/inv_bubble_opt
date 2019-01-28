@@ -1,2 +1,2 @@
 # about
-Linear orthotropic material model with known parameters
+Linear orthotropic material model with unknown parameters
