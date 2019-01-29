@@ -115,6 +115,23 @@ def write_material_model(x):
             f.write(data)
 
 
+def write_iso_two_model(x):
+    with open('model_template.inp', 'r') as d:
+        with open('model.inp', 'w') as f:
+            data = d.read()
+            data = data.replace('E1_iso', str(x[0]))
+            data = data.replace('Nu12_iso', str(x[1]))
+            f.write(data)
+
+
+def write_iso_one_model(x):
+    with open('model_template.inp', 'r') as d:
+        with open('model.inp', 'w') as f:
+            data = d.read()
+            data = data.replace('E1_iso', str(x[0]))
+            f.write(data)
+
+
 def run_model():
     abqcommand = 'abq job=model interactive cpus=4 ask_delete=OFF > /dev/null'
     if os.name is 'nt':
@@ -199,7 +216,7 @@ def delete_files():
 class BubbleOpt(object):
 
     def __init__(self, opt_hist_file, header, max_obj, xdata_fn, ydata_fn,
-                 test_data=[]):
+                 test_data=[], mat_model='lin-ortho'):
         # header should be something like E1, E2, G12, OBJ, Fail
         self.opt_hist_file = opt_hist_file
         self.max_obj = max_obj
@@ -211,6 +228,9 @@ class BubbleOpt(object):
         self.Ydata = np.load(ydata_fn)
         self.test_data = test_data
         self.n_test_data = len(test_data)
+        # material model choices
+        # mat_model = ['lin-ortho', 'iso-two', 'iso-one']
+        self.mat_model = mat_model
 
     def update_df(self, x, my_obj, suc):
         # update and save dataframe
@@ -226,7 +246,15 @@ class BubbleOpt(object):
     def calc_obj_function_abq_data(self, x):
         try:
             # write the material constants
-            write_material_model(x)
+            if self.mat_model is 'lin-ortho':
+                write_material_model(x)
+            elif self.mat_model is 'iso-two':
+                write_iso_two_model(x)
+            elif self.mat_model is 'iso-one':
+                write_iso_one_model(x)
+            else:
+                print('You have assigned an improper material model!')
+                raise ValueError
             # run the finite element model
             val = run_model()
             if val == 0:
@@ -262,7 +290,15 @@ class BubbleOpt(object):
     def calc_obj_function_test_data(self, x):
         try:
             # write the material constants
-            write_material_model(x)
+            if self.mat_model is 'lin-ortho':
+                write_material_model(x)
+            elif self.mat_model is 'iso-two':
+                write_iso_two_model(x)
+            elif self.mat_model is 'iso-one':
+                write_iso_one_model(x)
+            else:
+                print('You have assigned an improper material model!')
+                raise ValueError
             # run the finite element model
             val = run_model()
             if val == 0:
