@@ -44,8 +44,9 @@ if __name__ == "__main__":
     x_full = [0.26422968, 0.24658871, 0.00257984]
     x_cv01 = [0.34069393, 0.17930365, 0.00824243]
     x_cv02 = [0.31135523, 0.23734801, 0.00474714]
-    x_cv03 = []
+    x_cv03 = [0.2, 0.2, 0.002]
     x_cv04 = [0.27982852, 0.2445296, 0.00321272]
+    x = [x_full, x_cv01, x_cv02, x_cv03, x_cv04]
 
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     'my_full_test.csv'
@@ -76,3 +77,15 @@ if __name__ == "__main__":
                                   'disp_values.npy',
                                   test_data=test_data_cv04,
                                   mat_model='lin-ortho')
+    results = np.zeros((5, 5))
+
+    for i in range(5):
+        results[i, 0] = my_full.calc_obj_function_test_data(x[i])
+        results[i, 1] = my_cv01.calc_obj_function_test_data(x[i])
+        results[i, 2] = my_cv02.calc_obj_function_test_data(x[i])
+        results[i, 3] = my_cv03.calc_obj_function_test_data(x[i])
+        results[i, 4] = my_cv04.calc_obj_function_test_data(x[i])
+
+    np.save('blue_cross_compute_res.npy', results)
+
+    print(results)
