@@ -290,11 +290,11 @@ class BubbleOpt(object):
     def calc_obj_function_test_data(self, x):
         try:
             # write the material constants
-            if self.mat_model is 'lin-ortho':
+            if self.mat_model == 'lin-ortho':
                 write_material_model(x)
-            elif self.mat_model is 'iso-two':
+            elif self.mat_model == 'iso-two':
                 write_iso_two_model(x)
-            elif self.mat_model is 'iso-one':
+            elif self.mat_model == 'iso-one':
                 write_iso_one_model(x)
             else:
                 print('You have assigned an improper material model!')
