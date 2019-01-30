@@ -243,28 +243,38 @@ class BubbleOpt(object):
         self.mydf.to_csv(self.opt_hist_file)
         self.run += 1
 
-    def calc_obj_function_abq_data(self, x):
+    def run_abq_model(self, x):
+        # write the material constants
+        if self.mat_model == 'lin-ortho':
+            write_material_model(x)
+        elif self.mat_model == 'iso-two':
+            write_iso_two_model(x)
+        elif self.mat_model == 'iso-one':
+            write_iso_one_model(x)
+        else:
+            print('You have assigned an improper material model!')
+            raise ValueError
+        # run the finite element model
+        val = run_model()
+        if val == 0:
+            # check the status file to ensure the FE model was successful
+            suc = read_sta()
+        else:
+            suc = False
+        return val, suc
+
+    def calc_obj_function_abq_data(self, x, run_abq=True):
+        # run_abq option to turn on or off abaqus model running
         try:
-            # write the material constants
-            if self.mat_model == 'lin-ortho':
-                write_material_model(x)
-            elif self.mat_model == 'iso-two':
-                write_iso_two_model(x)
-            elif self.mat_model == 'iso-one':
-                write_iso_one_model(x)
+            if run_abq is True:
+                val, suc = self.run_abq_model(x)
             else:
-                print('You have assigned an improper material model!')
-                raise ValueError
-            # run the finite element model
-            val = run_model()
-            if val == 0:
-                # check the status file to ensure the FE model was successful
-                suc = read_sta()
-            else:
-                suc = False
+                suc = True
+                val = 0
             if suc is True:
-                # export the csv files of node displacements
-                val = export_csv_files()
+                if run_abq is True:
+                    # export the csv files of node displacements
+                    val = export_csv_files()
                 if val == 0:
                     suc = True
                     # read the csv files of node displacements
@@ -287,28 +297,18 @@ class BubbleOpt(object):
             self.update_df(x, self.max_obj, False)
             return self.max_obj
 
-    def calc_obj_function_test_data(self, x):
+    def calc_obj_function_test_data(self, x, run_abq=True):
+        # run_abq option to turn on or off abaqus model running
         try:
-            # write the material constants
-            if self.mat_model == 'lin-ortho':
-                write_material_model(x)
-            elif self.mat_model == 'iso-two':
-                write_iso_two_model(x)
-            elif self.mat_model == 'iso-one':
-                write_iso_one_model(x)
+            if run_abq is True:
+                val, suc = self.run_abq_model(x)
             else:
-                print('You have assigned an improper material model!')
-                raise ValueError
-            # run the finite element model
-            val = run_model()
-            if val == 0:
-                # check the status file to ensure the FE model was successful
-                suc = read_sta()
-            else:
-                suc = False
+                suc = True
+                val = 0
             if suc is True:
-                # export the csv files of node displacements
-                val = export_csv_files()
+                if run_abq is True:
+                    # export the csv files of node displacements
+                    val = export_csv_files()
                 if val == 0:
                     suc = True
                     # read the csv files of node displacements
