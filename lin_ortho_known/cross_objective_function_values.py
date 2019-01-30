@@ -81,10 +81,14 @@ if __name__ == "__main__":
 
     for i in range(5):
         results[i, 0] = my_full.calc_obj_function_test_data(x[i])
-        results[i, 1] = my_cv01.calc_obj_function_test_data(x[i])
-        results[i, 2] = my_cv02.calc_obj_function_test_data(x[i])
-        results[i, 3] = my_cv03.calc_obj_function_test_data(x[i])
-        results[i, 4] = my_cv04.calc_obj_function_test_data(x[i])
+        results[i, 1] = my_cv01.calc_obj_function_test_data(x[i],
+                                                            run_abq=False)
+        results[i, 2] = my_cv02.calc_obj_function_test_data(x[i],
+                                                            run_abq=False)
+        results[i, 3] = my_cv03.calc_obj_function_test_data(x[i],
+                                                            run_abq=False)
+        results[i, 4] = my_cv04.calc_obj_function_test_data(x[i],
+                                                            run_abq=False)
 
     np.save('blue_cross_compute_res.npy', results)
 
