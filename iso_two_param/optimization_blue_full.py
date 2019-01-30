@@ -33,13 +33,13 @@ if __name__ == "__main__":
     blue00 = np.load(expanduser('blue00.npy'))
     blue01 = np.load(expanduser('blue01.npy'))
     blue02 = np.load(expanduser('blue02.npy'))
-    # blue03 = np.load(expanduser('blue03.npy'))
-    test_data = [blue00, blue01, blue02]
+    blue03 = np.load(expanduser('blue03.npy'))
+    test_data = [blue00, blue01, blue02, blue03]
 
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'my_blue_history_cv04.csv'
+    opt_hist_file = 'my_blue_history_full.csv'
     header = ['E1', 'nu12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  'xy_model.npy', 'disp_values.npy',
