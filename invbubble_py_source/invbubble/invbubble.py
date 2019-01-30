@@ -224,8 +224,12 @@ class BubbleOpt(object):
         self.mydf = pd.DataFrame(data=None, index=None, columns=header,
                                  dtype=np.float)
         self.header = header
-        self.Xdata = np.load(xdata_fn)
-        self.Ydata = np.load(ydata_fn)
+        # if you are running on real test data, then you don't need
+        # either xdata or ydata
+        if xdata_fn is not None:
+            self.Xdata = np.load(xdata_fn)
+        if ydata_fn is not None:
+            self.Ydata = np.load(ydata_fn)
         self.test_data = test_data
         self.n_test_data = len(test_data)
         # material model choices
