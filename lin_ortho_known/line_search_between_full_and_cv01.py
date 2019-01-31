@@ -56,7 +56,7 @@ if __name__ == "__main__":
     results = np.zeros(100)
 
     for i in range(100):
-        results[i] = my_full.calc_obj_function_abq_data([e1[i], e2[i], g12[i]])
+        results[i] = my_full.calc_obj_function_test_data([e1[i], e2[i], g12[i]])
 
     np.save('line_search_full_cv01.npy', results)
 
