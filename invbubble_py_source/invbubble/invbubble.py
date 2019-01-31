@@ -240,19 +240,19 @@ class BubbleOpt(object):
         # update and save dataframe
         if len(x) == 3:
             self.mydf = self.mydf.append([{self.header[0]: x[0],
-                                        self.header[1]: x[1],
-                                        self.header[2]: x[2],
-                                        self.header[3]: my_obj,
-                                        self.header[4]: float(suc)}])
+                                           self.header[1]: x[1],
+                                           self.header[2]: x[2],
+                                           self.header[3]: my_obj,
+                                           self.header[4]: float(suc)}])
         elif len(x) == 2:
             self.mydf = self.mydf.append([{self.header[0]: x[0],
-                                        self.header[1]: x[1],
-                                        self.header[2]: my_obj,
-                                        self.header[3]: float(suc)}])
+                                           self.header[1]: x[1],
+                                           self.header[2]: my_obj,
+                                           self.header[3]: float(suc)}])
         elif len(x) == 1:
             self.mydf = self.mydf.append([{self.header[0]: x[0],
-                                        self.header[1]: my_obj,
-                                        self.header[2]: float(suc)}])            
+                                           self.header[1]: my_obj,
+                                           self.header[2]: float(suc)}])
         self.max_obj = self.mydf.values[:, -2].max()
         self.mydf.to_csv(self.opt_hist_file)
         self.run += 1
