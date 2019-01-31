@@ -110,7 +110,7 @@ def write_material_model(x):
             data = d.read()
             data = data.replace('E1_orth', str(x[0]))
             data = data.replace('E2_orth', str(x[1]))
-            data = data.replace('G12_orth', str(x[2]))
+            data = data.replace('G12_orth', str(x[2]/100.))
             data = data.replace('E23_orth', str(x[1]/2.48))
             f.write(data)
 
