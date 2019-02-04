@@ -24,7 +24,9 @@ import invbubble
 from os.path import expanduser
 from GPyOpt.methods import BayesianOptimization
 # from scipy.optimize import fmin_l_bfgs_b
-from scipy.optimize import minimize
+# from scipy.optimize import minimize
+import constrNMPy as cNM 
+
 
 if __name__ == "__main__":
     invbubble.delete_files()
@@ -81,8 +83,11 @@ if __name__ == "__main__":
     #                     approx_grad=True, bounds=my_bounds, factr=10.,
     #                     pgtol=1e-06, epsilon=1e-2, iprint=1,
     #                     maxfun=120, maxiter=120, maxls=20)
-    res = minimize(my_opt.calc_obj_function_test_data, x0, bounds=my_bounds,
-                   method='Nelder-Mead', tol=None, callback=None,
-                   options={'maxfev': 100, 'disp': True, 'return_all': True,
-                   'xatol': 1e-4, 'fatol': 1e-6, 'adaptive': False})
+    # res = minimize(my_opt.calc_obj_function_test_data, x0, bounds=my_bounds,
+    #                method='Nelder-Mead', tol=None, callback=None,
+    #                options={'maxfev': 100, 'disp': True, 'return_all': True,
+    #                'xatol': 1e-4, 'fatol': 1e-6, 'adaptive': False})
+    res = cNM.constrNM(my_opt.calc_obj_function_test_data, x0,
+                       my_bounds[:, 0], my_bounds[:, 1], xtol=1e-4, ftol=1e-6,
+                       maxfun=100, disp=True, full_output=True)
     print(res)
