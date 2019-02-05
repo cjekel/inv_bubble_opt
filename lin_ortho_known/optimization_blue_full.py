@@ -21,7 +21,7 @@
 # SOFTWARE.
 import numpy as np
 import invbubble
-from os.path import expanduser
+import os
 from GPyOpt.methods import BayesianOptimization
 from scipy.optimize import fmin_l_bfgs_b
 
@@ -30,10 +30,11 @@ if __name__ == "__main__":
     invbubble.delete_files()
 
     # load the test data
-    blue00 = np.load(expanduser('~blue00.npy'))
-    blue01 = np.load(expanduser('~blue01.npy'))
-    blue02 = np.load(expanduser('~blue02.npy'))
-    blue03 = np.load(expanduser('~blue03.npy'))
+    homeuser = os.path.expanduser('~')
+    blue00 = np.load(os.path.join(homeuser, 'blue00.npy'))
+    blue01 = np.load(os.path.join(homeuser, 'blue01.npy'))
+    blue02 = np.load(os.path.join(homeuser, 'blue02.npy'))
+    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'))
     test_data = [blue00, blue01, blue02, blue03]
 
     # initialize a maximum objective value
