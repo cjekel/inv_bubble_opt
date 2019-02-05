@@ -41,10 +41,10 @@ if __name__ == "__main__":
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'my_blue_history_cv01.csv'
+    opt_hist_file = 'my_blue_history_cv01r2.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
-                                 'xy_model.npy', 'disp_values.npy',
+                                 None, None,
                                  test_data=test_data)
 
     # def conv_my_obj(x):
@@ -71,7 +71,6 @@ if __name__ == "__main__":
     # print('\n \n EGO Opt Complete \n')
     # print('X values:', myBopt.x_opt)
     # print('Function value:', myBopt.fx_opt)
-    x0 = [0.34069393, 0.17930365, 0.00824243]
     my_bounds = np.zeros((3, 2))
     my_bounds[0, 0] = 0.1
     my_bounds[0, 1] = 2.0
@@ -79,9 +78,10 @@ if __name__ == "__main__":
     my_bounds[1, 1] = 1.0
     my_bounds[2, 0] = 0.001
     my_bounds[2, 1] = 0.2
-    x0 = [0.26148553, 0.24668236, 0.01]
+    my_bounds[2, :] *= 100.0
+    x0 = [0.24224311, 0.2294106, 0.00266815*100.]
     res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
-                        approx_grad=True, bounds=my_bounds, factr=1e7,
-                        pgtol=1e-06, epsilon=1e-4, iprint=1,
-                        maxfun=200, maxiter=120, maxls=20)
+                        approx_grad=True, bounds=my_bounds, factr=10,
+                        pgtol=1e-06, epsilon=1e-3, iprint=1,
+                        maxfun=200, maxiter=5, maxls=25)
     print(res)
