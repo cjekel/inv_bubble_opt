@@ -21,7 +21,7 @@
 # SOFTWARE.
 import numpy as np
 import invbubble
-from os
+import os
 
 
 if __name__ == "__main__":
