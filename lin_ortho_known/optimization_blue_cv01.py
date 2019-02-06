@@ -45,7 +45,7 @@ if __name__ == "__main__":
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
-                                 test_data=test_data)
+                                test_data=test_data)
 
     # def conv_my_obj(x):
     #     f = np.zeros(x.shape[0])
