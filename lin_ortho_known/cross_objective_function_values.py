@@ -21,17 +21,18 @@
 # SOFTWARE.
 import numpy as np
 import invbubble
-from os.path import expanduser
+from os
 
 
 if __name__ == "__main__":
     invbubble.delete_files()
 
     # load the test data
-    blue00 = np.load(expanduser('blue00.npy'))
-    blue01 = np.load(expanduser('blue01.npy'))
-    blue02 = np.load(expanduser('blue02.npy'))
-    blue03 = np.load(expanduser('blue03.npy'))
+    homeuser = os.path.expanduser('~')
+    blue00 = np.load(os.path.join(homeuser, 'blue00.npy'))
+    blue01 = np.load(os.path.join(homeuser, 'blue01.npy'))
+    blue02 = np.load(os.path.join(homeuser, 'blue02.npy'))
+    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'))
 
     # set up the various data configurations
     test_data_full = [blue00, blue01, blue02, blue03]
@@ -41,11 +42,11 @@ if __name__ == "__main__":
     test_data_cv04 = [blue00, blue01, blue02]
 
     # material model results
-    x_full = [0.26422968, 0.24658871, 0.00257984]
-    x_cv01 = [0.34069393, 0.17930365, 0.00824243]
-    x_cv02 = [0.31135523, 0.23734801, 0.00474714]
-    x_cv03 = [0.32258707, 0.21461668, 0.00583026]
-    x_cv04 = [0.27982852, 0.2445296, 0.00321272]
+    x_full = [0.26422968, 0.24657734, 0.25798352]
+    x_cv01 = [0.22844758,  0.2404437, 0.26662067]
+    x_cv02 = [0.31248343, 0.23532769, 0.47470262]
+    x_cv03 = [0.29993751, 0.23220076, 0.44900705]
+    x_cv04 = [ 0.2800472, 0.24353683, 0.32121494]
     x = [x_full, x_cv01, x_cv02, x_cv03, x_cv04]
 
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
@@ -53,28 +54,23 @@ if __name__ == "__main__":
 
     # initialize the bubble objects
     my_full = invbubble.BubbleOpt('my_full_test.csv', header,
-                                  100.0, 'xy_model.npy',
-                                  'disp_values.npy',
+                                  100.0, None, None,
                                   test_data=test_data_full,
                                   mat_model='lin-ortho')
     my_cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
-                                  100.0, 'xy_model.npy',
-                                  'disp_values.npy',
+                                  100.0, None, None,
                                   test_data=test_data_cv01,
                                   mat_model='lin-ortho')
     my_cv02 = invbubble.BubbleOpt('my_full_cv02.csv', header,
-                                  100.0, 'xy_model.npy',
-                                  'disp_values.npy',
+                                  100.0, None, None,
                                   test_data=test_data_cv02,
                                   mat_model='lin-ortho')
     my_cv03 = invbubble.BubbleOpt('my_full_cv03.csv', header,
-                                  100.0, 'xy_model.npy',
-                                  'disp_values.npy',
+                                  100.0, None, None,
                                   test_data=test_data_cv03,
                                   mat_model='lin-ortho')
     my_cv04 = invbubble.BubbleOpt('my_full_cv04.csv', header,
-                                  100.0, 'xy_model.npy',
-                                  'disp_values.npy',
+                                  100.0, None, None,
                                   test_data=test_data_cv04,
                                   mat_model='lin-ortho')
     results = np.zeros((5, 5))
