@@ -43,7 +43,7 @@ if __name__ == "__main__":
     opt_hist_file = 'my_blue_history_cv04.csv'
     header = ['E1', 'nu12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
-                                 'xy_model.npy', 'disp_values.npy',
+                                 None, None,
                                  test_data=test_data,
                                  mat_model='iso-two')
 
