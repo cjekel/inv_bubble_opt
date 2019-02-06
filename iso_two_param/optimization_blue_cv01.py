@@ -47,37 +47,37 @@ if __name__ == "__main__":
                                  test_data=test_data,
                                  mat_model='iso-two')
 
-    def conv_my_obj(x):
-        f = np.zeros(x.shape[0])
-        for i, j in enumerate(x):
-            f[i] = my_opt.calc_obj_function_test_data(j)
-        return f
+    # def conv_my_obj(x):
+    #     f = np.zeros(x.shape[0])
+    #     for i, j in enumerate(x):
+    #         f[i] = my_opt.calc_obj_function_test_data(j)
+    #     return f
 
-    bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.1, 2.0]},
-              {'name': 'var_2', 'type': 'continuous', 'domain': [0.01, 0.49]}]
+    # bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.1, 2.0]},
+    #           {'name': 'var_2', 'type': 'continuous', 'domain': [0.01, 0.49]}]
 
-    max_iter = 20
-    np.random.seed(121)
-    myBopt = BayesianOptimization(conv_my_obj, domain=bounds, model_type='GP',
-                                  initial_design_numdata=10,
-                                  initial_design_type='latin',
-                                  exact_feval=True, verbosity=True,
-                                  verbosity_model=False)
+    # max_iter = 20
+    # np.random.seed(121)
+    # myBopt = BayesianOptimization(conv_my_obj, domain=bounds, model_type='GP',
+    #                               initial_design_numdata=10,
+    #                               initial_design_type='latin',
+    #                               exact_feval=True, verbosity=True,
+    #                               verbosity_model=False)
 
-    myBopt.run_optimization(max_iter=max_iter, eps=1e-7, verbosity=True,
-                            report_file='gp_opt_results')
+    # myBopt.run_optimization(max_iter=max_iter, eps=1e-7, verbosity=True,
+    #                         report_file='gp_opt_results')
 
-    print('\n \n EGO Opt Complete \n')
-    print('X values:', myBopt.x_opt)
-    print('Function value:', myBopt.fx_opt)
+    # print('\n \n EGO Opt Complete \n')
+    # print('X values:', myBopt.x_opt)
+    # print('Function value:', myBopt.fx_opt)
 
     my_bounds = np.zeros((2, 2))
     my_bounds[0, 0] = 0.1
     my_bounds[0, 1] = 2.0
     my_bounds[1, 0] = 0.01
     my_bounds[1, 1] = 0.49
-
-    res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, myBopt.x_opt,
+    x0 = [0.15652782, 0.49]
+    res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                         approx_grad=True, bounds=my_bounds, factr=10,
                         pgtol=1e-06, epsilon=1e-3, iprint=1,
                         maxfun=200, maxiter=5, maxls=20)
