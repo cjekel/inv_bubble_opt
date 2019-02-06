@@ -35,7 +35,7 @@ if __name__ == "__main__":
     blue01 = np.load(os.path.join(homeuser, 'blue01.npy'))
     blue02 = np.load(os.path.join(homeuser, 'blue02.npy'))
     blue03 = np.load(os.path.join(homeuser, 'blue03.npy'))
-    test_data = [blue00, blue01, blue02]
+    test_data = [blue00, blue02, blue03]
 
     # initialize a maximum objective value
     max_obj = 30.0  # mm
