@@ -40,7 +40,7 @@ if __name__ == "__main__":
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'my_blue_history_cv04.csv'
+    opt_hist_file = 'my_blue_history_cv02.csv'
     header = ['E1', 'nu12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
