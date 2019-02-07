@@ -216,7 +216,7 @@ def delete_files():
 class BubbleOpt(object):
 
     def __init__(self, opt_hist_file, header, max_obj, xdata_fn, ydata_fn,
-                 test_data=[], mat_model='lin-ortho'):
+                 test_data=[], mat_model='lin-ortho', debug=False):
         # header should be something like E1, E2, G12, OBJ, Fail
         self.opt_hist_file = opt_hist_file
         self.max_obj = max_obj
@@ -235,6 +235,7 @@ class BubbleOpt(object):
         # material model choices
         # mat_model = ['lin-ortho', 'iso-two', 'iso-one']
         self.mat_model = mat_model
+        self.debug = debug
 
     def update_df(self, x, my_obj, suc):
         # update and save dataframe
@@ -277,6 +278,11 @@ class BubbleOpt(object):
             suc = False
         return val, suc
 
+    def debug_obj(self, dx_delta, dy_delta, dz_delta):
+        print('dx delta', np.nansum(dx_delta))
+        print('dy delta', np.nansum(dy_delta))
+        print('dz delta', np.nansum(dz_delta))
+
     def calc_obj_function_abq_data(self, x, run_abq=True):
         # run_abq option to turn on or off abaqus model running
         try:
@@ -301,6 +307,8 @@ class BubbleOpt(object):
                     delete_files()
                     my_obj = np.nansum(dx_delta + dy_delta + dz_delta)   # noqa E501
                     self.update_df(x, my_obj, suc)
+                    if self.debug is True:
+                        self.debug_obj(dx_delta, dy_delta, dz_delta)
                     return my_obj
             else:
                 delete_files()
@@ -341,6 +349,8 @@ class BubbleOpt(object):
                     delete_files()
                     my_obj = dx.mean() + dy.mean() + dz.mean()   # noqa E501
                     self.update_df(x, my_obj, suc)
+                    if self.debug is True:
+                        self.debug_obj(dx.mean(), dy.mean(), dz.mean())
                     return my_obj
             else:
                 delete_files()
