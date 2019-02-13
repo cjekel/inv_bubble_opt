@@ -41,7 +41,7 @@ if __name__ == "__main__":
     max_obj = 30.0  # mm
 
     opt_hist_file = 'my_blue_history_full01.csv'
-    header = ['E1', 'nu12', 'OBJ', 'Success']
+    header = ['E1', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
                                  test_data=test_data,
@@ -75,8 +75,9 @@ if __name__ == "__main__":
     my_bounds[0, 0] = 0.1
     my_bounds[0, 1] = 2.0
     my_bounds[1, 0] = 0.01
-    my_bounds[1, 1] = 0.49
+    my_bounds[1, 1] = 1.0
     x0 = [0.16874658, 0.49]
+    x0[1] = 10.0*x0[0]/(2.0*(1.0 + x0[1]))
 
     res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                         approx_grad=True, bounds=my_bounds, factr=10.,
