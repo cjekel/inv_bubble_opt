@@ -120,7 +120,8 @@ def write_iso_two_model(x):
         with open('model.inp', 'w') as f:
             data = d.read()
             data = data.replace('E1_iso', str(x[0]))
-            data = data.replace('Nu12_iso', str(x[1]))
+            nu = (x[0]/(2.0*x[1]*10) - 1.0
+            data = data.replace('Nu12_iso', str(nu))
             f.write(data)
 
 
