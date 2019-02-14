@@ -47,10 +47,12 @@ if __name__ == "__main__":
 
     # material model results
     x_full = [0.16589052, 0.55325683]
-    x_cv01 = []
-    x_cv02 = []
-    x_cv03 = []
-    x_cv04 = []
+    x_cv01 = [0.15522742, 0.51823352]
+    x_cv02 = [0.19331846, 0.67176569]
+    x_cv03 = [0.16669908, 0.55623303]
+    x0 = [0.19869615, 0.38816052]
+    x0[1] = 10.0*x0[0]/(2.0*(1.0 + x0[1]))
+    x_cv04 = x0
     x = [x_full, x_cv01, x_cv02, x_cv03, x_cv04]
 
     header = ['E1', 'G12', 'OBJ', 'Success']
@@ -97,14 +99,14 @@ if __name__ == "__main__":
     sep = np.zeros((5, 4))
     for i in range(5):
         results[i, 0] = my_full.calc_obj_function_test_data(x[i])
-        # results[i, 1] = my_cv01.calc_obj_function_test_data(x[i],
-        #                                                     run_abq=False)
-        # results[i, 2] = my_cv02.calc_obj_function_test_data(x[i],
-        #                                                     run_abq=False)
-        # results[i, 3] = my_cv03.calc_obj_function_test_data(x[i],
-        #                                                     run_abq=False)
-        # results[i, 4] = my_cv04.calc_obj_function_test_data(x[i],
-        #                                                     run_abq=False)
+        results[i, 1] = my_cv01.calc_obj_function_test_data(x[i],
+                                                            run_abq=False)
+        results[i, 2] = my_cv02.calc_obj_function_test_data(x[i],
+                                                            run_abq=False)
+        results[i, 3] = my_cv03.calc_obj_function_test_data(x[i],
+                                                            run_abq=False)
+        results[i, 4] = my_cv04.calc_obj_function_test_data(x[i],
+                                                            run_abq=False)
         sep[i, 0] = cv01.calc_obj_function_test_data(x[i],
                                                             run_abq=False)
         sep[i, 1] = cv02.calc_obj_function_test_data(x[i],
@@ -113,7 +115,7 @@ if __name__ == "__main__":
                                                             run_abq=False)
         sep[i, 3] = cv04.calc_obj_function_test_data(x[i],
                                                             run_abq=False)
-        break
+        # break
 
     np.save('blue_cross_compute_res.npy', results)
     np.save('blue_cross_compute_sep.npy', sep)
