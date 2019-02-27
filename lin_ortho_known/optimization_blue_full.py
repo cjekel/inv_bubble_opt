@@ -82,6 +82,6 @@ if __name__ == "__main__":
     x0 = [0.26422968, 0.24657734, 0.25798352]
     res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                         approx_grad=True, bounds=my_bounds, factr=10,
-                        pgtol=1e-06, epsilon=1e-3, iprint=1,
+                        pgtol=1e-06, epsilon=1e-3, iprint=1, m=int(1e7),
                         maxfun=200, maxiter=10, maxls=20)
     print(res)
