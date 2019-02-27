@@ -27,6 +27,7 @@ from scipy.interpolate import Rbf
 
 class Interpolate(object):
 
+    @profile
     def __init__(self, X, Disp):
         np, n_nodes, dim = X.shape
         # X is of the form [pressures, nodes, [x y p]]
@@ -45,6 +46,7 @@ class Interpolate(object):
             self.rbf_models_dz.append(Rbf(x, y, Disp[i, :, 2],
                                           function='linear'))
 
+    @profile
     def calc_disp(self, Xnew, p):
         # check for equality
         ind = np.argwhere(p == self.p)
@@ -75,6 +77,7 @@ class Interpolate(object):
             dz = self.rbf_models_dz[ind[0, 0]](Xnew[:, 0], Xnew[:, 1])
         return dx, dy, dz
 
+    @profile
     def calc_delta(self, X_new, Ps, Disp_new):
         # for numerical model
         # calculate the average deviation for each p in Ps
@@ -88,6 +91,7 @@ class Interpolate(object):
             dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[i, :, 2]))
         return dx_delta, dy_delta, dz_delta
 
+    @profile
     def calc_delta_test(self, X_new, Ps):
         # for test data from bubble test
         # calculate the average deviation for each p in Ps
@@ -104,6 +108,7 @@ class Interpolate(object):
         return dx_delta, dy_delta, dz_delta
 
 
+@profile
 def write_material_model(x):
     with open('model_template.inp', 'r') as d:
         with open('model.inp', 'w') as f:
@@ -114,7 +119,7 @@ def write_material_model(x):
             data = data.replace('E23_orth', str(x[1]/2.48))
             f.write(data)
 
-
+@profile
 def write_iso_two_model(x):
     with open('model_template.inp', 'r') as d:
         with open('model.inp', 'w') as f:
@@ -124,7 +129,7 @@ def write_iso_two_model(x):
             data = data.replace('Nu12_iso', str(nu))
             f.write(data)
 
-
+@profile
 def write_iso_one_model(x):
     with open('model_template.inp', 'r') as d:
         with open('model.inp', 'w') as f:
@@ -132,7 +137,7 @@ def write_iso_one_model(x):
             data = data.replace('E1_iso', str(x[0]))
             f.write(data)
 
-
+@profile
 def run_model():
     abqcommand = 'abq job=model interactive cpus=4 ask_delete=OFF > /dev/null'
     if os.name is 'nt':
@@ -141,7 +146,7 @@ def run_model():
     # on linux val == 0 when success
     return val
 
-
+@profile
 def read_sta():
     try:
         with open('model.sta', 'r') as f:
@@ -154,7 +159,7 @@ def read_sta():
         success = False
     return success
 
-
+@profile
 def export_csv_files():
     abq_command = 'abaqus cae noGUI=export_csv_files.py > /dev/null'
     if os.name is 'nt':
@@ -162,7 +167,7 @@ def export_csv_files():
     val = os.system(abq_command)
     return val
 
-
+@profile
 def read_csv_files(save=False):
     # initiate array of zeros
     node_values = np.zeros((201, 937, 3))
@@ -202,7 +207,7 @@ def read_csv_files(save=False):
         np.save('disp_values.npy', node_values)
     return X, node_values
 
-
+@profile
 def delete_files():
     files_to_remove = ['model.com', 'model.dat', 'model.msg', 'model.odb',
                        'model.prt', 'model.sim', 'model.sta', 'model.lck',
@@ -216,6 +221,7 @@ def delete_files():
 
 class BubbleOpt(object):
 
+    @profile
     def __init__(self, opt_hist_file, header, max_obj, xdata_fn, ydata_fn,
                  test_data=[], mat_model='lin-ortho', debug=False):
         # header should be something like E1, E2, G12, OBJ, Fail
@@ -237,7 +243,8 @@ class BubbleOpt(object):
         # mat_model = ['lin-ortho', 'iso-two', 'iso-one']
         self.mat_model = mat_model
         self.debug = debug
-
+    
+    @profile
     def update_df(self, x, my_obj, suc):
         # update and save dataframe
         if len(x) == 3:
@@ -259,6 +266,7 @@ class BubbleOpt(object):
         self.mydf.to_csv(self.opt_hist_file)
         self.run += 1
 
+    @profile
     def run_abq_model(self, x):
         # write the material constants
         if self.mat_model == 'lin-ortho':
@@ -279,11 +287,13 @@ class BubbleOpt(object):
             suc = False
         return val, suc
 
+    @profile
     def debug_obj(self, dx_delta, dy_delta, dz_delta):
         print('dx delta', np.nansum(dx_delta))
         print('dy delta', np.nansum(dy_delta))
         print('dz delta', np.nansum(dz_delta))
 
+    @profile
     def calc_obj_function_abq_data(self, x, run_abq=True):
         # run_abq option to turn on or off abaqus model running
         try:
@@ -319,7 +329,8 @@ class BubbleOpt(object):
             delete_files()
             self.update_df(x, self.max_obj, False)
             return self.max_obj
-
+    
+    @profile
     def calc_obj_function_test_data(self, x, run_abq=True):
         # run_abq option to turn on or off abaqus model running
         try:
