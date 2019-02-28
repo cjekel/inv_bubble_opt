@@ -47,6 +47,6 @@ if __name__ == "__main__":
                                  test_data=test_data)
     E1 = 0.26
     E2 = 0.24
-    G12spread = np.linspace(0.1, 260.0, num=50)
+    G12spread = np.logspace(-1, 1.5, num=50)
     for G12 in G12spread:
         my_opt.calc_obj_function_test_data([E1, E2, G12])
