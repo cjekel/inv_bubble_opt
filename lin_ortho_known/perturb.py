@@ -26,14 +26,13 @@ def write_lin_orth_model(mat, preturb=1e-3, random=False):
                 y = str(my_node_data.values[i-9, 2] + preturb + yrand)
                 z = str(my_node_data.values[i-9, 3])
                 row = [node_number, x, y, z]
-                data[i] = ','.join(row) + ' \n'
+                data[i] = ', '.join(row) + ' \n'
             data = ''.join(data)
             data = data.replace('E1_orth', str(mat[0]))
             data = data.replace('E2_orth', str(mat[1]))
             data = data.replace('G12_orth', str(mat[2]/100.))
             data = data.replace('E23_orth', str(mat[1]/2.48))
             f.write(data)
-            f.write(''.join(data))
 
 
 if __name__ == "__main__":
@@ -59,13 +58,13 @@ if __name__ == "__main__":
     results = np.zeros(3)
     x_full = [0.26422968, 0.24657734, 0.25798352]
 
-    results[0] = my_full.calc_obj_function_test_data(x_full, run_abq=True)
+    # results[0] = my_full.calc_obj_function_test_data(x_full, run_abq=True)
     write_lin_orth_model(x_full, random=False)
-    invbubble.run_model()
-    invbubble.export_csv_files()
-    results[1] = my_full.calc_obj_function_test_data(x_full, run_abq=False)
+    # invbubble.run_model()
+    # invbubble.export_csv_files()
+    # results[1] = my_full.calc_obj_function_test_data(x_full, run_abq=False)
     write_lin_orth_model(x_full, random=True)
-    invbubble.run_model()
-    invbubble.export_csv_files()
-    results[2] = my_full.calc_obj_function_test_data(x_full, run_abq=False)
+    # invbubble.run_model()
+    # invbubble.export_csv_files()
+    # results[2] = my_full.calc_obj_function_test_data(x_full, run_abq=False)
     print(results)
