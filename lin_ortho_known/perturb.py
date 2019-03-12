@@ -18,12 +18,12 @@ def write_lin_orth_model(mat, preturb=1e-3, random=False):
                     xrand = (-preturb - preturb) * np.random.random() + preturb
                     yrand = (-preturb - preturb) * np.random.random() + preturb
                 else:
-                    xrand = 0.0
-                    yrand = 0.0
+                    xrand = preturb
+                    yrand = preturb
                 node_number = str(int(my_node_data.values[i-9, 0]))
 
-                x = str(my_node_data.values[i-9, 1] + preturb + xrand)
-                y = str(my_node_data.values[i-9, 2] + preturb + yrand)
+                x = str(my_node_data.values[i-9, 1] + xrand)
+                y = str(my_node_data.values[i-9, 2] + yrand)
                 z = str(my_node_data.values[i-9, 3])
                 row = [node_number, x, y, z]
                 data[i] = ', '.join(row) + ' \n'
