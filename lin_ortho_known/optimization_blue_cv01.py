@@ -32,10 +32,10 @@ if __name__ == "__main__":
     # load the test data
     # load the test data
     homeuser = os.path.expanduser('~')
-    blue00 = np.load(os.path.join(homeuser, 'blue00.npy', allow_pickle=True))
-    blue01 = np.load(os.path.join(homeuser, 'blue01.npy', allow_pickle=True))
-    blue02 = np.load(os.path.join(homeuser, 'blue02.npy', allow_pickle=True))
-    blue03 = np.load(os.path.join(homeuser, 'blue03.npy', allow_pickle=True))
+    blue00 = np.load(os.path.join(homeuser, 'blue00.npy'), allow_pickle=True)
+    blue01 = np.load(os.path.join(homeuser, 'blue01.npy'), allow_pickle=True)
+    blue02 = np.load(os.path.join(homeuser, 'blue02.npy'), allow_pickle=True)
+    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'), allow_pickle=True)
     test_data = [blue01, blue02, blue03]
 
     # initialize a maximum objective value
