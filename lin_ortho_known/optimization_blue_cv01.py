@@ -32,10 +32,10 @@ if __name__ == "__main__":
     # load the test data
     # load the test data
     homeuser = os.path.expanduser('~')
-    blue00 = np.load(os.path.join(homeuser, 'blue00.npy'))
-    blue01 = np.load(os.path.join(homeuser, 'blue01.npy'))
-    blue02 = np.load(os.path.join(homeuser, 'blue02.npy'))
-    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'))
+    blue00 = np.load(os.path.join(homeuser, 'blue00.npy', allow_pickle=True))
+    blue01 = np.load(os.path.join(homeuser, 'blue01.npy', allow_pickle=True))
+    blue02 = np.load(os.path.join(homeuser, 'blue02.npy', allow_pickle=True))
+    blue03 = np.load(os.path.join(homeuser, 'blue03.npy', allow_pickle=True))
     test_data = [blue01, blue02, blue03]
 
     # initialize a maximum objective value
@@ -79,7 +79,7 @@ if __name__ == "__main__":
     my_bounds[2, 0] = 0.001
     my_bounds[2, 1] = 0.2
     my_bounds[2, :] *= 100.0
-    x0 = [0.22844758,  0.2404437, 0.26662067]
+    x0 = [0.31248343, 0.23532769, 0.47470262]
     res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                         approx_grad=True, bounds=my_bounds, factr=10,
                         pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
