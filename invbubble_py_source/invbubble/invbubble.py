@@ -226,7 +226,7 @@ def write_iso_one_model(x):
 
 def run_model():
     abqcommand = 'abq job=model interactive cpus=4 ask_delete=OFF > /dev/null'
-    if os.name is 'nt':
+    if os.name == 'nt':
         abqcommand = 'abq job=model interactive cpus=4 ask_delete=OFF > NUL'
     val = os.system(abqcommand)
     # on linux val == 0 when success
@@ -248,7 +248,7 @@ def read_sta():
 
 def export_csv_files():
     abq_command = 'abaqus cae noGUI=export_csv_files.py > /dev/null'
-    if os.name is 'nt':
+    if os.name == 'nt':
         abq_command = 'abaqus cae noGUI=export_csv_files.py > NUL'
     val = os.system(abq_command)
     return val
@@ -309,7 +309,8 @@ class BubbleOpt(object):
 
     def __init__(self, opt_hist_file, header, max_obj, xdata_fn, ydata_fn,
                  test_data=[], mat_model='lin-ortho', debug=False,
-                 MyInt=InterpolateThenRBF):
+                 MyInt=InterpolateThenRBF, weights=[1.0, 1.0, 1.0]):
+        self.weights = np.array(weights)
         # header should be something like E1, E2, G12, OBJ, Fail
         self.opt_hist_file = opt_hist_file
         self.max_obj = max_obj
@@ -399,7 +400,8 @@ class BubbleOpt(object):
                                                                      self.Xdata[:, 0, 2],  # noqa E501
                                                                      self.Ydata)  # noqa E501
                     delete_files()
-                    my_obj = np.nansum(dx_delta + dy_delta + dz_delta)   # noqa E501
+                    mydx = np.array((dx_delta, dy_delta, dz_delta))
+                    my_obj = np.nansum(self.weights*mydx)
                     self.update_df(x, my_obj, suc)
                     if self.debug is True:
                         self.debug_obj(dx_delta, dy_delta, dz_delta)
@@ -441,7 +443,8 @@ class BubbleOpt(object):
                         dy[i] = np.nanmean(dy_delta)
                         dz[i] = np.nanmean(dz_delta)
                     delete_files()
-                    my_obj = dx.mean() + dy.mean() + dz.mean()   # noqa E501
+                    mydx = np.array((dx.mean(), dy.mean(), dz.mean()))
+                    my_obj = np.nansum(self.weights*mydx)
                     self.update_df(x, my_obj, suc)
                     if self.debug is True:
                         self.debug_obj(dx.mean(), dy.mean(), dz.mean())

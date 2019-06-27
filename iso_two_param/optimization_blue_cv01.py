@@ -54,7 +54,7 @@ if __name__ == "__main__":
     #     return f
 
     # bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.1, 2.0]},
-    #           {'name': 'var_2', 'type': 'continuous', 'domain': [0.01, 0.49]}]
+    #           {'name': 'var_2', 'type': 'continuous', 'domain': [0.01, 0.49]}]  # noqa
 
     # max_iter = 20
     # np.random.seed(121)
