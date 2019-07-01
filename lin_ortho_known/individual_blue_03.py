@@ -90,7 +90,7 @@ if __name__ == "__main__":
     print('Minimize differential evolution')
     res = differential_evolution(de_obj, my_bounds)
     y_de = my_opt.calc_obj_function_test_data(res.x)
-    if y_de <= myBopt.fx_opt:
+    if y_de < myBopt.fx_opt:
         x0 = res.x
         print('Polishing the GP model improved the result')
     else:
