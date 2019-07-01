@@ -54,7 +54,7 @@ if __name__ == "__main__":
     my_bounds[1, 1] = 1.0
     my_bounds[2, 0] = 0.2
     my_bounds[2, 1] = 0.6
-    x0 = [0.31135523, 0.23734801, 0.00474714]
+    x0 = [0.31135523, 0.23734801, 0.474714]
     res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                         approx_grad=True, bounds=my_bounds, factr=10,
                         pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
