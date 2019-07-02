@@ -102,5 +102,5 @@ if __name__ == "__main__":
     res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                         approx_grad=True, bounds=my_bounds, factr=10,
                         pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
-                        maxfun=400, maxiter=2, maxls=25)
+                        maxfun=400, maxiter=2, maxls=20)
     print(res)
