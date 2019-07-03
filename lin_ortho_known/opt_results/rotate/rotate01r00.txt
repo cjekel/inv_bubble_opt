@@ -1,0 +1,110 @@
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  1.64042D+00    |proj g|=  1.44507D-01
+
+At iterate    1    f=  1.63726D+00    |proj g|=  1.38023D-01
+
+At iterate    2    f=  1.63707D+00    |proj g|=  1.32686D-01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      2      4      4     0     0   1.327D-01   1.637D+00
+  F =   1.63706593831385     
+
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT                 
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 1, time elapsed: 133.87s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 2, time elapsed: 202.74s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 3, time elapsed: 332.34s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 4, time elapsed: 466.58s
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+num acquisition: 5, time elapsed: 601.07s
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+num acquisition: 6, time elapsed: 667.99s
+
+ 
+ EGO Opt Complete 
+
+X values: [0.34281612 0.24753703 0.47521649]
+Function value: 1.6447833242458274
+Minimize differential evolution
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Polishing the GP model improved the result
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+(array([0.3326856 , 0.25224572, 0.49218125]), 1.637065938313852, {'grad': array([ 0.2226848 , -0.53465357, -0.01126225]), 'task': b'STOP: TOTAL NO. of ITERATIONS REACHED LIMIT', 'funcalls': 16, 'nit': 2, 'warnflag': 1})
