@@ -41,7 +41,7 @@ if __name__ == "__main__":
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'rotate04r00.csv'
+    opt_hist_file = 'rotate04r01.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
@@ -56,7 +56,7 @@ if __name__ == "__main__":
     bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.2, 0.4]},
               {'name': 'var_2', 'type': 'continuous', 'domain': [0.18, 0.3]},
               {'name': 'var_3', 'type': 'continuous', 'domain': [0.2, 0.6]}]
-    X = np.array([[0.22454522, 0.22144314, 0.27924031],
+    X = np.array([[0.22489513, 0.22329521, 0.2774434],
                   [0.34281612, 0.24753703, 0.47521649],
                   [0.31248343, 0.23532769, 0.47470262],
                   [0.29993751, 0.23220076, 0.44900705],
@@ -102,5 +102,5 @@ if __name__ == "__main__":
     res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                         approx_grad=True, bounds=my_bounds, factr=10,
                         pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
-                        maxfun=400, maxiter=2, maxls=20)
+                        maxfun=400, maxiter=10, maxls=20)
     print(res)
