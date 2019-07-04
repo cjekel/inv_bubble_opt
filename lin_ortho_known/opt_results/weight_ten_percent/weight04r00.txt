@@ -1,0 +1,150 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(re_weight_04.py:5575): Gdk-CRITICAL **: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(re_weight_04.py:5575): Gdk-CRITICAL **: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
