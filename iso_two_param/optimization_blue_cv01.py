@@ -41,11 +41,12 @@ if __name__ == "__main__":
     max_obj = 30.0  # mm
 
     opt_hist_file = 'weight01r00.csv'
-    header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
+    header = ['E', 'G', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
                                  test_data=test_data,
-                                 weights=[1.0, 1.0, 0.103])
+                                 weights=[1.0, 1.0, 0.103],
+                                 mat_model='iso-two')
 
     def conv_my_obj(x):
         f = np.zeros(x.shape[0])
@@ -53,13 +54,13 @@ if __name__ == "__main__":
             f[i] = my_opt.calc_obj_function_test_data(j)
         return f
 
-    bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.2, 0.4]},
-              {'name': 'var_2', 'type': 'continuous', 'domain': [0.18, 0.3]},
-              {'name': 'var_3', 'type': 'continuous', 'domain': [0.2, 0.6]}]
-    X = np.array([[0.31173864, 0.23519048, 0.47272037],
-                  [0.31248343, 0.23532769, 0.47470262],
-                  [0.29935206, 0.23869944, 0.40985012],
-                  [0.27680849, 0.21697615, 0.44515473]])
+    bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.12, 0.25]},
+              {'name': 'var_2', 'type': 'continuous', 'domain': [0.3, 0.9]}]
+    X = np.array([[0.15522742, 0.51823352],
+                  [0.193, 0.52],
+                  [0.167, 0.56],
+                  [0.198, 0.7],
+                  [0.166, 0.55]])
     Y = conv_my_obj(X).reshape(-1, 1)
     max_iter = 6
     np.random.seed(121)
@@ -76,13 +77,11 @@ if __name__ == "__main__":
     print('X values:', myBopt.x_opt)
     print('Function value:', myBopt.fx_opt)
 
-    my_bounds = np.zeros((3, 2))
-    my_bounds[0, 0] = 0.2
-    my_bounds[0, 1] = 0.4
-    my_bounds[1, 0] = 0.18
-    my_bounds[1, 1] = 0.3
-    my_bounds[2, 0] = 0.2
-    my_bounds[2, 1] = 0.6
+    my_bounds = np.zeros((2, 2))
+    my_bounds[0, 0] = 0.12
+    my_bounds[0, 1] = 0.25
+    my_bounds[1, 0] = 0.2
+    my_bounds[1, 1] = 0.9
 
     def de_obj(X):
         y_hat, _ = myBopt.model.predict(X)
