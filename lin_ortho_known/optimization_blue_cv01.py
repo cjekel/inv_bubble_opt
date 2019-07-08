@@ -37,12 +37,10 @@ if __name__ == "__main__":
     blue03 = np.load(os.path.join(homeuser, 'blue03.npy'), allow_pickle=True)
     test_data = [blue01, blue02, blue03]
 
-    test_data = [blue00]
-
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'weight01r00.csv'
+    opt_hist_file = 'bluecv01r00.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
