@@ -109,4 +109,8 @@ if __name__ == "__main__":
         xres[i] = res[0]
         fresp[i] = res[1]
         break
-    print(res)
+    print(fres)
+    # find the best result
+    best_ind = np.armin(fres)
+    print('Best result', fres[best_ind))
+    print('Best values', xres[best_ind])
