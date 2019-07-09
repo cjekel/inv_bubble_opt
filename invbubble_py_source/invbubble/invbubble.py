@@ -448,6 +448,11 @@ class BubbleOpt(object):
                     self.update_df(x, my_obj, suc)
                     if self.debug is True:
                         self.debug_obj(dx.mean(), dy.mean(), dz.mean())
+                        print('Individual results')
+                        print('dx', dx)
+                        print('dy', dy)
+                        print('dz', dz)
+                        print('weight*dz', self.weights[2]*dz)
                     return my_obj
             else:
                 delete_files()
