@@ -57,12 +57,14 @@ if __name__ == "__main__":
                                   100.0, None, None,
                                   test_data=test_data_full,
                                   mat_model='lin-ortho',
-                                  weights=[1.0, 1.0, .103])
+                                  weights=[1.0, 1.0, .103],
+                                  debug=True)
     my_cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
                                   100.0, None, None,
                                   test_data=test_data_cv01,
                                   mat_model='lin-ortho',
-                                  weights=[1.0, 1.0, .103])
+                                  weights=[1.0, 1.0, .103],
+                                  debug=True)
 
     my_cv02 = invbubble.BubbleOpt('my_full_cv02.csv', header,
                                   100.0, None, None,
