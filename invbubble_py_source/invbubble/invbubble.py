@@ -25,6 +25,7 @@ import pandas as pd
 from scipy.interpolate import Rbf
 from scipy import linalg
 from scipy.spatial.distance import cdist, pdist, squareform
+from joblib import Parallel, delayed
 
 
 def my_exception(ex):
@@ -186,19 +187,38 @@ class InterpolateThenRBF(object):
             dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[i, :, 2]))
         return dx_delta, dy_delta, dz_delta
 
+    def calc_delta_test_par(self, i):
+        p = self.Ps[i]
+        newX = self.X_new[i][:, :2]
+        Disp_new = self.X_new[i][:, 3:]
+        dx_new, dy_new, dz_new = self.calc_disp(newX, p)
+        dx_delta = np.nanmean(np.abs(dx_new - Disp_new[:, 0]))
+        dy_delta = np.nanmean(np.abs(dy_new - Disp_new[:, 1]))
+        dz_delta = np.nanmean(np.abs(dz_new - Disp_new[:, 2]))
+        return dx_delta, dy_delta, dz_delta
+
     def calc_delta_test(self, X_new, Ps):
         # for test data from bubble test
         # calculate the average deviation for each p in Ps
-        dx_delta = np.zeros(len(Ps))
-        dy_delta = np.zeros(len(Ps))
-        dz_delta = np.zeros(len(Ps))
-        for i, p in enumerate(Ps):
-            newX = X_new[i][:, :2]
-            Disp_new = X_new[i][:, 3:]
-            dx_new, dy_new, dz_new = self.calc_disp(newX, p)
-            dx_delta[i] = np.nanmean(np.abs(dx_new - Disp_new[:, 0]))
-            dy_delta[i] = np.nanmean(np.abs(dy_new - Disp_new[:, 1]))
-            dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[:, 2]))
+        np = len(Ps)
+        dx_delta = np.zeros(np)
+        dy_delta = np.zeros(np)
+        dz_delta = np.zeros(np)
+        self.X_new = X_new
+        self.Ps = Ps
+        # for i, p in enumerate(Ps):
+        #     newX = X_new[i][:, :2]
+        #     Disp_new = X_new[i][:, 3:]
+        #     dx_new, dy_new, dz_new = self.calc_disp(newX, p)
+        #     dx_delta[i] = np.nanmean(np.abs(dx_new - Disp_new[:, 0]))
+        #     dy_delta[i] = np.nanmean(np.abs(dy_new - Disp_new[:, 1]))
+        #     dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[:, 2]))
+        dx = Parallel(n_jobs=-1)(delayed(self.calc_delta_test_par)(i) for i in range(np))  # noqa E501
+        dx = np.array(dx)
+        print(dx.shape)
+        dx_delta = dx[:, 0]
+        dy_delta = dx[:, 1]
+        dz_delta = dx[:, 2]
         return dx_delta, dy_delta, dz_delta
 
 
