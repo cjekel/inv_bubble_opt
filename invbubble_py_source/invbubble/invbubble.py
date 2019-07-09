@@ -187,6 +187,20 @@ class InterpolateThenRBF(object):
             dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[i, :, 2]))
         return dx_delta, dy_delta, dz_delta
 
+    def calc_delta_test(self, X_new, Ps):
+        # for test data from bubble test
+        # calculate the average deviation for each p in Ps
+        dx_delta = np.zeros(len(Ps))
+        dy_delta = np.zeros(len(Ps))
+        dz_delta = np.zeros(len(Ps))
+        for i, p in enumerate(Ps):
+            newX = X_new[i][:, :2]
+            Disp_new = X_new[i][:, 3:]
+            dx_new, dy_new, dz_new = self.calc_disp(newX, p)
+            dx_delta[i] = np.nanmean(np.abs(dx_new - Disp_new[:, 0]))
+            dy_delta[i] = np.nanmean(np.abs(dy_new - Disp_new[:, 1]))
+            dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[:, 2]))
+        return dx_delta, dy_delta, dz_delta
 
 def rbf_function(xi, di, xih):
     "simple rbf linear function inspired by scipy.interploate.rbf"
