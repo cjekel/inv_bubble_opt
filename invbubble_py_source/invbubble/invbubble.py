@@ -256,20 +256,9 @@ class InterpolateSimpleRBF(object):
         dz_delta = np.zeros(pn)
         self.X_new = X_new
         self.Ps = Ps
-        # for i, p in enumerate(Ps):
-        #     newX = X_new[i][:, :2]
-        #     Disp_new = X_new[i][:, 3:]
-        #     dx_new, dy_new, dz_new = self.calc_disp(newX, p)
-        #     dx_delta[i] = np.nanmean(np.abs(dx_new - Disp_new[:, 0]))
-        #     dy_delta[i] = np.nanmean(np.abs(dy_new - Disp_new[:, 1]))
-        #     dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[:, 2]))
         dx = Parallel(n_jobs=-1, backend='loky')(delayed(self.calc_delta_test_par)(i) for i in range(pn))  # noqa E501
         dx = np.array(dx)
-        print(dx.shape)
-        dx_delta = dx[:, 0]
-        dy_delta = dx[:, 1]
-        dz_delta = dx[:, 2]
-        return dx_delta, dy_delta, dz_delta
+        return dx[:, 0], dx[:, 1], dx[:, 2]
 
 
 def write_material_model(x):
