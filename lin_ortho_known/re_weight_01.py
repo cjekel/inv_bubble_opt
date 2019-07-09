@@ -60,22 +60,23 @@ if __name__ == "__main__":
     X = np.array([[0.22375600, 0.23479667, 0.27276717],
                   [0.34281612, 0.24753703, 0.47521649],
                   [0.29993751, 0.23220076, 0.44900705],
-                  [0.2800472, 0.24353683, 0.32121494]])
-    Y = conv_my_obj(X).reshape(-1, 1)
+                  [0.2800472, 0.24353683, 0.32121494],
+                  [0.22084207, 0.27291883, 0.36580145]])
+    # Y = conv_my_obj(X).reshape(-1, 1)
     max_iter = 6
     np.random.seed(121)
-    myBopt = BayesianOptimization(conv_my_obj, domain=bounds, model_type='GP',
-                                  X=X, Y=Y,
-                                  initial_design_numdata=0,
-                                  exact_feval=True, verbosity=True,
-                                  verbosity_model=False)
+    # myBopt = BayesianOptimization(conv_my_obj, domain=bounds, model_type='GP',
+    #                               X=X, Y=Y,
+    #                               initial_design_numdata=0,
+    #                               exact_feval=True, verbosity=True,
+    #                               verbosity_model=False)
 
-    myBopt.run_optimization(max_iter=max_iter, eps=1e-7, verbosity=True,
-                            report_file='gp_opt_results')
+    # myBopt.run_optimization(max_iter=max_iter, eps=1e-7, verbosity=True,
+    #                         report_file='gp_opt_results')
 
-    print('\n \n EGO Opt Complete \n')
-    print('X values:', myBopt.x_opt)
-    print('Function value:', myBopt.fx_opt)
+    # print('\n \n EGO Opt Complete \n')
+    # print('X values:', myBopt.x_opt)
+    # print('Function value:', myBopt.fx_opt)
 
     my_bounds = np.zeros((3, 2))
     my_bounds[0, 0] = 0.2
@@ -85,22 +86,27 @@ if __name__ == "__main__":
     my_bounds[2, 0] = 0.2
     my_bounds[2, 1] = 0.6
 
-    def de_obj(X):
-        y_hat, _ = myBopt.model.predict(X)
-        return y_hat
+    # def de_obj(X):
+    #     y_hat, _ = myBopt.model.predict(X)
+    #     return y_hat
 
-    print('Minimize differential evolution')
-    res = differential_evolution(de_obj, my_bounds)
-    y_de = my_opt.calc_obj_function_test_data(res.x)
-    if y_de < myBopt.fx_opt:
-        x0 = res.x
-        print('Polishing the GP model improved the result')
-    else:
-        x0 = myBopt.x_opt
-        print('Polishing the GP model did not help')
-
-    res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
-                        approx_grad=True, bounds=my_bounds, factr=10,
-                        pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
-                        maxfun=400, maxiter=10, maxls=25)
+    # print('Minimize differential evolution')
+    # res = differential_evolution(de_obj, my_bounds)
+    # y_de = my_opt.calc_obj_function_test_data(res.x)
+    # if y_de < myBopt.fx_opt:
+    #     x0 = res.x
+    #     print('Polishing the GP model improved the result')
+    # else:
+    #     x0 = myBopt.x_opt
+    #     print('Polishing the GP model did not help')
+    xres = np.zeros_like(X)
+    fres = np.zeros(5)
+    for i, x0 in enumerate(X):
+        res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
+                            approx_grad=True, bounds=my_bounds, factr=1e12,
+                            pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
+                            maxfun=2, maxiter=10, maxls=2)
+        xres[i] = res[0]
+        fresp[i] = res[1]
+        break
     print(res)

@@ -984,4 +984,4 @@ ABNORMAL_TERMINATION_IN_LNSRCH
 
  Total User time 0.000E+00 seconds.
 
-(array([0.31173864, 0.23519048, 0.47272037]), 0.477386881022281, {'grad': array([ 7.29471162e+01,  7.94022915e-01, -6.04832105e-03]), 'task': b'ABNORMAL_TERMINATION_IN_LNSRCH', 'funcalls': 452, 'nit': 4, 'warnflag': 1})
+(array([ .31173864, 0.23519048, 0.47272037]), 0.477386881022281, {'grad': array([ 7.29471162e+01,  7.94022915e-01, -6.04832105e-03]), 'task': b'ABNORMAL_TERMINATION_IN_LNSRCH', 'funcalls': 452, 'nit': 4, 'warnflag': 1})
