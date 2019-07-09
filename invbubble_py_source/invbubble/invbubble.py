@@ -250,10 +250,10 @@ class InterpolateSimpleRBF(object):
     def calc_delta_test(self, X_new, Ps):
         # for test data from bubble test
         # calculate the average deviation for each p in Ps
-        np = len(Ps)
-        dx_delta = np.zeros(np)
-        dy_delta = np.zeros(np)
-        dz_delta = np.zeros(np)
+        pn = len(Ps)
+        dx_delta = np.zeros(pn)
+        dy_delta = np.zeros(pn)
+        dz_delta = np.zeros(pn)
         self.X_new = X_new
         self.Ps = Ps
         # for i, p in enumerate(Ps):
@@ -263,7 +263,7 @@ class InterpolateSimpleRBF(object):
         #     dx_delta[i] = np.nanmean(np.abs(dx_new - Disp_new[:, 0]))
         #     dy_delta[i] = np.nanmean(np.abs(dy_new - Disp_new[:, 1]))
         #     dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[:, 2]))
-        dx = Parallel(n_jobs=-1, backend='loky')(delayed(self.calc_delta_test_par)(i) for i in range(np))  # noqa E501
+        dx = Parallel(n_jobs=-1, backend='loky')(delayed(self.calc_delta_test_par)(i) for i in range(pn))  # noqa E501
         dx = np.array(dx)
         print(dx.shape)
         dx_delta = dx[:, 0]
@@ -380,7 +380,7 @@ def delete_files():
         try:
             os.remove(f)
         except Exception as ex:
-            my_exception(ex)
+            _ = 'no such file named ' + ex
             pass
 
 
