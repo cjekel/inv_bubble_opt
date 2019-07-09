@@ -365,11 +365,10 @@ def delete_files():
     for f in files_to_remove:
         try:
             os.remove(f)
+        except FileNotFoundError:
+            pass
         except Exception as ex:
-            if ex == FileNotFoundError:
-                pass
-            else:
-                my_exception(ex)
+            my_exception(ex)
 
 
 class BubbleOpt(object):
