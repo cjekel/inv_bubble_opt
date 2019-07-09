@@ -380,8 +380,10 @@ def delete_files():
         try:
             os.remove(f)
         except Exception as ex:
-            _ = 'no such file named ' + ex
-            pass
+            if ex is FileNotFoundError:
+                pass
+            else:
+                my_exception(ex)
 
 
 class BubbleOpt(object):
