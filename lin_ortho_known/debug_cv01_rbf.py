@@ -64,7 +64,9 @@ if __name__ == "__main__":
                                   test_data=test_data_cv01,
                                   mat_model='lin-ortho',
                                   weights=[1.0, 1.0, .103],
-                                  debug=True)
+                                  debug=True,
+                                  MyInt=invbubble.InterpolateSimpleRBF)
+
     my_cv01d = invbubble.BubbleOpt('my_full_cv01.csv', header,
                                    100.0, None, None,
                                    test_data=test_data_cv01,
@@ -94,7 +96,7 @@ if __name__ == "__main__":
 
     for i in range(1):
         results[i, 0] = my_cv01.calc_obj_function_test_data(x[i])
-        results[i, 1] = my_cv01d.calc_obj_function_test_data(x[i], run_abq=False)  # noqa
+        # results[i, 1] = my_cv01d.calc_obj_function_test_data(x[i], run_abq=False)  # noqa
 
         # results[i, 1] = my_blue01.calc_obj_function_test_data(x[i],
         #                                                       run_abq=False)
