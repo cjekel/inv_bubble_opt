@@ -35,30 +35,30 @@ if __name__ == "__main__":
     blue03 = np.load(os.path.join(homeuser, 'blue03.npy'), allow_pickle=True)
 
     # set up the various data configurations
-    test_data_full = [blue00, blue01, blue02, blue03]
+    # test_data_full = [blue00, blue01, blue02, blue03]
     test_data_cv01 = [blue01, blue02, blue03]
-    test_data_cv02 = [blue00, blue02, blue03]
-    test_data_cv03 = [blue00, blue01, blue03]
-    test_data_cv04 = [blue00, blue01, blue02]
+    # test_data_cv02 = [blue00, blue02, blue03]
+    # test_data_cv03 = [blue00, blue01, blue03]
+    # test_data_cv04 = [blue00, blue01, blue02]
 
     # material model results
-    x_full = [0.31173864, 0.23519048, 0.47272037]
+    # x_full = [0.31173864, 0.23519048, 0.47272037]
     x_cv01 = [0.22084207, 0.27291883, 0.36580145]
-    x_cv02 = [0.31248343, 0.23532769, 0.47470262]
-    x_cv03 = [0.29993751, 0.23220076, 0.44900705]
-    x_cv04 = [0.2800472, 0.24353683, 0.32121494]
-    x = [x_full, x_cv01, x_cv02, x_cv03, x_cv04]
+    x_blue01 = [0.31248343, 0.23532769, 0.47470262]
+    x_blue02 = [0.29935206, 0.23869944, 0.40985012]
+    x_blue03 = [0.27680849, 0.21697615, 0.44515473]
+    x = [x_cv01, x_blue01, x_blue02, x_blue03]
 
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     'my_full_test.csv'
 
     # initialize the bubble objects
-    my_full = invbubble.BubbleOpt('my_full_test.csv', header,
-                                  100.0, None, None,
-                                  test_data=test_data_full,
-                                  mat_model='lin-ortho',
-                                  weights=[1.0, 1.0, .103],
-                                  debug=True)
+    # my_full = invbubble.BubbleOpt('my_full_test.csv', header,
+    #                               100.0, None, None,
+    #                               test_data=test_data_full,
+    #                               mat_model='lin-ortho',
+    #                               weights=[1.0, 1.0, .103],
+    #                               debug=True)
     my_cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
                                   100.0, None, None,
                                   test_data=test_data_cv01,
@@ -66,28 +66,34 @@ if __name__ == "__main__":
                                   weights=[1.0, 1.0, .103],
                                   debug=True)
 
-    my_cv02 = invbubble.BubbleOpt('my_full_cv02.csv', header,
-                                  100.0, None, None,
-                                  test_data=test_data_cv02,
-                                  mat_model='lin-ortho')
-    my_cv03 = invbubble.BubbleOpt('my_full_cv03.csv', header,
-                                  100.0, None, None,
-                                  test_data=test_data_cv03,
-                                  mat_model='lin-ortho')
-    my_cv04 = invbubble.BubbleOpt('my_full_cv04.csv', header,
-                                  100.0, None, None,
-                                  test_data=test_data_cv04,
-                                  mat_model='lin-ortho')
-    results = np.zeros((5, 5))
+    my_blue01 = invbubble.BubbleOpt('my_full_cv02.csv', header,
+                                    100.0, None, None,
+                                    test_data=[blue01],
+                                    mat_model='lin-ortho',
+                                    weights=[1.0, 1.0, .103],
+                                    debug=True)
+    my_blue02 = invbubble.BubbleOpt('my_full_cv03.csv', header,
+                                    100.0, None, None,
+                                    test_data=[blue02],
+                                    mat_model='lin-ortho',
+                                    weights=[1.0, 1.0, .103],
+                                    debug=True)
+    my_blue03 = invbubble.BubbleOpt('my_full_cv04.csv', header,
+                                    100.0, None, None,
+                                    test_data=[blue03],
+                                    mat_model='lin-ortho',
+                                    weights=[1.0, 1.0, .103],
+                                    debug=True)
+    results = np.zeros((4, 4))
 
-    for i in range(2):
-        results[i, 0] = my_full.calc_obj_function_test_data(x[i])
-        results[i, 1] = my_cv01.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
-        # results[i, 2] = my_cv02.calc_obj_function_test_data(x[i],
-        #                                                     run_abq=False)
-        # results[i, 3] = my_cv03.calc_obj_function_test_data(x[i],
-        #                                                     run_abq=False)
+    for i in range(4):
+        results[i, 0] = my_cv01.calc_obj_function_test_data(x[i])
+        results[i, 1] = my_blue01.calc_obj_function_test_data(x[i],
+                                                              run_abq=False)
+        results[i, 2] = my_blue02.calc_obj_function_test_data(x[i],
+                                                              run_abq=False)
+        results[i, 3] = my_blue03.calc_obj_function_test_data(x[i],
+                                                              run_abq=False)
         # results[i, 4] = my_cv04.calc_obj_function_test_data(x[i],
         #                                                     run_abq=False)
 
