@@ -65,7 +65,8 @@ if __name__ == "__main__":
     # Y = conv_my_obj(X).reshape(-1, 1)
     max_iter = 6
     np.random.seed(121)
-    # myBopt = BayesianOptimization(conv_my_obj, domain=bounds, model_type='GP',
+    # myBopt = BayesianOptimization(conv_my_obj, domain=bounds,
+    #                               model_type='GP',
     #                               X=X, Y=Y,
     #                               initial_design_numdata=0,
     #                               exact_feval=True, verbosity=True,
@@ -107,10 +108,10 @@ if __name__ == "__main__":
                             pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
                             maxfun=2, maxiter=10, maxls=2)
         xres[i] = res[0]
-        fresp[i] = res[1]
+        fres[i] = res[1]
         break
     print(fres)
     # find the best result
     best_ind = np.armin(fres)
-    print('Best result', fres[best_ind))
+    print('Best result', fres[best_ind])
     print('Best values', xres[best_ind])
