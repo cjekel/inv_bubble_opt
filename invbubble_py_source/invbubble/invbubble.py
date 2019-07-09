@@ -23,6 +23,13 @@ import os
 import numpy as np
 import pandas as pd
 from scipy.interpolate import Rbf
+from scipy import linalg
+from scipy.spatial.distance import cdist, pdist, squareform
+
+
+def my_exception(ex):
+    print('!!!!! *** Exception *** !!!!!')
+    print(ex)
 
 
 class Interpolate(object):
@@ -195,6 +202,84 @@ class InterpolateThenRBF(object):
         return dx_delta, dy_delta, dz_delta
 
 
+def rbf_function(xi, di, xih):
+    "simple rbf linear function inspired by scipy.interploate.rbf"
+    A = squareform(pdist(xi, 'euclidean'))  # Pairwise norm
+    nodes = linalg.solve(A, di)
+    r = cdist(xih, xi, 'euclidean')
+    res = np.dot(r, nodes)
+    return res
+
+
+class InterpolateSimpleRBF(object):
+
+    def __init__(self, X, Disp):
+        # np, n_nodes, dim = X.shape
+        # X is of the form [pressures, nodes, [x y p]]
+        # I need to construct P * 3 rbf models for each disp
+        self.p = X[:, 0, 2]  # pressures
+        self.x = X[0, :, 0]
+        self.y = X[0, :, 1]
+        self.xy = X[0, :, :2]
+        self.Disp = Disp
+
+    def calc_disp(self, Xnew, p):
+        # check for equality
+        ind = np.argwhere(p == self.p)
+        if ind.size == 0:
+            # check for greater than
+            ub = np.argmax(self.p > p)
+            lb = ub - 1
+            if lb == -1:
+                print('Error: Extrapolation not allowed!!!')
+                raise np.linalg.LinAlgError
+            dp = self.p[ub] - self.p[lb]
+            pt = p - self.p[lb]
+            # linear interpolation formula
+            # (x - x0) / (p - p0) =  (x1 - x0) / (p1 - p0)
+
+            # linearlly interoplate the FE model
+            x1 = self.Disp[ub, :, :]
+            x0 = self.Disp[lb, :, :]
+            delta = ((pt*(x1 - x0)) / dp) + x0
+            dx = rbf_function(self.xy, delta[:, 0], Xnew[:, :2])
+            dy = rbf_function(self.xy, delta[:, 1], Xnew[:, :2])
+            dz = rbf_function(self.xy, delta[:, 2], Xnew[:, :2])
+        else:
+            dx = rbf_function(self.xy, ind[:, 0], Xnew[:, :2])
+            dy = rbf_function(self.xy, ind[:, 1], Xnew[:, :2])
+            dz = rbf_function(self.xy, ind[:, 2], Xnew[:, :2])
+        return dx, dy, dz
+
+    def calc_delta(self, X_new, Ps, Disp_new):
+        # for numerical model
+        # calculate the average deviation for each p in Ps
+        dx_delta = np.zeros(len(Ps))
+        dy_delta = np.zeros(len(Ps))
+        dz_delta = np.zeros(len(Ps))
+        for i, p in enumerate(Ps):
+            dx_new, dy_new, dz_new = self.calc_disp(X_new[i], p)
+            dx_delta[i] = np.nanmean(np.abs(dx_new - Disp_new[i, :, 0]))
+            dy_delta[i] = np.nanmean(np.abs(dy_new - Disp_new[i, :, 1]))
+            dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[i, :, 2]))
+        return dx_delta, dy_delta, dz_delta
+
+    def calc_delta_test(self, X_new, Ps):
+        # for test data from bubble test
+        # calculate the average deviation for each p in Ps
+        dx_delta = np.zeros(len(Ps))
+        dy_delta = np.zeros(len(Ps))
+        dz_delta = np.zeros(len(Ps))
+        for i, p in enumerate(Ps):
+            newX = X_new[i][:, :2]
+            Disp_new = X_new[i][:, 3:]
+            dx_new, dy_new, dz_new = self.calc_disp(newX, p)
+            dx_delta[i] = np.nanmean(np.abs(dx_new - Disp_new[:, 0]))
+            dy_delta[i] = np.nanmean(np.abs(dy_new - Disp_new[:, 1]))
+            dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[:, 2]))
+        return dx_delta, dy_delta, dz_delta
+
+
 def write_material_model(x):
     with open('model_template.inp', 'r') as d:
         with open('model.inp', 'w') as f:
@@ -241,7 +326,8 @@ def read_sta():
         if read_data[-1] == ' THE ANALYSIS HAS COMPLETED SUCCESSFULLY\n':
             # the analysis was completed successfully
             success = True
-    except:
+    except Exception as ex:
+        my_exception(ex)
         success = False
     return success
 
@@ -301,7 +387,8 @@ def delete_files():
     for f in files_to_remove:
         try:
             os.remove(f)
-        except:
+        except Exception as ex:
+            my_exception(ex)
             pass
 
 
@@ -309,7 +396,7 @@ class BubbleOpt(object):
 
     def __init__(self, opt_hist_file, header, max_obj, xdata_fn, ydata_fn,
                  test_data=[], mat_model='lin-ortho', debug=False,
-                 MyInt=InterpolateThenRBF, weights=[1.0, 1.0, 1.0]):
+                 MyInt=InterpolateSimpleRBF, weights=[1.0, 1.0, 1.0]):
         self.weights = np.array(weights)
         # header should be something like E1, E2, G12, OBJ, Fail
         self.opt_hist_file = opt_hist_file
@@ -410,7 +497,8 @@ class BubbleOpt(object):
                 delete_files()
                 self.update_df(x, self.max_obj, suc)
                 return self.max_obj
-        except:
+        except Exception as ex:
+            my_exception(ex)
             delete_files()
             self.update_df(x, self.max_obj, False)
             return self.max_obj
@@ -458,7 +546,8 @@ class BubbleOpt(object):
                 delete_files()
                 self.update_df(x, self.max_obj, suc)
                 return self.max_obj
-        except:
+        except Exception as ex:
+            my_exception(ex)
             delete_files()
             self.update_df(x, self.max_obj, False)
             return self.max_obj
