@@ -251,9 +251,6 @@ class InterpolateSimpleRBF(object):
         # for test data from bubble test
         # calculate the average deviation for each p in Ps
         pn = len(Ps)
-        dx_delta = np.zeros(pn)
-        dy_delta = np.zeros(pn)
-        dz_delta = np.zeros(pn)
         self.X_new = X_new
         self.Ps = Ps
         dx = Parallel(n_jobs=-1, backend='loky')(delayed(self.calc_delta_test_par)(i) for i in range(pn))  # noqa E501
@@ -369,7 +366,7 @@ def delete_files():
         try:
             os.remove(f)
         except Exception as ex:
-            if ex is FileNotFoundError:
+            if ex == FileNotFoundError:
                 pass
             else:
                 my_exception(ex)
