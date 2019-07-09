@@ -109,8 +109,8 @@ if __name__ == "__main__":
         #                                                       run_abq=False)
         # results[i, 4] = my_cv04.calc_obj_function_test_data(x[i],
         #                                                     run_abq=False)
-    print('Run time new joblib rbf:' t1 - t0)
-    print('Run time new joblib rbf:' t2 - t1)
+    print('Run time new joblib rbf:', t1 - t0)
+    print('Run time new joblib rbf:', t2 - t1)
     # np.save('blue_cross_compute_res.npy', results)
 
     print(results)
