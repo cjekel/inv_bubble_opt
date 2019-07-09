@@ -46,7 +46,7 @@ if __name__ == "__main__":
     x_cv01 = [0.22084207, 0.27291883, 0.36580145]
     x_cv02 = [0.31248343, 0.23532769, 0.47470262]
     x_cv03 = [0.29993751, 0.23220076, 0.44900705]
-    x_cv04 = [ 0.2800472, 0.24353683, 0.32121494]
+    x_cv04 = [0.2800472, 0.24353683, 0.32121494]
     x = [x_full, x_cv01, x_cv02, x_cv03, x_cv04]
 
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
@@ -56,7 +56,7 @@ if __name__ == "__main__":
     my_full = invbubble.BubbleOpt('my_full_test.csv', header,
                                   100.0, None, None,
                                   test_data=test_data_full,
-                                  mat_model='lin-ortho'
+                                  mat_model='lin-ortho',
                                   weights=[1.0, 1.0, .103])
     my_cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
                                   100.0, None, None,
