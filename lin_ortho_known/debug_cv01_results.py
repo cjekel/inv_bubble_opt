@@ -29,10 +29,10 @@ if __name__ == "__main__":
 
     # load the test data
     homeuser = os.path.expanduser('~')
-    blue00 = np.load(os.path.join(homeuser, 'blue00.npy'))
-    blue01 = np.load(os.path.join(homeuser, 'blue01.npy'))
-    blue02 = np.load(os.path.join(homeuser, 'blue02.npy'))
-    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'))
+    blue00 = np.load(os.path.join(homeuser, 'blue00.npy'), allow_pickle=True)
+    blue01 = np.load(os.path.join(homeuser, 'blue01.npy'), allow_pickle=True)
+    blue02 = np.load(os.path.join(homeuser, 'blue02.npy'), allow_pickle=True)
+    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'), allow_pickle=True)
 
     # set up the various data configurations
     test_data_full = [blue00, blue01, blue02, blue03]
@@ -42,8 +42,8 @@ if __name__ == "__main__":
     test_data_cv04 = [blue00, blue01, blue02]
 
     # material model results
-    x_full = [0.26422968, 0.24657734, 0.25798352]
-    x_cv01 = [0.22844758,  0.2404437, 0.26662067]
+    x_full = [0.31173864, 0.23519048, 0.47272037]
+    x_cv01 = [0.22084207, 0.27291883, 0.36580145]
     x_cv02 = [0.31248343, 0.23532769, 0.47470262]
     x_cv03 = [0.29993751, 0.23220076, 0.44900705]
     x_cv04 = [ 0.2800472, 0.24353683, 0.32121494]
@@ -56,11 +56,14 @@ if __name__ == "__main__":
     my_full = invbubble.BubbleOpt('my_full_test.csv', header,
                                   100.0, None, None,
                                   test_data=test_data_full,
-                                  mat_model='lin-ortho')
+                                  mat_model='lin-ortho'
+                                  weights=[1.0, 1.0, .103])
     my_cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
                                   100.0, None, None,
                                   test_data=test_data_cv01,
-                                  mat_model='lin-ortho')
+                                  mat_model='lin-ortho',
+                                  weights=[1.0, 1.0, .103])
+
     my_cv02 = invbubble.BubbleOpt('my_full_cv02.csv', header,
                                   100.0, None, None,
                                   test_data=test_data_cv02,
@@ -75,17 +78,17 @@ if __name__ == "__main__":
                                   mat_model='lin-ortho')
     results = np.zeros((5, 5))
 
-    for i in range(5):
+    for i in range(2):
         results[i, 0] = my_full.calc_obj_function_test_data(x[i])
         results[i, 1] = my_cv01.calc_obj_function_test_data(x[i],
                                                             run_abq=False)
-        results[i, 2] = my_cv02.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
-        results[i, 3] = my_cv03.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
-        results[i, 4] = my_cv04.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
+        # results[i, 2] = my_cv02.calc_obj_function_test_data(x[i],
+        #                                                     run_abq=False)
+        # results[i, 3] = my_cv03.calc_obj_function_test_data(x[i],
+        #                                                     run_abq=False)
+        # results[i, 4] = my_cv04.calc_obj_function_test_data(x[i],
+        #                                                     run_abq=False)
 
-    np.save('blue_cross_compute_res.npy', results)
+    # np.save('blue_cross_compute_res.npy', results)
 
-    print(results)
+    # print(results)
