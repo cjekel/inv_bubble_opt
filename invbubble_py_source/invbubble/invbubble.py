@@ -202,6 +202,7 @@ class InterpolateThenRBF(object):
             dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[:, 2]))
         return dx_delta, dy_delta, dz_delta
 
+
 def rbf_function(xi, di, xih):
     "simple rbf linear function inspired by scipy.interploate.rbf"
     A = squareform(pdist(xi, 'euclidean'))  # Pairwise norm
