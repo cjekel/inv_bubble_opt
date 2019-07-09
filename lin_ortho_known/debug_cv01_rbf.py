@@ -22,6 +22,7 @@
 import numpy as np
 import invbubble
 import os
+from time import time
 
 
 if __name__ == "__main__":
@@ -95,9 +96,11 @@ if __name__ == "__main__":
     results = np.zeros((4, 4))
 
     for i in range(1):
+        t0 = time()
         results[i, 0] = my_cv01.calc_obj_function_test_data(x[i])
-        # results[i, 1] = my_cv01d.calc_obj_function_test_data(x[i], run_abq=False)  # noqa
-
+        t1 = time()
+        results[i, 1] = my_cv01d.calc_obj_function_test_data(x[i])
+        t2 = time()
         # results[i, 1] = my_blue01.calc_obj_function_test_data(x[i],
         #                                                       run_abq=False)
         # results[i, 2] = my_blue02.calc_obj_function_test_data(x[i],
@@ -106,7 +109,8 @@ if __name__ == "__main__":
         #                                                       run_abq=False)
         # results[i, 4] = my_cv04.calc_obj_function_test_data(x[i],
         #                                                     run_abq=False)
-
+    print('Run time new joblib rbf:' t1 - t0)
+    print('Run time new joblib rbf:' t2 - t1)
     # np.save('blue_cross_compute_res.npy', results)
 
     print(results)
