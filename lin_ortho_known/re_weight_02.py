@@ -117,5 +117,7 @@ if __name__ == "__main__":
     print(xres)
     # find the best result
     best_ind = np.argmin(fres)
-    print('Best result', fres[best_ind])
-    print('Best values', xres[best_ind])
+    message = 'Best result: ' + str(fres[best_ind]) + """\n
+               Best values: """ + str(xres[best_ind])
+    print(message)
+    invbubble.send_email('cjekel@ufl.edu', 're_weight 02 done', message)

@@ -33,10 +33,14 @@ if __name__ == "__main__":
     # blue00 = np.load(os.path.join(homeuser, 'blue00.npy'), allow_pickle=True)
     # blue01 = np.load(os.path.join(homeuser, 'blue01.npy'), allow_pickle=True)
     # blue02 = np.load(os.path.join(homeuser, 'blue02.npy'), allow_pickle=True)
-    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'), allow_pickle=True)
-    blue03r = np.load(os.path.join(homeuser, 'blue03_rotated_90.npy'), allow_pickle=True)
-
-    x = [0.2, 0.25768191, 0.47262295]
+    blue03 = np.load(os.path.join(homeuser, 'blue01.npy'), allow_pickle=True)
+    blue03r = np.load(os.path.join(homeuser, 'blue01_rotated_90.npy'), allow_pickle=True)
+    X = [[0.24893909, 0.27467338, 0.26778179],
+         [0.20514338, 0.28857021, 0.46209386],
+         [0.21491692, 0.29055702, 0.43062061],
+         [0.2398684, 0.28214838, 0.31395765],
+         [0.22084207, 0.27291883, 0.36580145]]
+    # x = [0.2, 0.25768191, 0.47262295]
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     'my_full_test.csv'
 
@@ -57,9 +61,10 @@ if __name__ == "__main__":
                               debug=True,
                               MyInt=invbubble.InterpolateSimpleRBF)
 
-    results = np.zeros(2)
-    results[0] = my.calc_obj_function_test_data(x)
-    results[1] = myr.calc_obj_function_test_data(x, run_abq=False)
+    results = np.zeros((5, 2))
+    for i, x in enumerate(X):
+        results[i, 0] = my.calc_obj_function_test_data(x)
+        results[i, 1] = myr.calc_obj_function_test_data(x, run_abq=False)
     # np.save('blue_cross_compute_res.npy', results)
 
     print(results)

@@ -120,5 +120,4 @@ if __name__ == "__main__":
     message = 'Best result: ' + str(fres[best_ind]) + """\n
                Best values: """ + str(xres[best_ind])
     print(message)
-    invbubble.send_email('cjekel@ufl.edu', 're_weight 03 done', message)
-    
+    invbubble.send_email('cjekel@ufl.edu', 're_weight 04 done', message)
