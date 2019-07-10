@@ -109,7 +109,6 @@ if __name__ == "__main__":
                             maxfun=200, maxiter=10, maxls=20)
         xres[i] = res[0]
         fres[i] = res[1]
-        break
     print(fres)
     print(xres)
     # find the best result
