@@ -41,7 +41,7 @@ if __name__ == "__main__":
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'weight01r00.csv'
+    opt_hist_file = 'weight01r02.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
@@ -106,12 +106,13 @@ if __name__ == "__main__":
         res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                             approx_grad=True, bounds=my_bounds, factr=1e12,
                             pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
-                            maxfun=2, maxiter=10, maxls=2)
+                            maxfun=200, maxiter=10, maxls=20)
         xres[i] = res[0]
         fres[i] = res[1]
         break
     print(fres)
+    print(xres)
     # find the best result
-    best_ind = np.armin(fres)
+    best_ind = np.argmin(fres)
     print('Best result', fres[best_ind])
     print('Best values', xres[best_ind])
