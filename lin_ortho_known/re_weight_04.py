@@ -34,18 +34,18 @@ if __name__ == "__main__":
     homeuser = os.path.expanduser('~')
     blue00 = np.load(os.path.join(homeuser, 'blue00.npy'),
                      allow_pickle=True)
-    blue01 = np.load(os.path.join(homeuser, 'blue01_rotated_90.npy'),
+    blue01 = np.load(os.path.join(homeuser, 'blue01.npy'),
                      allow_pickle=True)
-    blue02 = np.load(os.path.join(homeuser, 'blue02_rotated_90.npy'),
+    blue02 = np.load(os.path.join(homeuser, 'blue02.npy'),
                      allow_pickle=True)
-    blue03 = np.load(os.path.join(homeuser, 'blue03_rotated_90.npy'),
+    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'),
                      allow_pickle=True)
     test_data = [blue03]
 
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'weight04r03.csv'
+    opt_hist_file = 'weight04r02.csv'
     header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
@@ -117,5 +117,8 @@ if __name__ == "__main__":
     print(xres)
     # find the best result
     best_ind = np.argmin(fres)
-    print('Best result', fres[best_ind])
-    print('Best values', xres[best_ind])
+    message = 'Best result: ' + str(fres[best_ind]) + """\n
+               Best values: """ + str(xres[best_ind])
+    print(message)
+    invbubble.send_email('cjekel@ufl.edu', 're_weight 03 done', message)
+    
