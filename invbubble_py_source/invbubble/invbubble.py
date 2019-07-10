@@ -20,6 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 import os
+import smtplib, ssl
 import numpy as np
 import pandas as pd
 from scipy.interpolate import Rbf
@@ -386,7 +387,8 @@ def delete_files():
         except FileNotFoundError:
             pass
         except Exception as ex:
-            my_exception(ex)
+            pass  # I don'n need to see errors when files aren't deleted
+            # my_exception(ex)
 
 
 class BubbleOpt(object):
@@ -548,3 +550,27 @@ class BubbleOpt(object):
             delete_files()
             self.update_df(x, self.max_obj, False)
             return self.max_obj
+
+
+def send_email(receiver_email, subject, message):
+    # get user and email details
+    homeuser = os.path.expanduser('~')
+    with open(os.path.join(homeuser, 'yandex.info')) as f:
+        lines = f.readlines()
+        sender_email = lines[0].strip('\n')
+        password = lines[1].strip('\n')
+
+    # print(sender_email, password)
+
+    port = 465  # For starttls
+    smtp_server = "smtp.yandex.com"
+    sender_email = "work.complete@yandex.com"
+    my_message = """\
+    Subject: """ + subject + """\n
+
+    """ + message
+
+    with smtplib.SMTP_SSL(smtp_server, port) as server:
+        server.ehlo()  # Can be omitted
+        server.login(sender_email, password)
+        server.sendmail(sender_email, receiver_email, my_message)
