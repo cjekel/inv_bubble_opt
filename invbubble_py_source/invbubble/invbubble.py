@@ -319,6 +319,8 @@ def read_sta():
         if read_data[-1] == ' THE ANALYSIS HAS COMPLETED SUCCESSFULLY\n':
             # the analysis was completed successfully
             success = True
+        else:
+            success = False
     except Exception as ex:
         my_exception(ex)
         success = False
