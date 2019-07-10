@@ -58,8 +58,8 @@ if __name__ == "__main__":
                               MyInt=invbubble.InterpolateSimpleRBF)
 
     results = np.zeros(2)
-    results[0] = my.calc_obj_function_abq_data(x)
-    results[1] = myr.calc_obj_function_abq_data(x, run_abq=False)
+    results[0] = my.calc_obj_function_test_data(x)
+    results[1] = myr.calc_obj_function_test_data(x, run_abq=False)
     # np.save('blue_cross_compute_res.npy', results)
 
     print(results)
