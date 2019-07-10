@@ -1,0 +1,5279 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(re_weight_03.py:2537): Gdk-CRITICAL **: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(re_weight_03.py:2537): Gdk-CRITICAL **: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  5.84554D-01    |proj g|=  1.76244D-01
+
+At iterate    1    f=  5.79096D-01    |proj g|=  1.69088D-01
+
+At iterate    2    f=  5.75226D-01    |proj g|=  1.63708D-01
+
+At iterate    3    f=  5.72526D-01    |proj g|=  1.60620D-01
+
+At iterate    4    f=  5.56263D-01    |proj g|=  5.95489D-02
+
+At iterate    5    f=  5.54043D-01    |proj g|=  1.08817D-01
+
+At iterate    6    f=  5.45930D-01    |proj g|=  4.88195D-02
+
+At iterate    7    f=  5.42124D-01    |proj g|=  4.52338D-02
+
+At iterate    8    f=  5.40682D-01    |proj g|=  7.62620D-02
+
+At iterate    9    f=  5.40682D-01    |proj g|=  7.62620D-02
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      9     45     10     0     0   7.626D-02   5.407D-01
+  F =  0.54068217084805126     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  5.84126D-01    |proj g|=  6.75370D-02
+
+At iterate    1    f=  5.82073D-01    |proj g|=  1.40305D-01
+  ys=-9.412E-04  -gs= 1.275E-03 BFGS update SKIPPED
+
+At iterate    2    f=  5.74037D-01    |proj g|=  1.09493D-01
+  ys=-1.330E+00  -gs= 2.117E-02 BFGS update SKIPPED
+
+At iterate    3    f=  5.42461D-01    |proj g|=  6.04975D-02
+
+At iterate    4    f=  5.40781D-01    |proj g|=  5.80082D-02
+
+At iterate    5    f=  5.24252D-01    |proj g|=  1.11434D-01
+
+At iterate    6    f=  5.22795D-01    |proj g|=  1.14334D-01
+
+At iterate    7    f=  5.22152D-01    |proj g|=  1.15753D-01
+
+At iterate    8    f=  5.19857D-01    |proj g|=  1.03821D-01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      8     68     16     2     2   1.038D-01   5.199D-01
+  F =  0.51985663059006593     
+
+STOP: TOTAL NO. of f AND g EVALUATIONS EXCEEDS LIMIT        
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  5.70451D-01    |proj g|=  9.99375D-02
+
+At iterate    1    f=  5.50591D-01    |proj g|=  7.21303D-02
+
+At iterate    2    f=  5.48544D-01    |proj g|=  7.04243D-02
+
+At iterate    3    f=  5.37211D-01    |proj g|=  9.58331D-02
+
+At iterate    4    f=  5.32680D-01    |proj g|=  1.01825D-01
+
+At iterate    5    f=  5.25764D-01    |proj g|=  1.10950D-01
+
+At iterate    6    f=  5.24288D-01    |proj g|=  1.13226D-01
+
+At iterate    7    f=  5.23402D-01    |proj g|=  1.12985D-01
+
+At iterate    8    f=  5.21666D-01    |proj g|=  4.85476D-02
+
+At iterate    9    f=  5.21138D-01    |proj g|=  1.02670D-01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+!!!!! *** Exception *** !!!!!
+local variable 'success' referenced before assignment
+!!!!! *** Exception *** !!!!!
+[Errno 21] Is a directory: 'model.simdir'
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+[0.54068217 0.51985663 0.52113843 0.52961014 0.52666372]
+[[0.24056103 0.25626203 0.27091281]
+ [0.20730215 0.28382072 0.46508561]
+ [0.21110242 0.28266962 0.43545918]
+ [0.23436035 0.27577425 0.31732384]
+ [0.22084207 0.27291883 0.36580145]]
+Best result 0.5198566305900659
+Best values [0.20730215 0.28382072 0.46508561]
+
+ Warning:  more than 10 function and gradient
+   evaluations in the last line search.  Termination
+   may possibly be caused by a bad search direction.
+
+ Bad direction in the line search;
+   refresh the lbfgs memory and restart the iteration.
+
+ Warning:  more than 10 function and gradient
+   evaluations in the last line search.  Termination
+   may possibly be caused by a bad search direction.
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      9     59     11     0     0   1.027D-01   5.211D-01
+  F =  0.52113842570768754     
+
+STOP: TOTAL NO. of f AND g EVALUATIONS EXCEEDS LIMIT        
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  5.56647D-01    |proj g|=  8.00472D-02
+
+At iterate    1    f=  5.42450D-01    |proj g|=  5.86634D-02
+
+At iterate    2    f=  5.38354D-01    |proj g|=  5.38824D-02
+
+At iterate    3    f=  5.33043D-01    |proj g|=  9.49499D-02
+
+At iterate    4    f=  5.31245D-01    |proj g|=  9.74505D-02
+
+At iterate    5    f=  5.29677D-01    |proj g|=  9.58766D-02
+  ys=-3.152E-05  -gs= 7.874E-02 BFGS update SKIPPED
+
+At iterate    6    f=  5.29610D-01    |proj g|=  9.57742D-02
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      6     45      8     1     0   9.577D-02   5.296D-01
+  F =  0.52961014114978466     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  5.26664D-01    |proj g|=  9.29188D-02
+
+At iterate    1    f=  5.26664D-01    |proj g|=  9.29188D-02
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      1     20      3     0     2   9.292D-02   5.267D-01
+  F =  0.52666371503136056     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
