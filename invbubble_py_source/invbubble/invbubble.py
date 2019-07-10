@@ -565,10 +565,7 @@ def send_email(receiver_email, subject, message):
     port = 465  # For starttls
     smtp_server = "smtp.yandex.com"
     sender_email = "work.complete@yandex.com"
-    my_message = """\
-    Subject: """ + subject + """\n
-
-    """ + message
+    my_message = 'Subject: ' + subject + '\n\n' + message
 
     with smtplib.SMTP_SSL(smtp_server, port) as server:
         server.ehlo()  # Can be omitted
