@@ -34,7 +34,7 @@ if __name__ == "__main__":
     homeuser = os.path.expanduser('~')
     blue00 = np.load(os.path.join(homeuser, 'blue00.npy'),
                      allow_pickle=True)
-    blue01 = np.load(os.path.join(homeuser, 'blue01_rotated_90.npy'),
+    blue01 = np.load(os.path.join(homeuser, 'blue01.npy'),
                      allow_pickle=True)
     blue02 = np.load(os.path.join(homeuser, 'blue02_rotated_90.npy'),
                      allow_pickle=True)
