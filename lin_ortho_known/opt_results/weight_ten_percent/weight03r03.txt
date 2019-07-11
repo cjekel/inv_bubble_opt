@@ -1,0 +1,3304 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(re_weight_03.py:21329): Gdk-CRITICAL **: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+
+(re_weight_03.py:21329): Gdk-CRITICAL **: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  5.91275D-01    |proj g|=  1.76244D-01
+
+At iterate    1    f=  5.69532D-01    |proj g|=  1.59244D-01
+
+At iterate    2    f=  5.62123D-01    |proj g|=  6.44435D-02
+
+At iterate    3    f=  5.58520D-01    |proj g|=  1.58641D-01
+
+At iterate    4    f=  5.55440D-01    |proj g|=  1.58714D-01
+
+At iterate    5    f=  5.49347D-01    |proj g|=  1.58267D-01
+
+At iterate    6    f=  5.48491D-01    |proj g|=  1.57452D-01
+
+At iterate    7    f=  5.48040D-01    |proj g|=  1.55741D-01
+
+At iterate    8    f=  5.42122D-01    |proj g|=  1.41628D-01
+
+At iterate    9    f=  5.38905D-01    |proj g|=  1.31699D-01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      9     54     13     0     0   1.317D-01   5.389D-01
+  F =  0.53890501019452186     
+
+STOP: TOTAL NO. of f AND g EVALUATIONS EXCEEDS LIMIT        
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  5.37898D-01    |proj g|=  1.42816D-01
+
+At iterate    1    f=  5.27042D-01    |proj g|=  1.05580D-01
+  ys=-1.591E+00  -gs= 2.235E-01 BFGS update SKIPPED
+
+At iterate    2    f=  5.27042D-01    |proj g|=  1.05580D-01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      2     26      6     1     2   1.056D-01   5.270D-01
+  F =  0.52704235488763684     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  5.28783D-01    |proj g|=  9.99375D-02
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      1     21      2     0     1   9.994D-02   5.288D-01
+  F =  0.52878276046283368     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  5.34666D-01    |proj g|=  8.00472D-02
+
+At iterate    1    f=  5.34666D-01    |proj g|=  8.00472D-02
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<19 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS NOT BEEN COMPLETED
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+Abaqus License Manager checked out the following license:
+"cae_teaching" from Flexnet server 10.244.64.150
+<18 out of 20 licenses remain available>.
+[0.53890501 0.52704235 0.52878276 0.53466599 0.53283915]
+[[0.2683013  0.25533525 0.26763479]
+ [0.30557956 0.22992804 0.47576341]
+ [0.29993751 0.23220076 0.44900705]
+ [0.2800472  0.24353683 0.32121494]
+ [0.2857258  0.24346993 0.36339671]]
+Best result: 0.5270423548876368
+
+               Best values: [0.30557956 0.22992804 0.47576341]
+
+ Bad direction in the line search;
+   refresh the lbfgs memory and restart the iteration.
+
+ Warning:  more than 10 function and gradient
+   evaluations in the last line search.  Termination
+   may possibly be caused by a bad search direction.
+
+ Line search cannot locate an adequate point after 20 function
+  and gradient evaluations.  Previous x, f and g restored.
+ Possible causes: 1 error in function or gradient evaluation;
+                  2 rounding error dominate computation.
+
+ Warning:  more than 10 function and gradient
+   evaluations in the last line search.  Termination
+   may possibly be caused by a bad search direction.
+
+ Bad direction in the line search;
+   refresh the lbfgs memory and restart the iteration.
+
+ Line search cannot locate an adequate point after 20 function
+  and gradient evaluations.  Previous x, f and g restored.
+ Possible causes: 1 error in function or gradient evaluation;
+                  2 rounding error dominate computation.
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      1     20      3     0     2   8.005D-02   5.347D-01
+  F =  0.53466599336136222     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            3     M =        10000
+
+At X0         0 variables are exactly at the bounds
+
+At iterate    0    f=  5.57083D-01    |proj g|=  1.79158D-01
+
+At iterate    1    f=  5.38465D-01    |proj g|=  1.29880D-01
+
+At iterate    2    f=  5.33322D-01    |proj g|=  1.15704D-01
+
+At iterate    3    f=  5.32839D-01    |proj g|=  8.57258D-02
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    3      4     60      9     0     2   8.573D-02   5.328D-01
+  F =  0.53283915265062798     
+
+ABNORMAL_TERMINATION_IN_LNSRCH                              
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
