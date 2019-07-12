@@ -122,4 +122,4 @@ if __name__ == "__main__":
                The full result: """ + str(fres) + """\n
                Full values: """ + str(xres)
     print(message)
-    invbubble.send_email('cjekel@ufl.edu', 're_weight 02 done', message)
+    invbubble.send_email('cjekel@ufl.edu', 'ind 02 done', message)
