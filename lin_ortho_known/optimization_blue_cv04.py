@@ -48,7 +48,7 @@ if __name__ == "__main__":
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
                                  test_data=test_data,
-                                 weights=[1.0, 1.0, 0.103])
+                                 weights=[1.0, 1.0, 1.0])
 
     X = np.array([[0.22375600, 0.23479667, 0.27276717],
                   [0.34281612, 0.24753703, 0.47521649],
