@@ -20,7 +20,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 import os
-import smtplib, ssl
+import smtplib
 import numpy as np
 import pandas as pd
 from scipy.interpolate import Rbf
@@ -387,7 +387,7 @@ def delete_files():
         except FileNotFoundError:
             pass
         except Exception as ex:
-            pass  # I don'n need to see errors when files aren't deleted
+            pass  # I don't need to see errors when files aren't deleted
             # my_exception(ex)
 
 
