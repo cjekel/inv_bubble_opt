@@ -22,8 +22,7 @@
 import numpy as np
 import invbubble
 import os
-from GPyOpt.methods import BayesianOptimization
-from scipy.optimize import fmin_l_bfgs_b, differential_evolution
+from scipy.optimize import fmin_l_bfgs_b
 
 
 if __name__ == "__main__":
@@ -31,16 +30,20 @@ if __name__ == "__main__":
 
     # load the test data
     homeuser = os.path.expanduser('~')
-    blue00 = np.load(os.path.join(homeuser, 'blue00.npy'), allow_pickle=True)
-    blue01 = np.load(os.path.join(homeuser, 'blue01.npy'), allow_pickle=True)
-    blue02 = np.load(os.path.join(homeuser, 'blue02.npy'), allow_pickle=True)
-    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'), allow_pickle=True)
+    blue00 = np.load(os.path.join(homeuser, 'blue00.npy'),
+                     allow_pickle=True)
+    blue01 = np.load(os.path.join(homeuser, 'blue01_rotated_90.npy'),
+                     allow_pickle=True)
+    blue02 = np.load(os.path.join(homeuser, 'blue02_rotated_90.npy'),
+                     allow_pickle=True)
+    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'),
+                     allow_pickle=True)
     test_data = [blue01, blue02, blue03]
 
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'weight01r00.csv'
+    opt_hist_file = 'iso01r00.csv'
     header = ['E', 'G', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
@@ -48,34 +51,7 @@ if __name__ == "__main__":
                                  weights=[1.0, 1.0, 0.103],
                                  mat_model='iso-two')
 
-    def conv_my_obj(x):
-        f = np.zeros(x.shape[0])
-        for i, j in enumerate(x):
-            f[i] = my_opt.calc_obj_function_test_data(j)
-        return f
-
-    bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.12, 0.25]},
-              {'name': 'var_2', 'type': 'continuous', 'domain': [0.3, 0.9]}]
-    X = np.array([[0.15522742, 0.51823352],
-                  [0.193, 0.52],
-                  [0.167, 0.56],
-                  [0.198, 0.7],
-                  [0.166, 0.55]])
-    Y = conv_my_obj(X).reshape(-1, 1)
-    max_iter = 6
     np.random.seed(121)
-    myBopt = BayesianOptimization(conv_my_obj, domain=bounds, model_type='GP',
-                                  X=X, Y=Y,
-                                  initial_design_numdata=0,
-                                  exact_feval=True, verbosity=True,
-                                  verbosity_model=False)
-
-    myBopt.run_optimization(max_iter=max_iter, eps=1e-7, verbosity=True,
-                            report_file='gp_opt_results')
-
-    print('\n \n EGO Opt Complete \n')
-    print('X values:', myBopt.x_opt)
-    print('Function value:', myBopt.fx_opt)
 
     my_bounds = np.zeros((2, 2))
     my_bounds[0, 0] = 0.12
@@ -83,22 +59,27 @@ if __name__ == "__main__":
     my_bounds[1, 0] = 0.2
     my_bounds[1, 1] = 0.9
 
-    def de_obj(X):
-        y_hat, _ = myBopt.model.predict(X)
-        return y_hat
+    X = np.array([[0.166, 0.55],
+                  [0.155, 0.52],
+                  [0.193, 0.67],
+                  [0.167, 0.56],
+                  [0.198, 0.7]])
 
-    print('Minimize differential evolution')
-    res = differential_evolution(de_obj, my_bounds)
-    y_de = my_opt.calc_obj_function_test_data(res.x)
-    if y_de < myBopt.fx_opt:
-        x0 = res.x
-        print('Polishing the GP model improved the result')
-    else:
-        x0 = myBopt.x_opt
-        print('Polishing the GP model did not help')
+    xres = np.zeros_like(X)
+    fres = np.zeros(5)
+    for i, x0 in enumerate(X):
+        res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
+                            approx_grad=True, bounds=my_bounds, factr=1e12,
+                            pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
+                            maxfun=200, maxiter=10, maxls=20)
+        xres[i] = res[0]
+        fres[i] = res[1]
 
-    res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
-                        approx_grad=True, bounds=my_bounds, factr=10,
-                        pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
-                        maxfun=400, maxiter=10, maxls=20)
-    print(res)
+    # find the best result
+    best_ind = np.argmin(fres)
+    message = 'Best result: ' + str(fres[best_ind]) + """\n
+               Best values: """ + str(xres[best_ind]) + """\n
+               The full result: """ + str(fres) + """\n
+               Full values: """ + str(xres)
+    print(message)
+    invbubble.send_email('cjekel@ufl.edu', 'iso blue cv 01 done', message)
