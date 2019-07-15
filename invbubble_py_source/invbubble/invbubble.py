@@ -440,18 +440,26 @@ class BubbleOpt(object):
         self.run += 1
 
     def run_abq_model(self, x):
+        val = 1
         # write the material constants
         if self.mat_model == 'lin-ortho':
             write_material_model(x)
+            # run the finite element model
+            val = run_model()
         elif self.mat_model == 'iso-two':
-            write_iso_two_model(x)
+            # run the finite element model
+            nu = (x[0]/(2.0*x[1]*1e-1)) - 1.0
+            # only run the model if poisson's ratio is valid
+            if nu <= 0.5 and nu >= 0.0:
+                write_iso_two_model(x)
+                val = run_model()
         elif self.mat_model == 'iso-one':
             write_iso_one_model(x)
+            # run the finite element model
+            val = run_model()
         else:
             print('You have assigned an improper material model!')
             raise ValueError
-        # run the finite element model
-        val = run_model()
         if val == 0:
             # check the status file to ensure the FE model was successful
             suc = read_sta()
