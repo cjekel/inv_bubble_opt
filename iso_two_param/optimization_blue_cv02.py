@@ -70,7 +70,7 @@ if __name__ == "__main__":
     for i, x0 in enumerate(X):
         res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                             approx_grad=True, bounds=my_bounds, factr=1e12,
-                            pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
+                            pgtol=1e-06, epsilon=1e-3, iprint=1, m=10000,
                             maxfun=200, maxiter=10, maxls=20)
         xres[i] = res[0]
         fres[i] = res[1]
