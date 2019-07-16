@@ -51,10 +51,10 @@ if __name__ == "__main__":
 
     # material model results
     # x_full = [0.16589052, 0.55325683]
-    x_cv01 = [0.15522742, 0.51823352]
-    x_cv02 = [0.19331846, 0.67176569]
-    x_cv03 = [0.16669908, 0.55623303]
-    x_cv04 = [0.16669617, 0.55565391]
+    x_cv01 = [0.15435401, 0.51477134]
+    x_cv02 = [0.17015839, 0.56719466]
+    x_cv03 = []
+    x_cv04 = []
     x = [x_cv01, x_cv02, x_cv03, x_cv04]
 
     header = ['E1', 'G12', 'OBJ', 'Success']
@@ -80,25 +80,32 @@ if __name__ == "__main__":
     #                               100.0, None, None,
     #                               test_data=test_data_cv04,
     #                               mat_model='iso-two')
+    # set weights
+    weights = [1.0, 1.0, 0.103]
     cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
-                                  100.0, None, None,
-                                  test_data=test01,
-                                  mat_model='iso-two')
+                               100.0, None, None,
+                               test_data=test01,
+                               mat_model='iso-two',
+                               weights=weights)
     cv02 = invbubble.BubbleOpt('my_full_cv02.csv', header,
-                                  100.0, None, None,
-                                  test_data=test02,
-                                  mat_model='iso-two')
+                               100.0, None, None,
+                               test_data=test02,
+                               mat_model='iso-two',
+                               weights=weights)
     cv03 = invbubble.BubbleOpt('my_full_cv03.csv', header,
-                                  100.0, None, None,
-                                  test_data=test03,
-                                  mat_model='iso-two')
+                               100.0, None, None,
+                               test_data=test03,
+                               mat_model='iso-two',
+                               weights=weights)
     cv04 = invbubble.BubbleOpt('my_full_cv04.csv', header,
-                                  100.0, None, None,
-                                  test_data=test04,
-                                  mat_model='iso-two')
+                               100.0, None, None,
+                               test_data=test04,
+                               mat_model='iso-two',
+                               weights=weights)
     sep = np.zeros((4, 4))
     cv_scores = np.zeros(4)
     cv_ind = np.array([[1, 2, 3], [0, 2, 3], [0, 1, 3], [0, 1, 2]])
+    cv_values = np.zeros(4)
     for i in range(4):
         # results[i, 0] = my_full.calc_obj_function_test_data(x[i])
         # results[i, 1] = my_cv01.calc_obj_function_test_data(x[i],
@@ -116,6 +123,8 @@ if __name__ == "__main__":
         cv_scores[i] = sep[i, cv_ind[i]].mean()
         # break
 
+    cv_values = sep.diagonal()
+
     # np.save('blue_cross_compute_res.npy', results)
     np.save('blue_cross_compute_sep.npy', sep)
 
@@ -123,3 +132,4 @@ if __name__ == "__main__":
     # print('..')
     print(sep)
     print(cv_scores)
+    print('CV values: \n', cv_values)
