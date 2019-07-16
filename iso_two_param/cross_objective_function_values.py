@@ -53,8 +53,8 @@ if __name__ == "__main__":
     # x_full = [0.16589052, 0.55325683]
     x_cv01 = [0.15435401, 0.51477134]
     x_cv02 = [0.17015839, 0.56719466]
-    x_cv03 = []
-    x_cv04 = []
+    x_cv03 = [0.18651902, 0.63648801]
+    x_cv04 = [0.16983201, 0.56624473]
     x = [x_cv01, x_cv02, x_cv03, x_cv04]
 
     header = ['E1', 'G12', 'OBJ', 'Success']
@@ -81,7 +81,7 @@ if __name__ == "__main__":
     #                               test_data=test_data_cv04,
     #                               mat_model='iso-two')
     # set weights
-    weights = [1.0, 1.0, 0.103]
+    weights = [1.0, 1.0, 1.0]
     cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
                                100.0, None, None,
                                test_data=test01,
