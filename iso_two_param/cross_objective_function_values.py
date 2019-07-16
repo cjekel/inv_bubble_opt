@@ -29,10 +29,14 @@ if __name__ == "__main__":
 
     # load the test data
     homeuser = os.path.expanduser('~')
-    blue00 = np.load(os.path.join(homeuser, 'blue00.npy'))
-    blue01 = np.load(os.path.join(homeuser, 'blue01.npy'))
-    blue02 = np.load(os.path.join(homeuser, 'blue02.npy'))
-    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'))
+    blue00 = np.load(os.path.join(homeuser, 'blue00.npy'),
+                     allow_pickle=True)
+    blue01 = np.load(os.path.join(homeuser, 'blue01_rotated_90.npy'),
+                     allow_pickle=True)
+    blue02 = np.load(os.path.join(homeuser, 'blue02_rotated_90.npy'),
+                     allow_pickle=True)
+    blue03 = np.load(os.path.join(homeuser, 'blue03.npy'),
+                     allow_pickle=True)
 
     # set up the various data configurations
     test_data_full = [blue00, blue01, blue02, blue03]
@@ -46,37 +50,36 @@ if __name__ == "__main__":
     test04 = [blue03]
 
     # material model results
-    x_full = [0.16589052, 0.55325683]
+    # x_full = [0.16589052, 0.55325683]
     x_cv01 = [0.15522742, 0.51823352]
     x_cv02 = [0.19331846, 0.67176569]
     x_cv03 = [0.16669908, 0.55623303]
     x_cv04 = [0.16669617, 0.55565391]
-    x = [x_full, x_cv01, x_cv02, x_cv03, x_cv04]
+    x = [x_cv01, x_cv02, x_cv03, x_cv04]
 
     header = ['E1', 'G12', 'OBJ', 'Success']
-    'my_full_test.csv'
 
-    # initialize the bubble objects
-    my_full = invbubble.BubbleOpt('my_full_test.csv', header,
-                                  100.0, None, None,
-                                  test_data=test_data_full,
-                                  mat_model='iso-two')
-    my_cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
-                                  100.0, None, None,
-                                  test_data=test_data_cv01,
-                                  mat_model='iso-two')
-    my_cv02 = invbubble.BubbleOpt('my_full_cv02.csv', header,
-                                  100.0, None, None,
-                                  test_data=test_data_cv02,
-                                  mat_model='iso-two')
-    my_cv03 = invbubble.BubbleOpt('my_full_cv03.csv', header,
-                                  100.0, None, None,
-                                  test_data=test_data_cv03,
-                                  mat_model='iso-two')
-    my_cv04 = invbubble.BubbleOpt('my_full_cv04.csv', header,
-                                  100.0, None, None,
-                                  test_data=test_data_cv04,
-                                  mat_model='iso-two')
+    # # initialize the bubble objects
+    # my_full = invbubble.BubbleOpt('my_full_test.csv', header,
+    #                               100.0, None, None,
+    #                               test_data=test_data_full,
+    #                               mat_model='iso-two')
+    # my_cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
+    #                               100.0, None, None,
+    #                               test_data=test_data_cv01,
+    #                               mat_model='iso-two')
+    # my_cv02 = invbubble.BubbleOpt('my_full_cv02.csv', header,
+    #                               100.0, None, None,
+    #                               test_data=test_data_cv02,
+    #                               mat_model='iso-two')
+    # my_cv03 = invbubble.BubbleOpt('my_full_cv03.csv', header,
+    #                               100.0, None, None,
+    #                               test_data=test_data_cv03,
+    #                               mat_model='iso-two')
+    # my_cv04 = invbubble.BubbleOpt('my_full_cv04.csv', header,
+    #                               100.0, None, None,
+    #                               test_data=test_data_cv04,
+    #                               mat_model='iso-two')
     cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
                                   100.0, None, None,
                                   test_data=test01,
@@ -93,31 +96,30 @@ if __name__ == "__main__":
                                   100.0, None, None,
                                   test_data=test04,
                                   mat_model='iso-two')
-    results = np.zeros((5, 5))
-    sep = np.zeros((5, 4))
-    for i in range(5):
-        results[i, 0] = my_full.calc_obj_function_test_data(x[i])
-        results[i, 1] = my_cv01.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
-        results[i, 2] = my_cv02.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
-        results[i, 3] = my_cv03.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
-        results[i, 4] = my_cv04.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
-        sep[i, 0] = cv01.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
-        sep[i, 1] = cv02.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
-        sep[i, 2] = cv03.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
-        sep[i, 3] = cv04.calc_obj_function_test_data(x[i],
-                                                            run_abq=False)
+    sep = np.zeros((4, 4))
+    cv_scores = np.zeros(4)
+    cv_ind = np.array([[1, 2, 3], [0, 2, 3], [0, 1, 3], [0, 1, 2]])
+    for i in range(4):
+        # results[i, 0] = my_full.calc_obj_function_test_data(x[i])
+        # results[i, 1] = my_cv01.calc_obj_function_test_data(x[i],
+        #                                                     run_abq=False)
+        # results[i, 2] = my_cv02.calc_obj_function_test_data(x[i],
+        #                                                     run_abq=False)
+        # results[i, 3] = my_cv03.calc_obj_function_test_data(x[i],
+        #                                                     run_abq=False)
+        # results[i, 4] = my_cv04.calc_obj_function_test_data(x[i],
+        #                                                     run_abq=False)
+        sep[i, 0] = cv01.calc_obj_function_test_data(x[i], run_abq=True)
+        sep[i, 1] = cv02.calc_obj_function_test_data(x[i], run_abq=False)
+        sep[i, 2] = cv03.calc_obj_function_test_data(x[i], run_abq=False)
+        sep[i, 3] = cv04.calc_obj_function_test_data(x[i], run_abq=False)
+        cv_scores[i] = sep[i, cv_ind[i]].mean()
         # break
 
-    np.save('blue_cross_compute_res.npy', results)
+    # np.save('blue_cross_compute_res.npy', results)
     np.save('blue_cross_compute_sep.npy', sep)
 
-    print(results)
-    print('..')
+    # print(results)
+    # print('..')
     print(sep)
+    print(cv_scores)
