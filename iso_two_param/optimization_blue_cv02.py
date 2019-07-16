@@ -48,7 +48,7 @@ if __name__ == "__main__":
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
                                  test_data=test_data,
-                                 weights=[1.0, 1.0, 0.103],
+                                 weights=[1.0, 1.0, 1.0],
                                  mat_model='iso-two')
 
     np.random.seed(121)
@@ -59,7 +59,7 @@ if __name__ == "__main__":
     my_bounds[1, 0] = 0.2
     my_bounds[1, 1] = 0.9
 
-    X = np.array([[0.166, 0.5],
+    X = np.array([[0.166, 0.55],
                   [0.155, 0.52],
                   [0.193, 0.67],
                   [0.167, 0.56],
@@ -77,9 +77,9 @@ if __name__ == "__main__":
 
     # find the best result
     best_ind = np.argmin(fres)
-    message = 'Best result: ' + str(fres[best_ind]) + """\n
-               Best values: """ + str(xres[best_ind]) + """\n
-               The full result: """ + str(fres) + """\n
-               Full values: """ + str(xres)
+    message = '\nBest result: \n' + str(fres[best_ind]) + """\n
+               Best values: \n""" + str(xres[best_ind]) + """\n
+               The full result: \n""" + str(fres) + """\n
+               Full values: \n""" + str(xres)
     print(message)
     invbubble.send_email('cjekel@ufl.edu', 'iso blue cv 02 done', message)
