@@ -51,18 +51,18 @@ if __name__ == "__main__":
 
     # material model results
     # x_full = [0.16589052, 0.55325683]
-    # # set weights
-    # weights = [1.0, 1.0, 1.0]
-    # x_cv01 = [0.15435401, 0.51477134]
-    # x_cv02 = [0.17015839, 0.56719466]
-    # x_cv03 = [0.16773745, 0.55915988]
-    # x_cv04 = [0.16983201, 0.56624473]
     # set weights
-    weights = [1.0, 1.0, 0.103]
-    x_cv01 = [0.16623285, 0.55412398]
-    x_cv02 = [0.19196336, 0.66130359]
-    x_cv03 = [0.18651902, 0.63648801]
-    x_cv04 = [0.19268265, 0.66013522]
+    weights = [1.0, 1.0, 1.0]
+    x_cv01 = [0.15435401, 0.51477134]
+    x_cv02 = [0.17015839, 0.56719466]
+    x_cv03 = [0.16773745, 0.55915988]
+    x_cv04 = [0.16983201, 0.56624473]
+    # set weights
+    # weights = [1.0, 1.0, 0.103]
+    # x_cv01 = [0.16623285, 0.55412398]
+    # x_cv02 = [0.19196336, 0.66130359]
+    # x_cv03 = [0.18651902, 0.63648801]
+    # x_cv04 = [0.19268265, 0.66013522]
     x = [x_cv01, x_cv02, x_cv03, x_cv04]
 
     header = ['E1', 'G12', 'OBJ', 'Success']
@@ -133,7 +133,7 @@ if __name__ == "__main__":
     cv_values = sep.diagonal()
 
     # np.save('blue_cross_compute_res.npy', results)
-    np.save('blue_cross_compute_sep.npy', sep)
+    np.save('cv_sep.npy', sep)
 
     # print(results)
     # print('..')
