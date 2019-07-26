@@ -1,0 +1,467 @@
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            2     M =        10000
+
+At X0         0 variables are exactly at the bounds
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    0    f=  1.57785D+00    |proj g|=  4.00000D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    1    f=  1.52503D+00    |proj g|=  3.14319D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    2    f=  1.51743D+00    |proj g|=  3.77639D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    3    f=  1.51743D+00    |proj g|=  3.88879D-01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    2      3     15      4     0     0   3.889D-01   1.517D+00
+  F =   1.51742585546104     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            2     M =        10000
+
+At X0         0 variables are exactly at the bounds
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    0    f=  1.51544D+00    |proj g|=  3.80000D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    1    f=  1.51120D+00    |proj g|=  3.26564D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    2    f=  1.50843D+00    |proj g|=  3.22893D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    3    f=  1.50828D+00    |proj g|=  2.00716D-01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    2      3      6      4     0     0   2.007D-01   1.508D+00
+  F =   1.50827887971752     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            2     M =        10000
+
+At X0         0 variables are exactly at the bounds
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    0    f=  1.67869D+00    |proj g|=  2.30000D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    1    f=  1.53291D+00    |proj g|=  2.12791D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    2    f=  1.53199D+00    |proj g|=  6.98838D-02
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    3    f=  1.53191D+00    |proj g|=  1.83417D-01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    2      3      8      4     0     0   1.834D-01   1.532D+00
+  F =   1.53190736965808     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            2     M =        10000
+
+At X0         0 variables are exactly at the bounds
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    0    f=  1.59122D+00    |proj g|=  3.40000D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    1    f=  1.51704D+00    |proj g|=  3.28229D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    2    f=  1.51531D+00    |proj g|=  3.72823D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    3    f=  1.51528D+00    |proj g|=  3.71379D-01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    2      3     11      4     0     0   3.714D-01   1.515D+00
+  F =   1.51528001787385     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+RUNNING THE L-BFGS-B CODE
+
+           * * *
+
+Machine precision = 2.220D-16
+ N =            2     M =        10000
+
+At X0         0 variables are exactly at the bounds
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    0    f=  1.65595D+00    |proj g|=  2.00000D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    1    f=  1.53660D+00    |proj g|=  1.33969D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    2    f=  1.53620D+00    |proj g|=  1.23354D-01
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
+
+
+At iterate    3    f=  1.53615D+00    |proj g|=  2.07260D-01
+
+           * * *
+
+Tit   = total number of iterations
+Tnf   = total number of function evaluations
+Tnint = total number of segments explored during Cauchy searches
+Skip  = number of BFGS updates skipped
+Nact  = number of active bounds at final generalized Cauchy point
+Projg = norm of the final projected gradient
+F     = final function value
+
+           * * *
+
+   N    Tit     Tnf  Tnint  Skip  Nact     Projg        F
+    2      3      8      4     0     0   2.073D-01   1.536D+00
+  F =   1.53615036425053     
+
+CONVERGENCE: REL_REDUCTION_OF_F_<=_FACTR*EPSMCH             
+
+ Cauchy                time 0.000E+00 seconds.
+ Subspace minimization time 0.000E+00 seconds.
+ Line search           time 0.000E+00 seconds.
+
+ Total User time 0.000E+00 seconds.
+
+
+Best result: 
+1.5082788797175157
+
+               Best values: 
+[0.15378226 0.51906282]
+
+               The full result: 
+[1.51742586 1.50827888 1.53190737 1.51528002 1.53615036]
+
+               Full values: 
+[[0.16789431 0.58887887]
+ [0.15378226 0.51906282]
+ [0.1869784  0.68774334]
+ [0.16415961 0.57137939]
+ [0.19184652 0.71495491]]
