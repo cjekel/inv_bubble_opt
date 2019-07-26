@@ -48,7 +48,7 @@ if __name__ == "__main__":
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
                                  test_data=test_data,
-                                 weights=[1.0, 1.0, 1.0],
+                                 weights=[1.0, 1.0, 0.103],
                                  mat_model='iso-two')
 
     np.random.seed(121)
