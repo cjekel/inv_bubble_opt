@@ -55,7 +55,7 @@ if __name__ == "__main__":
 
     my_bounds = np.zeros((1, 2))
     my_bounds[0, 0] = 0.12
-    my_bounds[0, 1] = 0.25
+    my_bounds[0, 1] = 0.37
 
     X = np.array([[0.166],
                   [0.155],
