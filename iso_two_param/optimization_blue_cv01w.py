@@ -38,17 +38,17 @@ if __name__ == "__main__":
                      allow_pickle=True)
     blue03 = np.load(os.path.join(homeuser, 'blue03.npy'),
                      allow_pickle=True)
-    test_data = [blue03]
+    test_data = [blue01, blue02, blue03]
 
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'ind04r00.csv'
+    opt_hist_file = 'iso01r00.csv'
     header = ['E', 'G', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
                                  test_data=test_data,
-                                 weights=[1.0, 1.0, 1.0],
+                                 weights=[1.0, 1.0, 0.103],
                                  mat_model='iso-two')
 
     np.random.seed(121)
@@ -82,4 +82,4 @@ if __name__ == "__main__":
                The full result: \n""" + str(fres) + """\n
                Full values: \n""" + str(xres)
     print(message)
-    invbubble.send_email('cjekel@ufl.edu', 'ind blue 04 done', message)
+    invbubble.send_email('cjekel@ufl.edu', 'iso blue cv 01 done', message)

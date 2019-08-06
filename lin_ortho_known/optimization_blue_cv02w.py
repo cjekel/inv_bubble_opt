@@ -38,48 +38,52 @@ if __name__ == "__main__":
                      allow_pickle=True)
     blue03 = np.load(os.path.join(homeuser, 'blue03.npy'),
                      allow_pickle=True)
-    test_data = [blue03]
+    test_data = [blue00, blue02, blue03]
 
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'ind04r00.csv'
-    header = ['E', 'G', 'OBJ', 'Success']
+    opt_hist_file = 'bluecv02r00.csv'
+    header = ['E1', 'E2', 'G12', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
                                  test_data=test_data,
-                                 weights=[1.0, 1.0, 1.0],
-                                 mat_model='iso-two')
+                                 weights=[1.0, 1.0, 0.103])
 
+    X = np.array([[0.22375600, 0.23479667, 0.27276717],
+                  [0.34281612, 0.24753703, 0.47521649],
+                  [0.29993751, 0.23220076, 0.44900705],
+                  [0.2800472, 0.24353683, 0.32121494],
+                  [0.22084207, 0.27291883, 0.36580145]])
+
+    max_iter = 6
     np.random.seed(121)
 
-    my_bounds = np.zeros((2, 2))
-    my_bounds[0, 0] = 0.12
-    my_bounds[0, 1] = 0.25
-    my_bounds[1, 0] = 0.2
-    my_bounds[1, 1] = 0.9
-
-    X = np.array([[0.166, 0.60],
-                  [0.155, 0.52],
-                  [0.193, 0.67],
-                  [0.167, 0.56],
-                  [0.198, 0.7]])
+    my_bounds = np.zeros((3, 2))
+    my_bounds[0, 0] = 0.2
+    my_bounds[0, 1] = 0.4
+    my_bounds[1, 0] = 0.18
+    my_bounds[1, 1] = 0.3
+    my_bounds[2, 0] = 0.2
+    my_bounds[2, 1] = 0.6
 
     xres = np.zeros_like(X)
     fres = np.zeros(5)
     for i, x0 in enumerate(X):
         res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                             approx_grad=True, bounds=my_bounds, factr=1e12,
-                            pgtol=1e-06, epsilon=1e-3, iprint=1, m=10000,
+                            pgtol=1e-06, epsilon=1e-2, iprint=1, m=10000,
                             maxfun=200, maxiter=10, maxls=20)
         xres[i] = res[0]
         fres[i] = res[1]
 
+    print(fres)
+    print(xres)
     # find the best result
     best_ind = np.argmin(fres)
-    message = '\nBest result: \n' + str(fres[best_ind]) + """\n
-               Best values: \n""" + str(xres[best_ind]) + """\n
-               The full result: \n""" + str(fres) + """\n
-               Full values: \n""" + str(xres)
+    message = 'Best result: ' + str(fres[best_ind]) + """\n
+               Best values: """ + str(xres[best_ind]) + """\n
+               The full result: """ + str(fres) + """\n
+               Full values: """ + str(xres)
     print(message)
-    invbubble.send_email('cjekel@ufl.edu', 'ind blue 04 done', message)
+    invbubble.send_email('cjekel@ufl.edu', 'blue cv 02 done', message)

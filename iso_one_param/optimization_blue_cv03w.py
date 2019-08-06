@@ -38,32 +38,30 @@ if __name__ == "__main__":
                      allow_pickle=True)
     blue03 = np.load(os.path.join(homeuser, 'blue03.npy'),
                      allow_pickle=True)
-    test_data = [blue03]
+    test_data = [blue00, blue01, blue03]
 
     # initialize a maximum objective value
     max_obj = 30.0  # mm
 
-    opt_hist_file = 'ind04r00.csv'
-    header = ['E', 'G', 'OBJ', 'Success']
+    opt_hist_file = 'iso03r00.csv'
+    header = ['E', 'OBJ', 'Success']
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
                                  test_data=test_data,
-                                 weights=[1.0, 1.0, 1.0],
-                                 mat_model='iso-two')
+                                 weights=[1.0, 1.0, 0.103],
+                                 mat_model='iso-one')
 
     np.random.seed(121)
 
-    my_bounds = np.zeros((2, 2))
+    my_bounds = np.zeros((1, 2))
     my_bounds[0, 0] = 0.12
-    my_bounds[0, 1] = 0.25
-    my_bounds[1, 0] = 0.2
-    my_bounds[1, 1] = 0.9
+    my_bounds[0, 1] = 0.37
 
-    X = np.array([[0.166, 0.60],
-                  [0.155, 0.52],
-                  [0.193, 0.67],
-                  [0.167, 0.56],
-                  [0.198, 0.7]])
+    X = np.array([[0.166],
+                  [0.365],
+                  [0.193],
+                  [0.167],
+                  [0.198]])
 
     xres = np.zeros_like(X)
     fres = np.zeros(5)
@@ -82,4 +80,4 @@ if __name__ == "__main__":
                The full result: \n""" + str(fres) + """\n
                Full values: \n""" + str(xres)
     print(message)
-    invbubble.send_email('cjekel@ufl.edu', 'ind blue 04 done', message)
+    invbubble.send_email('cjekel@ufl.edu', 'iso blue cv 03 done', message)
