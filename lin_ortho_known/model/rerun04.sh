@@ -1,6 +1,6 @@
 #/usr/bin/bash
 #rem re run all test 04 runs...
-python3 -u ../ind_04.py > iso04noweight.txt
+#python3 -u ../ind_04.py > iso04noweight.txt
 python3 -u ../ind_04w.py > iso04weight.txt
 python3 -u ../optimization_blue_cv01.py > cv01noweight.txt
 python3 -u ../optimization_blue_cv01w.py > cv01weight.txt
