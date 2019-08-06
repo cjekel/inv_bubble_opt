@@ -37,8 +37,8 @@ count = 1
 for test in test_data:
     plt.figure()
     plt.plot(test[-1, 0][:, 0], test[-1, 0][:, 1], '.k', markersize=0.5)
-    plt.xlabel('X')
-    plt.ylabel('Y')
+    plt.xlabel('X, mm')
+    plt.ylabel('Y, mm')
     plt.axis('equal')
     plt.savefig(str(count) + '_test_final_p.png', dpi=300, bbox_inches='tight')
     count += 1
