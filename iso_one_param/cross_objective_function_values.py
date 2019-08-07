@@ -53,16 +53,16 @@ if __name__ == "__main__":
     # x_full = [0.16589052, 0.55325683]
     # set weights
     weights = [1.0, 1.0, 1.0]
-    x_cv01 = [0.27911989]
-    x_cv02 = [0.22173516]
-    x_cv03 = [0.24192971]
-    x_cv04 = [0.21761938]
+    x_cv01 = [0.22551988]
+    x_cv02 = [0.25129252]
+    x_cv03 = [0.24317117]
+    x_cv04 = [0.25375503]
     # set weights
     # weights = [1.0, 1.0, 0.103]
-    # x_cv01 = [0.2832392]
-    # x_cv02 = [0.29158096]
-    # x_cv03 = [0.28168442]
-    # x_cv04 = [0.2543283]
+    # x_cv01 = [0.27128162]
+    # x_cv02 = [0.2766764]
+    # x_cv03 = [0.27735897]
+    # x_cv04 = [0.28388316]
     x = [x_cv01, x_cv02, x_cv03, x_cv04]
 
     header = ['E1', 'G12', 'OBJ', 'Success']
@@ -133,7 +133,7 @@ if __name__ == "__main__":
     cv_values = sep.diagonal()
 
     # np.save('blue_cross_compute_res.npy', results)
-    np.save('cv_sep_weight.npy', sep)
+    np.save('cv_sep_no_weight.npy', sep)
 
     # print(results)
     # print('..')
