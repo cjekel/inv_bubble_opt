@@ -58,20 +58,29 @@ if __name__ == "__main__":
     my_bounds[1, 0] = 0.1
     my_bounds[1, 1] = 2.0
 
-    X = np.array([[0.2832392, 0.0],
-                  [0.29158096, 0.0],
-                  [0.28168442, 0.0],
-                  [0.2543283, 0.0]])
+    # X = np.array([[0.2832392, 0.0],
+    #               [0.29158096, 0.0],
+    #               [0.28168442, 0.0],
+    #               [0.2543283, 0.0]])
+    X = np.array([[0.27911989, 0.0],
+                  [0.22173516, 0.0],
+                  [0.24192971, 0.0],
+                  [0.21761938, 0.0]])
     for i, x0 in enumerate(X):
         X[i, 1] = compute_g(x0[0])
     xres = np.zeros_like(X)
     fres = np.zeros(4)
     for i, x0 in enumerate(X):
         opt_hist_file = 'indprev' + str(i) + '.csv'
+        # my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
+        #                              None, None,
+        #                              test_data=tests[i],
+        #                              weights=[1.0, 1.0, 0.103],
+        #                              mat_model='iso-two')
         my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                      None, None,
                                      test_data=tests[i],
-                                     weights=[1.0, 1.0, 0.103],
+                                     weights=[1.0, 1.0, 1.0],
                                      mat_model='iso-two')
         res = fmin_l_bfgs_b(my_opt.calc_obj_function_test_data, x0,
                             approx_grad=True, bounds=my_bounds, factr=1e12,
