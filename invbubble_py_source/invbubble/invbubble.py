@@ -273,6 +273,26 @@ class InterpolateSimpleRBF(object):
         dx = np.array(dx)
         return dx[:, 0], dx[:, 1], dx[:, 2]
 
+    def calc_delta_test_par_no_mean(self, i):
+        p = self.Ps[i]
+        newX = self.X_new[i][:, :2]
+        Disp_new = self.X_new[i][:, 3:]
+        dx_new, dy_new, dz_new = self.calc_disp(newX, p)
+        dx_delta = dx_new - Disp_new[:, 0]
+        dy_delta = dy_new - Disp_new[:, 1]
+        dz_delta = dz_new - Disp_new[:, 2]
+        return dx_delta, dy_delta, dz_delta
+
+    def calc_delta_test_no_mean(self, X_new, Ps):
+        # for test data from bubble test
+        # calculate the average deviation for each p in Ps
+        pn = len(Ps)
+        self.X_new = X_new
+        self.Ps = Ps
+        dx = Parallel(n_jobs=-1, backend='loky')(delayed(self.calc_delta_test_par_no_mean)(i) for i in range(pn))  # noqa E501
+        dx = np.array(dx)
+        return dx[:, 0], dx[:, 1], dx[:, 2]
+
 
 def write_material_model(x):
     with open('model_template.inp', 'r') as d:
@@ -534,11 +554,14 @@ class BubbleOpt(object):
                     dy = dx.copy()
                     dz = dx.copy()
                     for i in range(self.n_test_data):
-                        dx_delta, dy_delta, dz_delta = my_int.calc_delta_test(self.test_data[i][:, 0],  # noqa E501
-                                                                              self.test_data[i][:, 1])  # noqa E501
                         if self.residual_fn is not False:
+                            dx_delta, dy_delta, dz_delta = my_int.calc_delta_test_no_mean(self.test_data[i][:, 0],  # noqa E501
+                                                                                          self.test_data[i][:, 1])  # noqa E501
                             np.save(self.residual_fn, [dx_delta, dy_delta,
                                                        dz_delta])
+                        else:
+                            dx_delta, dy_delta, dz_delta = my_int.calc_delta_test(self.test_data[i][:, 0],  # noqa E501
+                                                                                  self.test_data[i][:, 1])  # noqa E501
                         dx[i] = np.nanmean(dx_delta)
                         dy[i] = np.nanmean(dy_delta)
                         dz[i] = np.nanmean(dz_delta)
