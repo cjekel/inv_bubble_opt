@@ -537,7 +537,8 @@ class BubbleOpt(object):
                         dx_delta, dy_delta, dz_delta = my_int.calc_delta_test(self.test_data[i][:, 0],  # noqa E501
                                                                               self.test_data[i][:, 1])  # noqa E501
                         if self.residual_fn is not False:
-                            np.save(self.residual_fn, [dx, dy, dz])
+                            np.save(self.residual_fn, [dx_delta, dy_delta,
+                                                       dz_delta])
                         dx[i] = np.nanmean(dx_delta)
                         dy[i] = np.nanmean(dy_delta)
                         dz[i] = np.nanmean(dz_delta)
