@@ -562,9 +562,9 @@ class BubbleOpt(object):
                         else:
                             dx_delta, dy_delta, dz_delta = my_int.calc_delta_test(self.test_data[i][:, 0],  # noqa E501
                                                                                   self.test_data[i][:, 1])  # noqa E501
-                        dx[i] = np.nanmean(dx_delta)
-                        dy[i] = np.nanmean(dy_delta)
-                        dz[i] = np.nanmean(dz_delta)
+                            dx[i] = np.nanmean(dx_delta)
+                            dy[i] = np.nanmean(dy_delta)
+                            dz[i] = np.nanmean(dz_delta)
                     delete_files()
                     mydx = np.array((dx.mean(), dy.mean(), dz.mean()))
                     my_obj = np.nansum(self.weights*mydx)
