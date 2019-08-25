@@ -386,7 +386,7 @@ def delete_files():
             os.remove(f)
         except FileNotFoundError:
             pass
-        except Exception as ex:
+        except Exception as ex:  # noqa E841
             pass  # I don't need to see errors when files aren't deleted
             # my_exception(ex)
 
@@ -395,7 +395,8 @@ class BubbleOpt(object):
 
     def __init__(self, opt_hist_file, header, max_obj, xdata_fn, ydata_fn,
                  test_data=[], mat_model='lin-ortho', debug=False,
-                 MyInt=InterpolateSimpleRBF, weights=[1.0, 1.0, 1.0]):
+                 MyInt=InterpolateSimpleRBF, weights=[1.0, 1.0, 1.0],
+                 residual_fn=False):
         self.weights = np.array(weights)
         # header should be something like E1, E2, G12, OBJ, Fail
         self.opt_hist_file = opt_hist_file
@@ -417,6 +418,7 @@ class BubbleOpt(object):
         self.mat_model = mat_model
         self.debug = debug
         self.MyInt = MyInt
+        self.residual_fn = residual_fn
 
     def update_df(self, x, my_obj, suc):
         # update and save dataframe
@@ -534,6 +536,8 @@ class BubbleOpt(object):
                     for i in range(self.n_test_data):
                         dx_delta, dy_delta, dz_delta = my_int.calc_delta_test(self.test_data[i][:, 0],  # noqa E501
                                                                               self.test_data[i][:, 1])  # noqa E501
+                        if self.residual_fn is not False:
+                            np.save(self.residual_fn, [dx, dy, dz])
                         dx[i] = np.nanmean(dx_delta)
                         dy[i] = np.nanmean(dy_delta)
                         dz[i] = np.nanmean(dz_delta)
