@@ -290,8 +290,16 @@ class InterpolateSimpleRBF(object):
         self.X_new = X_new
         self.Ps = Ps
         dx = Parallel(n_jobs=-1, backend='loky')(delayed(self.calc_delta_test_par_no_mean)(i) for i in range(pn))  # noqa E501
-        dx = np.array(dx)
-        return dx[:, 0], dx[:, 1], dx[:, 2]
+        mydx = []
+        mydy = []
+        mydz = []
+        for i in dx:
+            mydx.append(i[0])
+            mydy.append(i[1])
+            mydz.append(i[2])
+        # dx = np.array(dx)
+        # return dx[:, 0], dx[:, 1], dx[:, 2]
+        return mydx, mydy, mydz
 
 
 def write_material_model(x):
