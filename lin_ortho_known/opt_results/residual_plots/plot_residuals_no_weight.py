@@ -34,7 +34,7 @@ for i in range(0, 4):
         dy = resids[1][j]
         dz = resids[2][j]
 
-        ax_dx[0].set_title('$\Delta x$ residual' + ' Test number: ' + str(i+1))
+        # ax_dx[0].set_title('$\Delta x$ residual' + ' Test number: ' + str(i+1))
         ax_dx[0].plot(x, dx, 'xk', markersize=.5)
         ax_dx[0].plot(perfx, perfy, '-r')
         ax_dx[0].set_xlabel('$x$', fontsize='10')
@@ -44,7 +44,7 @@ for i in range(0, 4):
         ax_dx[1].set_xlabel('$y$', fontsize='10')
         ax_dx[1].set_ylabel('$\Delta x$ residual', fontsize='10')
 
-        ax_dy[0].set_title('$\Delta y$ residual' + ' Test number: ' + str(i+1))
+        # ax_dy[0].set_title('$\Delta y$ residual' + ' Test number: ' + str(i+1))
         ax_dy[0].plot(x, dy, 'xk', markersize=.5)
         ax_dy[0].plot(perfx, perfy, '-r')
         ax_dy[0].set_xlabel('$x$', fontsize='10')
@@ -54,7 +54,7 @@ for i in range(0, 4):
         ax_dy[1].set_xlabel('$y$', fontsize='10')
         ax_dy[1].set_ylabel('$\Delta y$ residual', fontsize='10')
 
-        ax_dz[0].set_title('$\Delta z$ residual' + ' Test number: ' + str(i+1))
+        # ax_dz[0].set_title('$\Delta z$ residual' + ' Test number: ' + str(i+1))
         ax_dz[0].plot(x, dz, 'xk', markersize=.5)
         ax_dz[0].plot(perfx, perfy, '-r')
         ax_dz[0].set_xlabel('$x$', fontsize='10')
@@ -74,8 +74,8 @@ for i in range(0, 4):
         fig_dx.savefig('dx' + str(i) + '.png', bbox_inches='tight', dpi=300)
         fig_dy.savefig('dy' + str(i) + '.png', bbox_inches='tight', dpi=300)
         fig_dz.savefig('dz' + str(i) + '.png', bbox_inches='tight', dpi=300)
-        fig_dx.savefig('dx' + str(i) + '.pdf', bbox_inches='tight')
-        fig_dy.savefig('dy' + str(i) + '.pdf', bbox_inches='tight')
-        fig_dz.savefig('dz' + str(i) + '.pdf', bbox_inches='tight')
+        # fig_dx.savefig('dx' + str(i) + '.pdf', bbox_inches='tight')
+        # fig_dy.savefig('dy' + str(i) + '.pdf', bbox_inches='tight')
+        # fig_dz.savefig('dz' + str(i) + '.pdf', bbox_inches='tight')
 
     # break
