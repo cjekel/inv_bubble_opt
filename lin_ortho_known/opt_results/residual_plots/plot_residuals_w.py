@@ -26,7 +26,9 @@ for i in range(0, 4):
     fig_dz, ax_dz = plt.subplots(2, 1, figsize=(8, 6))
     
 
-    for j, _ in enumerate(resids):
+    my_shape = resids.shape
+    for j in range(my_shape[1]):
+        print(j)
         x = data[j][0][:, 0]
         y = data[j][0][:, 1]
         z = data[j][0][:, 2]
@@ -70,12 +72,12 @@ for i in range(0, 4):
             ax_dy[1].set_ylim([-2, 2.])
             ax_dz[0].set_ylim([-10., 10.])
             ax_dz[1].set_ylim([-10, 10.])
-        # save each fig
-        fig_dx.savefig('dx' + str(i) + '_w.png', bbox_inches='tight', dpi=300)
-        fig_dy.savefig('dy' + str(i) + '_w.png', bbox_inches='tight', dpi=300)
-        fig_dz.savefig('dz' + str(i) + '_w.png', bbox_inches='tight', dpi=300)
-        # fig_dx.savefig('dx' + str(i) + '_w.pdf', bbox_inches='tight')
-        # fig_dy.savefig('dy' + str(i) + '_w.pdf', bbox_inches='tight')
-        # fig_dz.savefig('dz' + str(i) + '_w.pdf', bbox_inches='tight')
+    # save each fig
+    fig_dx.savefig('dx' + str(i) + '_w.png', bbox_inches='tight', dpi=300)
+    fig_dy.savefig('dy' + str(i) + '_w.png', bbox_inches='tight', dpi=300)
+    fig_dz.savefig('dz' + str(i) + '_w.png', bbox_inches='tight', dpi=300)
+    # fig_dx.savefig('dx' + str(i) + '_w.pdf', bbox_inches='tight')
+    # fig_dy.savefig('dy' + str(i) + '_w.pdf', bbox_inches='tight')
+    # fig_dz.savefig('dz' + str(i) + '_w.pdf', bbox_inches='tight')
 
     # break
