@@ -80,6 +80,8 @@ if __name__ == "__main__":
                                mat_model='lin-ortho',
                                weights=weights)
     cvs = [cv01, cv02, cv03, cv04]
+    fn = ['disp_values_0.npy', 'disp_values_1.npy', 'disp_values_2.npy',
+          'disp_values_3.npy']
     for i in range(4):
         _ = cvs[i].calc_obj_function_test_data(x[i], run_abq=True)
-        _ = input('Enter something to continue: ')
+        invbubble.read_csv_files(save=True, fn=fn[i])
