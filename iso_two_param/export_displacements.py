@@ -46,18 +46,18 @@ if __name__ == "__main__":
 
     # material model results
     weights = [1.0, 1.0, 1.0]
-    x_cv01 = [0.279, 0.113]
-    x_cv02 = [0.160, 0.054]
-    x_cv03 = [0.162, 0.054]
-    x_cv04 = [0.154, 0.052]
+    x_cv01 = [0.279, 1.13]
+    x_cv02 = [0.160, 0.54]
+    x_cv03 = [0.162, 0.54]
+    x_cv04 = [0.154, 0.52]
     # weights = [1.0, 1.0, 0.103]
-    # x_cv01 = [0.283, 0.114]
-    # x_cv02 = [0.170, 0.057]
-    # x_cv03 = [0.170, 0.057]
-    # x_cv04 = [0.155, 0.052]
+    # x_cv01 = [0.283, 1.14]
+    # x_cv02 = [0.170, 0.57]
+    # x_cv03 = [0.170, 0.57]
+    # x_cv04 = [0.155, 0.52]
     x = [x_cv01, x_cv02, x_cv03, x_cv04]
 
-    header = ['E1', 'E2', 'OBJ', 'Success']
+    header = ['E1', 'G', 'OBJ', 'Success']
 
     cv01 = invbubble.BubbleOpt('my_full_cv01.csv', header,
                                100.0, None, None,
