@@ -364,7 +364,7 @@ def export_csv_files():
     return val
 
 
-def read_csv_files(save=False):
+def read_csv_files(save=False, fn='disp_values.npy'):
     # initiate array of zeros
     node_values = np.zeros((201, 937, 3))
 
@@ -400,7 +400,7 @@ def read_csv_files(save=False):
     if save is True:
         # save files
         np.save('xy_model.npy', X)
-        np.save('disp_values.npy', node_values)
+        np.save(fn, node_values)
     return X, node_values
 
 
