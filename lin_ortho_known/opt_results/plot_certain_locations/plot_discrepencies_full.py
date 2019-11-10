@@ -118,7 +118,7 @@ for i in range(4):
     plt.legend()
     plt.grid(True)
     plt.savefig('figs/dy_test_' + str(i+1) + '_.png', bbox_inches='tight')
-    plt.savefig('figs/dx_test_' + str(i+1) + '_.pdf', bbox_inches='tight')
+    plt.savefig('figs/dy_test_' + str(i+1) + '_.pdf', bbox_inches='tight')
 
     plt.figure()
     # plt.title('Test ' + str(i+1))
@@ -134,6 +134,6 @@ for i in range(4):
     plt.legend()
     plt.grid(True)
     plt.savefig('figs/dz_test_' + str(i+1) + '_.png', bbox_inches='tight')
-    plt.savefig('figs/dx_test_' + str(i+1) + '_.pdf', bbox_inches='tight')
+    plt.savefig('figs/dz_test_' + str(i+1) + '_.pdf', bbox_inches='tight')
 
 plt.show()
