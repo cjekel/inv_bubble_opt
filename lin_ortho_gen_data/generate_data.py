@@ -4,12 +4,12 @@ import pyDOE
 from time import time
 
 my_bounds = np.zeros((3, 2))
-my_bounds[0, 0] = 1.0
-my_bounds[0, 1] = 2.0
-my_bounds[1, 0] = 0.5
-my_bounds[1, 1] = 1.0
-my_bounds[2, 0] = 0.5
-my_bounds[2, 1] = 1.0
+my_bounds[0, 0] = 2.0
+my_bounds[0, 1] = 3.0
+my_bounds[1, 0] = 1.0
+my_bounds[1, 1] = 2.0
+my_bounds[2, 0] = 1.0
+my_bounds[2, 1] = 5.0
 
 
 def run_abq_model(x):
