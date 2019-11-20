@@ -1,15 +1,13 @@
 import numpy as np
 import invbubble
-import pyDOE
 from time import time
+from shutil import copy
 
-my_bounds = np.zeros((3, 2))
-my_bounds[0, 0] = 2.0
-my_bounds[0, 1] = 3.0
-my_bounds[1, 0] = 1.0
-my_bounds[1, 1] = 2.0
-my_bounds[2, 0] = 1.0
-my_bounds[2, 1] = 5.0
+start_point = 0
+end_point = 10
+
+# load_data
+Y = np.load('mydoe.npy')
 
 
 def run_abq_model(x):
@@ -27,12 +25,15 @@ def run_abq_model(x):
     return val, suc
 
 
-t0 = time()
-a, b = run_abq_model(my_bounds[:, 0])
-t1 = time()
-print('Runetime:', t1 - t0)
-t0 = time()
-invbubble.delete_files()
-c, d = run_abq_model(my_bounds[:, 1])
-t1 = time()
-print('Runetime:', t1 - t0)
+for i in range(start_point, end_point+1):
+    t0 = time()
+    val, suc = run_abq_model(Y[i])
+    if suc is True:
+        if val == 0:
+            val2 = invbubble.export_csv_files()
+            if val2 == 0:
+                # copy files to new dir
+                copy('BubbleTest', 'BubbleTest' + str(i).zfill(5))
+    invbubble.delete_files()
+    t1 = time()
+    print('Runetime:', t1 - t0)
