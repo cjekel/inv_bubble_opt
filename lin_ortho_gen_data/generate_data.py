@@ -3,8 +3,8 @@ import invbubble
 from time import time
 from shutil import copytree
 
-start_point = 0
-end_point = 1500
+start_point = 2000
+end_point = 2010
 
 # load_data
 Y = np.load('../mydoe.npy')
