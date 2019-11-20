@@ -334,7 +334,7 @@ def write_iso_one_model(x):
 def run_model():
     abqcommand = 'abq job=model interactive cpus=4 ask_delete=OFF > /dev/null'
     if os.name == 'nt':
-        abqcommand = 'abq job=model interactive cpus=2 ask_delete=OFF > NUL'
+        abqcommand = 'abq job=model interactive cpus=4 ask_delete=OFF > NUL'
     val = os.system(abqcommand)
     # on linux val == 0 when success
     return val
