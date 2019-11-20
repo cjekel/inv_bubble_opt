@@ -7,7 +7,7 @@ start_point = 0
 end_point = 10
 
 # load_data
-Y = np.load('mydoe.npy')
+Y = np.load('../mydoe.npy')
 
 
 def run_abq_model(x):
