@@ -36,4 +36,4 @@ for i in range(start_point, end_point+1):
                 copy('BubbleTest', 'BubbleTest' + str(i).zfill(5))
     invbubble.delete_files()
     t1 = time()
-    print('Runetime:', t1 - t0)
+    print('Runetime:', t1 - t0, ' i:', i)
