@@ -1,7 +1,7 @@
 import numpy as np
 import invbubble
 from time import time
-from shutil import copy
+from shutil import copytree
 
 start_point = 0
 end_point = 10
@@ -33,7 +33,7 @@ for i in range(start_point, end_point+1):
             val2 = invbubble.export_csv_files()
             if val2 == 0:
                 # copy files to new dir
-                copy('BubbleTest', 'BubbleTest' + str(i).zfill(5))
+                copytree('BubbleTest', 'BubbleTest' + str(i).zfill(5))
     invbubble.delete_files()
     t1 = time()
     print('Runetime:', t1 - t0, ' i:', i)
