@@ -12,7 +12,7 @@ def read_csv_files(i):
     node_values = np.zeros((199, 937, 3), dtype=np.single)
 
     for i in range(1, 200):
-        file_name = 'BubbleTest/L00' + str(i).zfill(3) + '.csv'
+        file_name = 'BubbleTest' + str(i).zfill(5) + '/L00' + str(i).zfill(3) + '.csv'  # noqa E501
         temp = pd.read_csv(file_name, delimiter=',')
         # grab the x values
         node_values[i - 1, :, 0] = temp.values[:, 11]
