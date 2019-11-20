@@ -4,7 +4,7 @@ from time import time
 from shutil import copytree
 
 start_point = 0
-end_point = 999
+end_point = 1500
 
 # load_data
 Y = np.load('../mydoe.npy')
