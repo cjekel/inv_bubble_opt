@@ -30,7 +30,7 @@ for i in range(start_point, end_point):
     t0 = time()
     data[i] = read_csv_files(i)
     t1 = time()
-    print('Runtime:', t1-t0)
+    print('Runtime:', t1-t0, ' i:', i)
 
 with h5py.File('data2k.hdf5', 'w') as f:
     dset = f.create_dataset('data2k', data=data, compression="gzip")
