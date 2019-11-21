@@ -56,9 +56,9 @@ for j in range(5):
         # print('i:', i, dxh.max(), dyh.max(), dzh.max())
 
 # print the max for each direction
-print('dx max:', new_dataset[:, :, :, 0].max())
-print('dy max:', new_dataset[:, :, :, 1].max())
-print('dz max:', new_dataset[:, :, :, 2].max())
+print('dx max:', new_dataset[:, :, 0].max())
+print('dy max:', new_dataset[:, :, 1].max())
+print('dz max:', new_dataset[:, :, 2].max())
 
 
 # reshape the dataset for 0,1 minmax transfer
