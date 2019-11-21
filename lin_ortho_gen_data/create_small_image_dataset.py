@@ -7,7 +7,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 # load h5 data :)
 filename = 'data2k.hdf5'
-n_data = 10
+n_data = 2000
 
 with h5py.File(filename, 'r') as f:
     # List all groups
@@ -34,7 +34,7 @@ inds = np.argwhere(xyh[:, 0]**2 + xyh[:, 1]**2 > 100.**2)
 
 new_dataset = np.zeros((n_data, n_c*n_c, 3), dtype=np.single)
 
-for i range(n_data):
+for i in range(n_data):
     # fit rbf and evaulte
     dxh = invbubble.rbf_function(xy_data[0, :, :2], data[i, -1, :, 0], xyh)
     dyh = invbubble.rbf_function(xy_data[0, :, :2], data[i, -1, :, 1], xyh)
@@ -43,11 +43,17 @@ for i range(n_data):
     dxh[inds] = 0.
     dyh[inds] = 0.
     dzh[inds] = 0.
+    new_dataset[i, :, 0] = dxh
+    new_dataset[i, :, 1] = dyh
+    new_dataset[i, :, 2] = dzh
     print('i:', i)
+
 
 # reshape the dataset for 0,1 minmax transfer
 new_dataset = new_dataset.reshape((n_data*n_c*n_c, 3))
 scaler = MinMaxScaler()
+# save the joblib transformer
+joblib.dump(scaler, 'minmaxscaler2k.z')
 new_dataset = scaler.fit_transform(new_dataset)
 
 # reshape the dataset back to images
