@@ -46,18 +46,18 @@ for i in range(n_data):
     new_dataset[i, :, 0] = dxh
     new_dataset[i, :, 1] = dyh
     new_dataset[i, :, 2] = dzh
-    print('i:', i)
+    print('i:', i, dxh.max(), dyh.max(), dzh.max())
 
 
-# reshape the dataset for 0,1 minmax transfer
-new_dataset = new_dataset.reshape((n_data*n_c*n_c, 3))
-scaler = MinMaxScaler()
-# save the joblib transformer
-joblib.dump(scaler, 'minmaxscaler2k.z')
-new_dataset = scaler.fit_transform(new_dataset)
+# # reshape the dataset for 0,1 minmax transfer
+# new_dataset = new_dataset.reshape((n_data*n_c*n_c, 3))
+# scaler = MinMaxScaler()
+# # save the joblib transformer
+# joblib.dump(scaler, 'minmaxscaler2k.z')
+# new_dataset = scaler.fit_transform(new_dataset)
 
-# reshape the dataset back to images
-new_dataset = new_dataset.reshape((n_data, n_c, n_c, 3))
+# # reshape the dataset back to images
+# new_dataset = new_dataset.reshape((n_data, n_c, n_c, 3))
 
-# save the data
-np.save('2k.npy', new_dataset)
+# # save the data
+# np.save('2k.npy', new_dataset)

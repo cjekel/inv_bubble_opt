@@ -11,15 +11,15 @@ def read_csv_files(i):
     # initiate array of zeros
     node_values = np.zeros((199, 937, 3), dtype=np.single)
 
-    for i in range(1, 200):
-        file_name = 'BubbleTest' + str(i).zfill(5) + '/L00' + str(i).zfill(3) + '.csv'  # noqa E501
+    for j in range(1, 200):
+        file_name = 'BubbleTest' + str(i).zfill(5) + '/L00' + str(j).zfill(3) + '.csv'  # noqa E501
         temp = pd.read_csv(file_name, delimiter=',')
         # grab the x values
-        node_values[i - 1, :, 0] = temp.values[:, 11]
+        node_values[j - 1, :, 0] = temp.values[:, 11]
         # grab the y values
-        node_values[i - 1, :, 1] = temp.values[:, 12]
+        node_values[j - 1, :, 1] = temp.values[:, 12]
         # grab the z values
-        node_values[i - 1, :, 2] = temp.values[:, 13]
+        node_values[j - 1, :, 2] = temp.values[:, 13]
 
     return node_values
 
