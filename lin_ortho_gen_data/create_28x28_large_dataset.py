@@ -67,7 +67,7 @@ scaler = MinMaxScaler()
 
 new_dataset = scaler.fit_transform(new_dataset)
 # save the joblib transformer
-joblib.dump(scaler, 'minmaxscaler2k.z')
+joblib.dump(scaler, 'minmaxscaler_28x28_10k.z')
 
 # reshape the dataset back to images
 new_dataset = new_dataset.reshape((5*n_data, n_c, n_c, 3))
