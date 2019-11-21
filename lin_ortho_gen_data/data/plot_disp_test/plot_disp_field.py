@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import invbubble
 from sklearn.preprocessing import MinMaxScaler
+from skimage.color import rgb2hsv
 homeuser = os.path.expanduser('~')
 
 data = np.load('disp_values_0.npy')
@@ -49,19 +50,19 @@ dzh = dzh.reshape(n_c, n_c)
 xh = xh.reshape(n_c, n_c)
 yh = yh.reshape(n_c, n_c)
 
-# plot contours
-plt.figure()
-plt.title('dx')
-plt.contourf(xh, yh, dxh)
-plt.colorbar()
-plt.figure()
-plt.title('dy')
-plt.contourf(xh, yh, dyh)
-plt.colorbar()
-plt.figure()
-plt.title('dz')
-plt.contourf(xh, yh, dzh)
-plt.colorbar()
+# # plot contours
+# plt.figure()
+# plt.title('dx')
+# plt.contourf(xh, yh, dxh)
+# plt.colorbar()
+# plt.figure()
+# plt.title('dy')
+# plt.contourf(xh, yh, dyh)
+# plt.colorbar()
+# plt.figure()
+# plt.title('dz')
+# plt.contourf(xh, yh, dzh)
+# plt.colorbar()
 
 # try to do imshow
 # image = np.zeros((n_c, n_c, 3))
@@ -75,17 +76,22 @@ image = image.reshape(n_c, n_c, 3)
 
 plt.figure()
 plt.title('dx')
-plt.imshow(image[:, :, 0])
+plt.imshow(image[:, :, 0], cmap=plt.cm.Reds)
 
 plt.figure()
 plt.title('dy')
-plt.imshow(image[:, :, 1])
+plt.imshow(image[:, :, 1], cmap=plt.cm.Greens)
 
 plt.figure()
 plt.title('dz')
-plt.imshow(image[:, :, 2])
+plt.imshow(image[:, :, 2], cmap=plt.cm.Blues)
 
 plt.figure()
 plt.imshow(image)
+
+
+myhsv = rgb2hsv(image)
+plt.figure()
+plt.imshow(myhsv, cmap='hsv')
 
 plt.show()
