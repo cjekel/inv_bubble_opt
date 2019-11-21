@@ -73,4 +73,7 @@ joblib.dump(scaler, 'minmaxscaler_28x28_10k.z')
 new_dataset = new_dataset.reshape((5*n_data, n_c, n_c, 3))
 
 # save the data
-np.save('10k28x28data.npy', new_dataset)
+# np.save('10k28x28data.npy', new_dataset)
+with h5py.File('10k28x28data.hdf5', 'w') as f: 
+    dset = f.create_dataset('10k28x28data', data=new_dataset,
+                            compression="gzip") 
