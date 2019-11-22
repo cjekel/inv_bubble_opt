@@ -77,10 +77,10 @@ if num_predictions == 3:
 # compute mean absolute percentage error
 e_m = np.abs((y_hat - y_test)/y_test)
 e_mape = e_m.mean(axis=0)
-print('E1 mape:', score[0]*100)
-print('E2 mape:', score[1]*100)
+print('E1 mape:', e_mape[0]*100)
+print('E2 mape:', e_mape[1]*100)
 if num_predictions == 3:
-    print('G12 mape:', score[2]*100)
+    print('G12 mape:', e_mape[2]*100)
 
 emax = np.max(e, axis=0)
 print('E1 max absolute error:', emax[0])
