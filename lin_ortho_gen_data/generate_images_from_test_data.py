@@ -106,20 +106,20 @@ for i in range(4):
         plt.title('Test' + str(i+1) +
                   ' Displacement x, Pressure: %8.2f bar' % pressures[j])
         plt.imshow(data[j, :, :, 0])
-        plt.savefig('test_data/dispx/test_' + str(i) + '_' + str(j) + '.png',
+        plt.savefig('test_data/dispx/test_' + str(i) + '_' + str(j).zfill(2) + '.png',
                     bbox_inches='tight')
         plt.figure()
         plt.title('Test' + str(i+1) +
                   ' Displacement y, Pressure: %8.2f bar' % pressures[j])
         plt.imshow(data[j, :, :, 1])
-        plt.savefig('test_data/dispy/test_' + str(i) + '_' + str(j) + '.png',
+        plt.savefig('test_data/dispy/test_' + str(i) + '_' + str(j).zfill(2) + '.png',
                     bbox_inches='tight')
 
         plt.figure()
         plt.title('Test' + str(i+1) +
                   ' Displacement z, Pressure: %8.2f bar' % pressures[j])
         plt.imshow(data[j, :, :, 2])
-        plt.savefig('test_data/dispz/test_' + str(i) + '_' + str(j) + '.png',
+        plt.savefig('test_data/dispz/test_' + str(i) + '_' + str(j).zfill(2) + '.png',
                     bbox_inches='tight')
         print(data[j, :, :, 0].max(), data[j, :, :, 1].max(), data[j, :, :, 2].max())
 
