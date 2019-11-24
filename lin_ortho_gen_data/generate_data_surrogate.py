@@ -24,11 +24,10 @@ def run_abq_model(x):
         suc = False
     return val, suc
 
-
+suc_count = 0
 for i in range(start_point, end_point+1):
     t0 = time()
     val, suc = run_abq_model(Y[i])
-    suc_count = 0
     if suc is True:
         if val == 0:
             val2 = invbubble.export_csv_files()
