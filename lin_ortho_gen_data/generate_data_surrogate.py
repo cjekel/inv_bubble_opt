@@ -25,7 +25,7 @@ def run_abq_model(x):
     return val, suc
 
 suc_count = 0
-for i in range(start_point, end_point+1):
+for i in range(start_point, end_point):
     t0 = time()
     val, suc = run_abq_model(Y[i])
     if suc is True:
