@@ -8,7 +8,14 @@ setup(
     package_data={'invbubble': ['VERSION']},
     url='https://jekel.me',
     license='MIT License',
-    description='wip',
-    long_description='wip: not ready for public release',
-    platforms=['any']
+    description='Tools for identifying material parameters from bulge inflation test data.',  # noqa E501
+    long_description='Tools for identifying material parameters from bulge inflation test data.',  # noqa E501
+    platforms=['any'],
+    install_requires=[
+        "numpy >= 1.14.0",
+        "scipy >= 1.2.0",
+        "pyDOE >= 0.3.8",
+        "pandas",
+        "joblib",
+    ],
 )
