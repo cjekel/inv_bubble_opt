@@ -49,8 +49,11 @@ dz = blue00[i, 0][5]  # displace in z at the ith pressure in mm
 
 # FE input decks
 
-| Material | Parameters | File location | link |
-| -------- | ---------- | ------------- | ---- |
-| isotropic | E | iso_one_param/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/iso_one_param/model/model_template.inp) |
-| isotropic | E, nu | iso_two_param/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/iso_two_param/model/model_template.inp) |
-| orthotropic | E1, E2, G12 | lin_ortho_known/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/lin_ortho_known/model/model_template.inp) |
+You must supply material values in place of the keyword in the *Material, name=Material-1 section in order for the input decks to run.
+
+| Material | Parameters | Keywords | File location | link |
+| -------- | ---------- | -------- | ------------- | ---- |
+| isotropic | E | E1_iso | iso_one_param/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/iso_one_param/model/model_template.inp) |
+| isotropic | E, nu | E1_iso, Nu12_iso | iso_two_param/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/iso_two_param/model/model_template.inp) |
+| orthotropic | E1, E2, G12 | E1_orth, E2_orth, G12_orth, E23_orth | lin_ortho_known/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/lin_ortho_known/model/model_template.inp) |
+
