@@ -17,6 +17,8 @@ cd inv_bubble_opt
 pip install invbubble_py_source/
 ```
 
+the required Python libries include: numpy, scipy, pyDOE, pandas, joblib
+
 # Experimental data
 
 | Test Number | Material | File Name | Google Drive | Mega |
@@ -57,3 +59,86 @@ You must supply material values in place of the keyword in the *Material, name=M
 | isotropic | E, nu | E1_iso, Nu12_iso | iso_two_param/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/iso_two_param/model/model_template.inp) |
 | orthotropic | E1, E2, G12 | E1_orth, E2_orth, G12_orth, E23_orth | lin_ortho_known/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/lin_ortho_known/model/model_template.inp) |
 
+# Optimization scripts
+
+To run the optimization files, create an alias to your abaqus solver as abq, such than the model.inp file could be solved using
+```
+abq job=model
+```
+Also make sure abq is in your path.
+
+The optimization object is typically constructed like the following
+
+```python
+    my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
+                                 None, None,
+                                 test_data=test_data,
+                                 weights=[1.0, 1.0, 1.0],
+                                 mat_model='iso-one')
+```
+
+where weights are the weights contains the weights on the dx, dy, dz residuals. Use weights=[1.0, 1.0, 1.0] for equal weight residuals. Use weights=[1.0, 1.0, 0.1] to weight the z residual 1/10 of the x and y residuals.
+
+
+## Calibration one parameter isotropic to a single test
+
+The process to run this optimization is as follows
+
+```
+cd iso_one_param
+cd model
+python ../ind01.py
+```
+
+Also see ind0*.py files. 
+
+## Calibration two parameter isotropic to a single test
+
+The process to run this optimization is as follows
+
+```
+cd iso_two_param
+cd model
+python ../ind01.py
+```
+
+Also see ind0*.py files. 
+
+## Calibration three parameter orthtropic to a single test
+
+The process to run this optimization is as follows
+
+```
+cd lin_ortho_known
+cd model
+python ../ind01.py
+```
+
+Also see ind0*.py files. 
+
+## Calibration to multiple tests (one parameter isotropic)
+
+Essentially supply multiple test data files as a Python list like so
+```python
+blue01 = np.load(os.path.join(homeuser, 'blue01_rotated_90.npy'),
+                    allow_pickle=True)
+blue02 = np.load(os.path.join(homeuser, 'blue02_rotated_90.npy'),
+                    allow_pickle=True)
+blue03 = np.load(os.path.join(homeuser, 'blue03.npy'),
+                    allow_pickle=True)
+test_data = [blue01, blue02, blue03] # <- this is the list 
+my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
+                                None, None,
+                                test_data=test_data,
+                                weights=[1.0, 1.0, 1.0])
+```
+
+The process to run this optimization is as follows
+
+```
+cd lin_ortho_known
+cd model
+python ../optimization_blue_cv01.py
+```
+
+Also see the various other optimization_blue_cv files in the corresponding directories. 
