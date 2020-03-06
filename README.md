@@ -30,3 +30,27 @@ pip install invbubble_py_source/
 | 7 | CF0700T | black03.npy | [link](https://drive.google.com/open?id=16zmo64WsyF5UTrcwz4tcZDzauCy1_7F2) | [link](https://mega.nz/#!hioUhIDJ!6PQGeX-MwP3Lb7rdB0i6pc_sGL0nAFvoR5BABe2jlJI) |
 | 8 | CF0700T | black04.npy | [link](https://drive.google.com/open?id=180fhBiXFSOl6OpbJ9MHZJ0B24f9r5pH5) | [link](https://mega.nz/#!Uv4GzI4Y!PVCwLWaFM__ed9_CqXyRoZt7x4u4h-MeBeqatDaKpc4) |
 
+The experimental data is stored as pickled binary numpy arrays. Note there is the potential for pickled binary numpy array to contain malware.
+
+The follow code is an example on how to open and slice the data file.
+
+```python
+import numpy as np
+blue00 = np.load('blue00.npy', allow_pickle=True)
+i = 1
+pressures = blue00[:, 1]  # inlation pressures in gigapascal (GPa)
+x = blue00[i, 0][0]  # x locations at the ith pressure in mm
+y = blue00[i, 0][1]  # y locations at the ith pressure in mm
+z = blue00[i, 0][2]  # z locations at the ith pressure in mm
+dx = blue00[i, 0][3]  # displace in x at the ith pressure in mm
+dy = blue00[i, 0][4]  # displace in y at the ith pressure in mm
+dz = blue00[i, 0][5]  # displace in z at the ith pressure in mm
+```
+
+# FE input decks
+
+| Material | Parameters | File location | link |
+| -------- | ---------- | ------------- | ---- |
+| isotropic | E | iso_one_param/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/iso_one_param/model/model_template.inp) |
+| isotropic | E, nu | iso_two_param/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/iso_two_param/model/model_template.inp) |
+| orthotropic | E1, E2, G12 | lin_ortho_known/model/model_template.inp | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/lin_ortho_known/model/model_template.inp) |
