@@ -197,7 +197,7 @@ class InterpolateThenRBF(object):
         for i, p in enumerate(Ps):
             newX = X_new[i][:, :2]
             Disp_new = X_new[i][:, 3:]
-            dx_new, dy_new, dz_new = self.calc_disp(newX, p)ba
+            dx_new, dy_new, dz_new = self.calc_disp(newX, p)
             dx_delta[i] = np.nanmean(np.abs(dx_new - Disp_new[:, 0]))
             dy_delta[i] = np.nanmean(np.abs(dy_new - Disp_new[:, 1]))
             dz_delta[i] = np.nanmean(np.abs(dz_new - Disp_new[:, 2]))
