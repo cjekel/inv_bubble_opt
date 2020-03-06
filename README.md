@@ -41,6 +41,7 @@ import numpy as np
 blue00 = np.load('blue00.npy', allow_pickle=True)
 i = 1
 pressures = blue00[:, 1]  # inlation pressures in gigapascal (GPa)
+print(pressures[i])  # the ith pressure in gigapascal (GPa)
 x = blue00[i, 0][0]  # x locations at the ith pressure in mm
 y = blue00[i, 0][1]  # y locations at the ith pressure in mm
 z = blue00[i, 0][2]  # z locations at the ith pressure in mm
