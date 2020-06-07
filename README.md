@@ -50,6 +50,17 @@ dy = blue00[i, 0][4]  # displace in y at the ith pressure in mm
 dz = blue00[i, 0][5]  # displace in z at the ith pressure in mm
 ```
 
+## Inflation videos
+
+The following are videos of the inflation of several tests.
+
+| Test Number | Material | Dx Video | Dy Video | Dz Video | Shape Video |
+| ----------- | -------- |:--------:|:--------:|:--------:|:-----------:|
+| 1 | VALMEX 7318 | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test0_dx.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test0_dy.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test0_dz.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test0_z.mp4?raw=true) | 
+| 2 | VALMEX 7318 | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test1_dx.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test1_dy.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test1_dz.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test1_z.mp4?raw=true) | 
+| 3 | VALMEX 7318 | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test2_dx.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test2_dy.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test2_dz.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test2_dz.mp4?raw=true) | 
+| 4 | VALMEX 7318 | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test3_dx.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test3_dy.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test3_dz.mp4?raw=true) | [link](https://github.com/cjekel/inv_bubble_opt/blob/master/videos/test3_dz.mp4?raw=true) | 
+
 # FE input decks
 
 You must supply material values in place of the keyword in the *Material, name=Material-1 section in order for the input decks to run.
