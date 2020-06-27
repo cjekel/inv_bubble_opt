@@ -58,14 +58,14 @@ if __name__ == "__main__":
             f[i] = my_opt.calc_obj_function_test_data(j)
         return f
 
-    bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.2, 0.4]},
-              {'name': 'var_2', 'type': 'continuous', 'domain': [0.18, 0.3]},
-              {'name': 'var_3', 'type': 'continuous', 'domain': [0.2, 0.6]}]
-    X = np.array([[0.22375600, 0.23479667, 0.27276717],
-                  [0.34281612, 0.24753703, 0.47521649],
-                  [0.29993751, 0.23220076, 0.44900705],
-                  [0.2800472, 0.24353683, 0.32121494],
-                  [0.22084207, 0.27291883, 0.36580145]])
+    bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.10, 0.4]},
+              {'name': 'var_2', 'type': 'continuous', 'domain': [0.05, 0.3]},
+              {'name': 'var_3', 'type': 'continuous', 'domain': [0.2, 1.0]}]
+    X = np.array([[0.21729489, 0.18,       0.45696582],
+                  [0.34281421, 0.24535698, 0.47569612],
+                  [0.22663279, 0.18564073, 0.46086685],
+                  [0.2,        0.18097237, 0.33507829],
+                  [0.3323988,  0.22538752, 0.55021972]]
     # Y = conv_my_obj(X).reshape(-1, 1)
     max_iter = 6
     np.random.seed(121)
@@ -84,12 +84,12 @@ if __name__ == "__main__":
     # print('Function value:', myBopt.fx_opt)
 
     my_bounds = np.zeros((3, 2))
-    my_bounds[0, 0] = 0.2
+    my_bounds[0, 0] = 0.1
     my_bounds[0, 1] = 0.4
-    my_bounds[1, 0] = 0.18
+    my_bounds[1, 0] = 0.05
     my_bounds[1, 1] = 0.3
     my_bounds[2, 0] = 0.2
-    my_bounds[2, 1] = 0.6
+    my_bounds[2, 1] = 1.0
 
     # def de_obj(X):
     #     y_hat, _ = myBopt.model.predict(X)
