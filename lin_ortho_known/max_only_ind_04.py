@@ -50,7 +50,7 @@ if __name__ == "__main__":
     my_opt = invbubble.BubbleOpt(opt_hist_file, header, max_obj,
                                  None, None,
                                  test_data=test_data,
-                                 weights=[1.0, 1.0, 1.0])
+                                 weights=[1.0, 1.0, 0.103])
 
     def conv_my_obj(x):
         f = np.zeros(x.shape[0])
@@ -61,11 +61,11 @@ if __name__ == "__main__":
     bounds = [{'name': 'var_1', 'type': 'continuous', 'domain': [0.10, 0.4]},
               {'name': 'var_2', 'type': 'continuous', 'domain': [0.05, 0.3]},
               {'name': 'var_3', 'type': 'continuous', 'domain': [0.2, 1.0]}]
-    X = np.array([[0.20896348, 0.20067558, 0.27545442],
-                  [0.2,        0.18,       0.48019301],
-                  [0.2,        0.18,       0.45432204],
-                  [0.2,        0.18,       0.32731983],
-                  [0.2,        0.18,       0.37458936]])
+    X = np.array([[0.22375600, 0.23479667, 0.27276717],
+                  [0.34281612, 0.24753703, 0.47521649],
+                  [0.29993751, 0.23220076, 0.44900705],
+                  [0.2800472, 0.24353683, 0.32121494],
+                  [0.22084207, 0.27291883, 0.36580145]])
     # Y = conv_my_obj(X).reshape(-1, 1)
     max_iter = 6
     np.random.seed(121)
