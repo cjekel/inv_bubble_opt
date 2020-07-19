@@ -55,4 +55,3 @@ for test in material_models:
         export_csv_files()
         X, Disp = read_csv_files(save=True, fn=filename)
     delete_files()
-    break
