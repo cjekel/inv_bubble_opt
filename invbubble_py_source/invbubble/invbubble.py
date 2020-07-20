@@ -225,7 +225,9 @@ class InterpolateSimpleRBF(object):
         self.xy = X[0, :, :2]
         self.Disp = Disp
 
-    def calc_disp(self, Xnew, p):
+    def calc_disp(self, Xnew, p, xy=None):
+        if xy is None:
+            xy = self.xy
         # check for equality
         ind = np.argwhere(p == self.p)
         if ind.size == 0:
@@ -244,13 +246,13 @@ class InterpolateSimpleRBF(object):
             x1 = self.Disp[ub, :, :]
             x0 = self.Disp[lb, :, :]
             delta = ((pt*(x1 - x0)) / dp) + x0
-            dx = rbf_function(self.xy, delta[:, 0], Xnew[:, :2])
-            dy = rbf_function(self.xy, delta[:, 1], Xnew[:, :2])
-            dz = rbf_function(self.xy, delta[:, 2], Xnew[:, :2])
+            dx = rbf_function(xy, delta[:, 0], Xnew[:, :2])
+            dy = rbf_function(xy, delta[:, 1], Xnew[:, :2])
+            dz = rbf_function(xy, delta[:, 2], Xnew[:, :2])
         else:
-            dx = rbf_function(self.xy, ind[:, 0], Xnew[:, :2])
-            dy = rbf_function(self.xy, ind[:, 1], Xnew[:, :2])
-            dz = rbf_function(self.xy, ind[:, 2], Xnew[:, :2])
+            dx = rbf_function(xy, ind[:, 0], Xnew[:, :2])
+            dy = rbf_function(xy, ind[:, 1], Xnew[:, :2])
+            dz = rbf_function(xy, ind[:, 2], Xnew[:, :2])
         return dx, dy, dz
 
     def calc_delta_test_par(self, i):
