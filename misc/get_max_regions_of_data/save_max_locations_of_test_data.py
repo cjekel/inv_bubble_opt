@@ -22,8 +22,8 @@ max_dz = np.array([[0.0, 0.0]])
 for i in range(4):
     dataset = np.load(os.path.join(homeuser, datanames[i]), allow_pickle=True)
     new_dataset = []
-    xyz_dataset = np.empty((3, 6))
     for j in range(len(dataset)):
+        xyz_dataset = np.empty((3, 6))
         xyz_dataset.fill(np.nan)
         p = dataset[j, 1]
         # find the data points closes to the max_x, max_y, and max_z
