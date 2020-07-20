@@ -50,4 +50,4 @@ for i in range(4):
         xyz_dataset[2, 5] = dataset[j, 0][d_ind, 5]
         new_dataset.append([xyz_dataset, p])
 
-    np.save('new_max_only_' + datanames[i], new_dataset)
+    np.save('z_max_only_' + datanames[i], new_dataset)
