@@ -38,7 +38,7 @@ count = 0
 n_pred = 1000
 X = np.load('../../material_model_results/xy_model.npy')
 # labels = ['loc', 'loc_w', 'max', 'max_w']
-labels = ['loc', 'loc_w', 'max z']
+labels = [r'$e$', r'$e_w$', r'$e_z$']
 
 for i, test in enumerate([blue00, blue01, blue02, blue03]):
     disp_loc = np.load('../../material_model_results/loc_0' + str(i+1) + '.npy')
@@ -63,40 +63,9 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         data_x_0 = data[logic_1]
         data_y_0 = data[logic_2]
 
-        # find y_min and y_max index
-        y_min_ind = np.argmin(data_x_0[:, 1])
-        y_max_ind = np.argmax(data_x_0[:, 1])
 
-        xy = np.zeros((n_pred, 2))
-        xy[:, 0] = np.linspace(data_x_0[y_min_ind, 0], data_x_0[y_max_ind, 0], num=n_pred)
-        xy[:, 1] = np.linspace(data_x_0[y_min_ind, 1], data_x_0[y_max_ind, 1], num=n_pred)
-
-        # calc values
-        dx_loc, dy_loc, dz_loc = int_loc.calc_disp(xy, p)
-        dx_loc_w, dy_loc_w, dz_loc_w = int_loc_w.calc_disp(xy, p)
-        dx_max_loc, dy_max_loc, dz_max_loc = int_max_loc.calc_disp(xy, p)
-        dx_max_loc_w, dy_max_loc_w, dz_max_loc_w = int_max_w_loc.calc_disp(xy, p)
-        dx_max_z, dy_max_z, dz_max_z = int_max_z.calc_disp(xy, p)
-
-        plt.figure(figsize=(10, 6))
+        fig = plt.figure(figsize=(10, 6))
         plt.subplot(211)
-
-        plt.title('Test ' + str(count+1) + ", " + str(round(p*1e4, 3)) + " bar")
-        # plt.plot(data_x_0[:, 1] + data_x_0[:, 4], data_x_0[:, 2] + data_x_0[:, 5], '.')
-        plt.plot(data_x_0[:, 1] + data_x_0[:, 4], data_x_0[:, 5], '.', label='test')
-        plt.plot(xy[:, 1] + dy_loc, dz_loc, '-', label=labels[0])
-        plt.plot(xy[:, 1] + dy_loc_w, dz_loc_w, '--', label=labels[1])
-        plt.plot(xy[:, 1] + dy_max_z, dz_max_z, '--', label=labels[2])
-        # plt.plot(xy[:, 1] + dy_max_loc, dz_max_loc, '-', label=labels[2])
-        # plt.plot(xy[:, 1] + dy_max_loc_w, dz_max_loc_w, '--', label=labels[3])
-
-        plt.xlabel(r'$y$')
-        plt.ylabel(r'$z$')
-        plt.yticks(np.linspace(0, 45, num=10))
-        plt.xticks(np.linspace(-100, 100, num=9))
-        # plt.axis('equal')
-        plt.legend()
-        # plt.savefig('figs/X=0_Test_' + str(count) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
 
         # find x_min and x_max index
         x_min_ind = np.argmin(data_y_0[:, 0])
@@ -112,24 +81,52 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         dx_max_loc, dy_max_loc, dz_max_loc = int_max_loc.calc_disp(xy, p)
         dx_max_loc_w, dy_max_loc_w, dz_max_loc_w = int_max_w_loc.calc_disp(xy, p)
         dx_max_z, dy_max_z, dz_max_z = int_max_z.calc_disp(xy, p)
-
-        # plt.figure(figsize=(10, 6))
-        # plt.title('Test ' + str(count+1) + " P= " + str(p))
-        plt.subplot(212)
-        # plt.plot(data_y_0[:, 0] + data_y_0[:, 3], data_y_0[:, 2] + data_y_0[:, 5], '.')
+        plt.title('Test ' + str(count+1) + ", " + str(round(p*1e4, 3)) + " bar", fontsize=14)
         plt.plot(data_y_0[:, 0] + data_y_0[:, 3], data_y_0[:, 5], '.', label='test')
         plt.plot(xy[:, 0] + dx_loc, dz_loc, '-', label=labels[0])
         plt.plot(xy[:, 0] + dx_loc_w, dz_loc_w, '--', label=labels[1])
         plt.plot(xy[:, 0] + dx_max_z, dz_max_z, '--', label=labels[2])
-        # plt.plot(xy[:, 0] + dx_max_loc, dz_max_loc, '-', label=labels[2])
-        # plt.plot(xy[:, 0] + dx_max_loc_w, dz_max_loc_w, '--', label=labels[3])
-        plt.xlabel(r'$x$')
-        plt.ylabel(r'$z$')
-        # plt.axis('equal')
+        plt.xlabel(r'$x$', fontsize=14)
+        plt.ylabel(r'$z$', fontsize=14)
         plt.yticks(np.linspace(0, 45, num=10))
         plt.xticks(np.linspace(-100, 100, num=9))
-        plt.legend()
-        plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
+
+        # plt.axis('equal')
+        plt.legend(fontsize=14)
+
+
+
+        # plt.figure(figsize=(10, 6))
+        # plt.title('Test ' + str(count+1) + " P= " + str(p))
+        plt.subplot(212)
+        fig.tight_layout(pad=0.25)
+
+        # find y_min and y_max index
+        y_min_ind = np.argmin(data_x_0[:, 1])
+        y_max_ind = np.argmax(data_x_0[:, 1])
+
+        xy = np.zeros((n_pred, 2))
+        xy[:, 0] = np.linspace(data_x_0[y_min_ind, 0], data_x_0[y_max_ind, 0], num=n_pred)
+        xy[:, 1] = np.linspace(data_x_0[y_min_ind, 1], data_x_0[y_max_ind, 1], num=n_pred)
+
+        # calc values
+        dx_loc, dy_loc, dz_loc = int_loc.calc_disp(xy, p)
+        dx_loc_w, dy_loc_w, dz_loc_w = int_loc_w.calc_disp(xy, p)
+        dx_max_loc, dy_max_loc, dz_max_loc = int_max_loc.calc_disp(xy, p)
+        dx_max_loc_w, dy_max_loc_w, dz_max_loc_w = int_max_w_loc.calc_disp(xy, p)
+        dx_max_z, dy_max_z, dz_max_z = int_max_z.calc_disp(xy, p)
+        plt.plot(data_x_0[:, 1] + data_x_0[:, 4], data_x_0[:, 5], '.', label='test')
+        plt.plot(xy[:, 1] + dy_loc, dz_loc, '-', label=labels[0])
+        plt.plot(xy[:, 1] + dy_loc_w, dz_loc_w, '--', label=labels[1])
+        plt.plot(xy[:, 1] + dy_max_z, dz_max_z, '--', label=labels[2])
+        plt.xlabel(r'$y$', fontsize=14)
+        plt.ylabel(r'$z$', fontsize=14)
+        plt.yticks(np.linspace(0, 45, num=10))
+        plt.xticks(np.linspace(-100, 100, num=9))
+        plt.legend(fontsize=14)
+        # plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
+        plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
+
     count += 1
         # break
     # break
