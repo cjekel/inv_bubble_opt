@@ -124,8 +124,8 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         plt.yticks(np.linspace(0, 45, num=10))
         plt.xticks(np.linspace(-100, 100, num=9))
         plt.legend(fontsize=14)
-        # plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
-        plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
+        plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
+        # plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
 
     count += 1
         # break
