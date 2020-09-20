@@ -87,7 +87,7 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         plt.plot(xy[:, 0] + dx_loc_w, dz_loc_w, '--', label=labels[1])
         plt.plot(xy[:, 0] + dx_max_z, dz_max_z, '--', label=labels[2])
         plt.xlabel(r'$x$', fontsize=14)
-        plt.ylabel(r'$z$', fontsize=14)
+        plt.ylabel(r'$\Delta z$', fontsize=14)
         plt.yticks(np.linspace(0, 45, num=10))
         plt.xticks(np.linspace(-100, 100, num=9))
 
@@ -120,12 +120,12 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         plt.plot(xy[:, 1] + dy_loc_w, dz_loc_w, '--', label=labels[1])
         plt.plot(xy[:, 1] + dy_max_z, dz_max_z, '--', label=labels[2])
         plt.xlabel(r'$y$', fontsize=14)
-        plt.ylabel(r'$z$', fontsize=14)
+        plt.ylabel(r'$\Delta z$', fontsize=14)
         plt.yticks(np.linspace(0, 45, num=10))
         plt.xticks(np.linspace(-100, 100, num=9))
         plt.legend(fontsize=14)
-        plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
-        # plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
+        # plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
+        plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
 
     count += 1
         # break
