@@ -92,7 +92,7 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         plt.xticks(np.linspace(-100, 100, num=9))
 
         # plt.axis('equal')
-        plt.legend(fontsize=14)
+        plt.legend(fontsize=14, loc=2)
 
 
 
@@ -123,9 +123,9 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         plt.ylabel(r'$\Delta y$', fontsize=14)
         plt.yticks(np.linspace(-5, 5, num=10))
         plt.xticks(np.linspace(-100, 100, num=9))
-        plt.legend(fontsize=14)
-        # plt.savefig('figs_dx_dy/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
-        plt.savefig('figs_dx_dy/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
+        plt.legend(fontsize=14, loc=2)
+        plt.savefig('figs_dx_dy/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
+        # plt.savefig('figs_dx_dy/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
         # break
     count += 1
         # break
