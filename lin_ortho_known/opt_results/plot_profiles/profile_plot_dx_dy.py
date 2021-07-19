@@ -81,18 +81,18 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         dx_max_loc, dy_max_loc, dz_max_loc = int_max_loc.calc_disp(xy, p)
         dx_max_loc_w, dy_max_loc_w, dz_max_loc_w = int_max_w_loc.calc_disp(xy, p)
         dx_max_z, dy_max_z, dz_max_z = int_max_z.calc_disp(xy, p)
-        plt.title('Test ' + str(count+1) + ", " + str(round(p*1e4, 3)) + " bar", fontsize=14)
+        plt.title('Test ' + str(count+1) + ", " + str(round(p*1e4, 3)) + " bar", fontsize=18)
         plt.plot(data_y_0[:, 0] + data_y_0[:, 3], data_y_0[:, 3], '.', label='test')
         plt.plot(xy[:, 0] + dx_loc, dx_loc, '-', label=labels[0])
         plt.plot(xy[:, 0] + dx_loc_w, dx_loc_w, '--', label=labels[1])
         plt.plot(xy[:, 0] + dx_max_z, dx_max_z, '--', label=labels[2])
-        plt.xlabel(r'$x$', fontsize=14)
-        plt.ylabel(r'$\Delta x$', fontsize=14)
+        plt.xlabel(r'$x$', fontsize=18)
+        plt.ylabel(r'$\Delta x$', fontsize=18)
         plt.yticks(np.linspace(-5, 5, num=10))
         plt.xticks(np.linspace(-100, 100, num=9))
 
         # plt.axis('equal')
-        plt.legend(fontsize=14, loc=2)
+        plt.legend(fontsize=18, loc=2)
 
 
 
@@ -119,13 +119,13 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         plt.plot(xy[:, 1] + dy_loc, dy_loc, '-', label=labels[0])
         plt.plot(xy[:, 1] + dy_loc_w, dy_loc_w, '--', label=labels[1])
         plt.plot(xy[:, 1] + dy_max_z, dy_max_z, '--', label=labels[2])
-        plt.xlabel(r'$y$', fontsize=14)
-        plt.ylabel(r'$\Delta y$', fontsize=14)
+        plt.xlabel(r'$y$', fontsize=18)
+        plt.ylabel(r'$\Delta y$', fontsize=18)
         plt.yticks(np.linspace(-5, 5, num=10))
         plt.xticks(np.linspace(-100, 100, num=9))
-        plt.legend(fontsize=14, loc=2)
-        plt.savefig('figs_dx_dy/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
-        # plt.savefig('figs_dx_dy/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
+        plt.legend(fontsize=18, loc=2)
+        # plt.savefig('figs_dx_dy/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
+        plt.savefig('figs_dx_dy/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
         # break
     count += 1
         # break
