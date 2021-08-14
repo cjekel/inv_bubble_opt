@@ -88,18 +88,20 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         # compute RMSE
         f = interp1d(data_y_0[:, 0] + data_y_0[:, 3], data_y_0[:, 5], fill_value='extrapolate')
 
+
         def rmse(x, y):
             yhat = f(x)
-            e = np.square(yhat, y)
-            ssr = e.sum()
-            return np.sqrt(ssr)/x.size
+            e = yhat - y
+            ssr = np.square(e).sum()
+            return ssr/x.size
+
 
         rmsea = rmse(xy[:, 0] + dx_loc, dz_loc)
         rmseb = rmse(xy[:, 0] + dx_loc_w, dz_loc_w)
         rmsec = rmse(xy[:, 0] + dx_max_z, dz_max_z)
-        plt.plot(xy[:, 0] + dx_loc, dz_loc, '-', label=labels[0] + f' RMSE: {rmsea:.2f}')
-        plt.plot(xy[:, 0] + dx_loc_w, dz_loc_w, '--', label=labels[1]+ f' RMSE: {rmseb:.2f}')
-        plt.plot(xy[:, 0] + dx_max_z, dz_max_z, '--', label=labels[2]+ f' RMSE: {rmsec:.2f}')
+        plt.plot(xy[:, 0] + dx_loc, dz_loc, '-', label=labels[0] + f', MSE: {rmsea:.2f}')
+        plt.plot(xy[:, 0] + dx_loc_w, dz_loc_w, '--', label=labels[1]+ f', MSE: {rmseb:.2f}')
+        plt.plot(xy[:, 0] + dx_max_z, dz_max_z, '--', label=labels[2]+ f', MSE: {rmsec:.2f}')
         plt.xlabel(r'$x$', fontsize=18)
         plt.ylabel(r'$\Delta z$', fontsize=18)
         plt.yticks(np.linspace(0, 45, num=10))
@@ -135,16 +137,17 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         rmsea = rmse(xy[:, 1] + dy_loc, dz_loc)
         rmseb = rmse(xy[:, 1] + dy_loc_w, dz_loc_w)
         rmsec = rmse(xy[:, 1] + dy_max_z, dz_max_z)
-        plt.plot(xy[:, 1] + dy_loc, dz_loc, '-', label=labels[0]+ f' RMSE: {rmsea:.2f}')
-        plt.plot(xy[:, 1] + dy_loc_w, dz_loc_w, '--', label=labels[1]+ f' RMSE: {rmseb:.2f}')
-        plt.plot(xy[:, 1] + dy_max_z, dz_max_z, '--', label=labels[2]+ f' RMSE: {rmsec:.2f}')
+        plt.plot(xy[:, 1] + dy_loc, dz_loc, '-', label=labels[0]+ f', MSE: {rmsea:.2f}')
+        plt.plot(xy[:, 1] + dy_loc_w, dz_loc_w, '--', label=labels[1]+ f', MSE: {rmseb:.2f}')
+        plt.plot(xy[:, 1] + dy_max_z, dz_max_z, '--', label=labels[2]+ f', MSE: {rmsec:.2f}')
         plt.xlabel(r'$y$', fontsize=18)
         plt.ylabel(r'$\Delta z$', fontsize=18)
         plt.yticks(np.linspace(0, 45, num=10))
         plt.xticks(np.linspace(-100, 100, num=9))
         plt.legend(fontsize=18)
-        plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
-        # plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
+        # plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png',
+        #             bbox_inches='tight')
+        plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
         plt.close()
 
     count += 1
