@@ -23,6 +23,8 @@ import numpy as np
 import os
 import matplotlib.pyplot as plt
 from invbubble import InterpolateSimpleRBF
+from scipy.interpolate import interp1d
+
 # load the test data
 homeuser = os.path.expanduser('~')
 blue00 = np.load(os.path.join(homeuser, 'blue00.npy'), allow_pickle=True)
@@ -83,9 +85,21 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         dx_max_z, dy_max_z, dz_max_z = int_max_z.calc_disp(xy, p)
         plt.title('Test ' + str(count+1) + ", " + str(round(p*1e4, 3)) + " bar", fontsize=18)
         plt.plot(data_y_0[:, 0] + data_y_0[:, 3], data_y_0[:, 5], '.', label='test')
-        plt.plot(xy[:, 0] + dx_loc, dz_loc, '-', label=labels[0])
-        plt.plot(xy[:, 0] + dx_loc_w, dz_loc_w, '--', label=labels[1])
-        plt.plot(xy[:, 0] + dx_max_z, dz_max_z, '--', label=labels[2])
+        # compute RMSE
+        f = interp1d(data_y_0[:, 0] + data_y_0[:, 3], data_y_0[:, 5], fill_value='extrapolate')
+
+        def rmse(x, y):
+            yhat = f(x)
+            e = np.square(yhat, y)
+            ssr = e.sum()
+            return np.sqrt(ssr)/x.size
+
+        rmsea = rmse(xy[:, 0] + dx_loc, dz_loc)
+        rmseb = rmse(xy[:, 0] + dx_loc_w, dz_loc_w)
+        rmsec = rmse(xy[:, 0] + dx_max_z, dz_max_z)
+        plt.plot(xy[:, 0] + dx_loc, dz_loc, '-', label=labels[0] + f' RMSE: {rmsea:.2f}')
+        plt.plot(xy[:, 0] + dx_loc_w, dz_loc_w, '--', label=labels[1]+ f' RMSE: {rmseb:.2f}')
+        plt.plot(xy[:, 0] + dx_max_z, dz_max_z, '--', label=labels[2]+ f' RMSE: {rmsec:.2f}')
         plt.xlabel(r'$x$', fontsize=18)
         plt.ylabel(r'$\Delta z$', fontsize=18)
         plt.yticks(np.linspace(0, 45, num=10))
@@ -116,9 +130,14 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         dx_max_loc_w, dy_max_loc_w, dz_max_loc_w = int_max_w_loc.calc_disp(xy, p)
         dx_max_z, dy_max_z, dz_max_z = int_max_z.calc_disp(xy, p)
         plt.plot(data_x_0[:, 1] + data_x_0[:, 4], data_x_0[:, 5], '.', label='test')
-        plt.plot(xy[:, 1] + dy_loc, dz_loc, '-', label=labels[0])
-        plt.plot(xy[:, 1] + dy_loc_w, dz_loc_w, '--', label=labels[1])
-        plt.plot(xy[:, 1] + dy_max_z, dz_max_z, '--', label=labels[2])
+        f = interp1d(data_x_0[:, 1] + data_x_0[:, 4], data_x_0[:, 5], fill_value='extrapolate')
+
+        rmsea = rmse(xy[:, 1] + dy_loc, dz_loc)
+        rmseb = rmse(xy[:, 1] + dy_loc_w, dz_loc_w)
+        rmsec = rmse(xy[:, 1] + dy_max_z, dz_max_z)
+        plt.plot(xy[:, 1] + dy_loc, dz_loc, '-', label=labels[0]+ f' RMSE: {rmsea:.2f}')
+        plt.plot(xy[:, 1] + dy_loc_w, dz_loc_w, '--', label=labels[1]+ f' RMSE: {rmseb:.2f}')
+        plt.plot(xy[:, 1] + dy_max_z, dz_max_z, '--', label=labels[2]+ f' RMSE: {rmsec:.2f}')
         plt.xlabel(r'$y$', fontsize=18)
         plt.ylabel(r'$\Delta z$', fontsize=18)
         plt.yticks(np.linspace(0, 45, num=10))
@@ -126,6 +145,7 @@ for i, test in enumerate([blue00, blue01, blue02, blue03]):
         plt.legend(fontsize=18)
         plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.png', bbox_inches='tight')
         # plt.savefig('figs/Test_' + str(count+1) + "_j=" + str(j).zfill(2) + '.pdf', bbox_inches='tight')
+        plt.close()
 
     count += 1
         # break
